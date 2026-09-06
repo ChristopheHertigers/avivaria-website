@@ -1,57 +1,50 @@
 {
-  "$ref": "#/definitions/testimonialSection",
-  "definitions": {
-    "testimonialSection": {
-      "type": "object",
-      "properties": {
-        "enable": {
-          "type": "boolean"
-        },
-        "title": {
-          "type": "string"
-        },
-        "description": {
-          "type": "string"
-        },
-        "testimonials": {
-          "type": "array",
-          "items": {
-            "type": "object",
-            "properties": {
-              "name": {
-                "type": "string"
-              },
-              "avatar": {
-                "type": "string"
-              },
-              "designation": {
-                "type": "string"
-              },
-              "content": {
-                "type": "string"
-              }
-            },
-            "required": [
-              "name",
-              "avatar",
-              "designation",
-              "content"
-            ],
-            "additionalProperties": false
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "enable": {
+      "type": "boolean"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "testimonials": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "avatar": {
+            "type": "string"
+          },
+          "designation": {
+            "type": "string"
+          },
+          "content": {
+            "type": "string"
           }
         },
-        "$schema": {
-          "type": "string"
-        }
-      },
-      "required": [
-        "enable",
-        "title",
-        "description",
-        "testimonials"
-      ],
-      "additionalProperties": false
+        "required": [
+          "name",
+          "avatar",
+          "designation",
+          "content"
+        ]
+      }
+    },
+    "$schema": {
+      "type": "string"
     }
   },
-  "$schema": "http://json-schema.org/draft-07/schema#"
+  "required": [
+    "enable",
+    "title",
+    "description",
+    "testimonials"
+  ]
 }

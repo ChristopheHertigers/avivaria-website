@@ -23,11 +23,11 @@ const getData = (folder, groupDepth) => {
       const { data, content } = matter(file);
       const pathParts = filepath.split(path.sep);
       const slug =
-        data.slug ||
-        pathParts
-          .slice(CONTENT_DEPTH)
-          .join("/")
-          .replace(/\.[^/.]+$/, "");
+          data.slug ||
+          pathParts
+              .slice(CONTENT_DEPTH)
+              .join("/")
+              .replace(/\.[^/.]+$/, "");
       const group = pathParts[groupDepth];
 
       return {
@@ -52,8 +52,8 @@ try {
 
   // create json files
   fs.writeFileSync(
-    `${JSON_FOLDER}/posts.json`,
-    JSON.stringify(getData(BLOG_FOLDER, 2)),
+      `${JSON_FOLDER}/posts.json`,
+      JSON.stringify(getData(BLOG_FOLDER, 2)),
   );
 
   // merger json files for search

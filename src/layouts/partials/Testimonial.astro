@@ -55,8 +55,8 @@ const swiperOptions: SwiperOptions = {
                     designation: string;
                   }) => (
                     <SwiperSlide>
-                      <div class="rounded-lg bg-light px-7 py-10 dark:bg-darkmode-light">
-                        <div class="text-text-dark dark:text-white">
+                      <div class="rounded-lg bg-light px-7 py-10 ">
+                        <div class="text-text-dark ">
                           <svg
                             width="33"
                             height="20"
@@ -75,7 +75,7 @@ const swiperOptions: SwiperOptions = {
                           set:html={markdownify(item.content)}
                         />
                         <div class="mt-11 flex items-center">
-                          <div class="text-text-dark dark:text-white">
+                          <div class="text-text-dark ">
                             <ImageMod
                               height={50}
                               width={50}
@@ -92,7 +92,7 @@ const swiperOptions: SwiperOptions = {
                             />
                             <p
                               set:text={item.designation}
-                              class="text-text-dark dark:text-white"
+                              class="text-text-dark "
                             />
                           </div>
                         </div>

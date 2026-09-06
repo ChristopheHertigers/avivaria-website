@@ -1,0 +1,52 @@
+---
+import NewsCard from "@/components/NewsCard.astro";
+import Pagination from "@/components/Pagination.astro";
+import config from "@/config/config.json";
+import Base from "@/layouts/Base.astro";
+import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
+import { sortByDate } from "@/lib/utils/sortFunctions";
+import PageHeader from "@/partials/PageHeader.astro";
+
+const NEWS_FOLDER = "news";
+
+const postIndex = await getListPage(NEWS_FOLDER, "-index");
+if (postIndex.data.draft) {
+  return Astro.redirect("/404");
+}
+const newsPosts = await getSinglePage(NEWS_FOLDER);
+const sortedPosts = sortByDate(newsPosts);
+const totalPages: number = Math.ceil(newsPosts.length / config.settings.pagination);
+const currentPosts = sortedPosts.slice(0, config.settings.pagination);
+---
+
+<Base
+  title={postIndex.data.title}
+  meta_title={postIndex.data.title}
+  image={postIndex.data.image}
+  description={postIndex.data.description}
+>
+  <PageHeader title={postIndex?.data.title} />
+  <section class="section">
+    <div class="container">
+      <div class="row gx-5">
+        <!-- news posts -->
+        <div class="lg:col-12">
+          <div class="row">
+            {
+              currentPosts.map((post) => (
+                <div class="mb-14 md:col-6">
+                  <NewsCard data={post} />
+                </div>
+              ))
+            }
+          </div>
+          <Pagination
+            section={NEWS_FOLDER}
+            currentPage={1}
+            totalPages={totalPages}
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>

@@ -27,7 +27,7 @@ const toKebab = (str) => str.replace(/_/g, "-");
 
 // Helper to extract a clean font name
 const findFont = (fontStr) =>
-  fontStr.replace(/\+/g, " ").replace(/:[^:]+/g, "");
+    fontStr.replace(/\+/g, " ").replace(/:[^:]+/g, "");
 
 /**
  * Add color entries to CSS array
@@ -38,8 +38,8 @@ const findFont = (fontStr) =>
 function addColorsToCss(cssLines, colors, prefix = "") {
   Object.entries(colors).forEach(([key, value]) => {
     const colorName = prefix
-      ? `--color-${prefix}-${toKebab(key)}`
-      : `--color-${toKebab(key)}`;
+        ? `--color-${prefix}-${toKebab(key)}`
+        : `--color-${toKebab(key)}`;
     cssLines.push(`  ${colorName}: ${value};`);
   });
 }
@@ -61,7 +61,7 @@ function generateThemeCSS() {
     // Validate required theme structure
     if (!themeConfig.colors || !themeConfig.fonts) {
       throw new Error(
-        "Invalid theme.json: missing 'colors' or 'fonts' section",
+          "Invalid theme.json: missing 'colors' or 'fonts' section",
       );
     }
 
@@ -93,17 +93,17 @@ function generateThemeCSS() {
 
       if (themeConfig.colors.darkmode.theme_color) {
         addColorsToCss(
-          cssLines,
-          themeConfig.colors.darkmode.theme_color,
-          "darkmode",
+            cssLines,
+            themeConfig.colors.darkmode.theme_color,
+            "darkmode",
         );
       }
 
       if (themeConfig.colors.darkmode.text_color) {
         addColorsToCss(
-          cssLines,
-          themeConfig.colors.darkmode.text_color,
-          "darkmode",
+            cssLines,
+            themeConfig.colors.darkmode.text_color,
+            "darkmode",
         );
       }
     }
@@ -112,12 +112,12 @@ function generateThemeCSS() {
     cssLines.push("", "  /* === Font Families === */");
     const fontFamily = themeConfig.fonts.font_family || {};
     Object.entries(fontFamily)
-      .filter(([key]) => !key.includes("type"))
-      .forEach(([key, font]) => {
-        const fontFallback = fontFamily[`${key}_type`] || "sans-serif";
-        const fontValue = `${findFont(font)}, ${fontFallback}`;
-        cssLines.push(`  --font-${toKebab(key)}: ${fontValue};`);
-      });
+        .filter(([key]) => !key.includes("type"))
+        .forEach(([key, font]) => {
+          const fontFallback = fontFamily[`${key}_type`] || "sans-serif";
+          const fontValue = `${findFont(font)}, ${fontFallback}`;
+          cssLines.push(`  --font-${toKebab(key)}: ${fontValue};`);
+        });
 
     // Add font sizes
     cssLines.push("", "  /* === Font Sizes === */");

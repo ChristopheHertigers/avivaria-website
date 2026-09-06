@@ -1,0 +1,75 @@
+---
+import ImageMod from "@/components/ImageMod.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import {
+  Swiper,
+  SwiperPagination,
+  SwiperSlide,
+  SwiperWrapper,
+} from "astro-swiper";
+import type { SwiperOptions } from "swiper/types";
+
+const { sponsor } = Astro.props;
+
+const swiperOptions: SwiperOptions = {
+  spaceBetween: 24,
+  loop: true,
+  autoplay: {
+    delay: 2500,
+    disableOnInteraction: false,
+  },
+  pagination: {
+    el: ".sponsor-slider-pagination",
+    type: "bullets",
+    clickable: true,
+    dynamicBullets: false,
+  },
+  breakpoints: {
+    768: {
+      slidesPerView: 2,
+    },
+    992: {
+      slidesPerView: 3,
+    },
+  },
+};
+---
+
+{
+  sponsor.data.enable && (
+    <section class="section">
+      <div class="container">
+        <div class="row">
+          <div class="mx-auto mb-12 text-center md:col-10 lg:col-8 xl:col-6">
+            <h2 set:html={markdownify(sponsor.data.title)} class="mb-4" />
+            <p set:html={markdownify(sponsor.data.description)} />
+          </div>
+          <div class="col-12">
+            <Swiper options={swiperOptions} class="sponsor-slider">
+              <SwiperWrapper class={"mb-12"}>
+                {sponsor.data.sponsors.map(
+                  (item: {
+                    name: string;
+                    logo: string;
+                    height: number;
+                    width: number;
+                    link: string;
+                  }) => (
+                    <SwiperSlide>
+                      <div class="rounded-lg bg-light px-7 py-10 h-[416px] flex items-center">
+                        <a href={item.link} target="_blank">
+                          <ImageMod alt={item.name} height={item.height} src={item.logo} width={item.width} format="webp"/>
+                        </a>
+                      </div>
+                    </SwiperSlide>
+                  )
+                )}
+              </SwiperWrapper>
+              <SwiperPagination class="sponsor-slider-pagination flex items-center justify-center" />
+            </Swiper>
+          </div>
+        </div>
+      </div>
+    </section>
+  )
+}

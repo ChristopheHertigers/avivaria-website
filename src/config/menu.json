@@ -1,57 +1,109 @@
 {
   "main": [
     {
-      "name": "Home",
-      "url": "/"
-    },
-    {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Pages",
+      "name": "Onze vereniging",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Contact",
+          "name": "Over ons",
+          "url": "/over-ons"
+        },
+        {
+          "name": "Lidgeld",
+          "url": "/lidgeld"
+        },
+        {
+          "name": "Ringen en oormerken",
+          "url": "/ringen-en-oormerken"
+        },
+        {
+          "name": "Ring- en kooimaten",
+          "url": "/ring-en-kooimaten"
+        },
+        {
+          "name": "Fokkerskaart",
+          "url": "/fokkerskaart"
+        },
+        {
+          "name": "Clublokaal",
+          "url": "/clublokaal"
+        }
+      ]
+    },
+    {
+      "name": "Actueel",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Nieuws",
+          "url": "/news"
+        },
+        {
+          "name": "Te onthouden datums",
+          "url": "/te-onthouden-datums"
+        }
+      ]
+    },
+    {
+      "name": "Activiteiten",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Barbecue",
+          "url": "/barbecue"
+        },
+        {
+          "name": "Mosselfeest",
+          "url": "/mosselfeest"
+        },
+        {
+          "name": "Ruil- en verkoopdagen",
+          "url": "/ruil-en-verkoopdagen"
+        },
+        {
+          "name": "Tentoonstelling",
+          "url": "/tentoonstelling"
+        }
+      ]
+    },
+    {
+      "name": "Template",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Elements",
+          "url": "/elements"
+        },
+        {
+          "name": "[PAGE] Contact",
           "url": "/contact"
         },
         {
-          "name": "Blog",
+          "name": "[PAGE] Blog",
           "url": "/blog"
         },
         {
-          "name": "Authors",
+          "name": "[PAGE] Authors",
           "url": "/authors"
         },
         {
-          "name": "Categories",
+          "name": "[PAGE] Categories",
           "url": "/categories"
         },
         {
-          "name": "Tags",
+          "name": "[PAGE] Tags",
           "url": "/tags"
         },
         {
-          "name": "404 Page",
+          "name": "[PAGE] 404 Page",
           "url": "/404"
         }
       ]
     }
   ],
-  "footer": [
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
-    }
-  ]
+  "footer": []
 }

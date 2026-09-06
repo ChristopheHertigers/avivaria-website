@@ -1,54 +1,47 @@
 {
-  "$ref": "#/definitions/ctaSection",
-  "definitions": {
-    "ctaSection": {
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "enable": {
+      "type": "boolean"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string"
+    },
+    "button": {
       "type": "object",
       "properties": {
         "enable": {
           "type": "boolean"
         },
-        "title": {
+        "label": {
           "type": "string"
         },
-        "description": {
-          "type": "string"
-        },
-        "image": {
-          "type": "string"
-        },
-        "button": {
-          "type": "object",
-          "properties": {
-            "enable": {
-              "type": "boolean"
-            },
-            "label": {
-              "type": "string"
-            },
-            "link": {
-              "type": "string"
-            }
-          },
-          "required": [
-            "enable",
-            "label",
-            "link"
-          ],
-          "additionalProperties": false
-        },
-        "$schema": {
+        "link": {
           "type": "string"
         }
       },
       "required": [
         "enable",
-        "title",
-        "description",
-        "image",
-        "button"
-      ],
-      "additionalProperties": false
+        "label",
+        "link"
+      ]
+    },
+    "$schema": {
+      "type": "string"
     }
   },
-  "$schema": "http://json-schema.org/draft-07/schema#"
+  "required": [
+    "enable",
+    "title",
+    "description",
+    "image",
+    "button"
+  ]
 }

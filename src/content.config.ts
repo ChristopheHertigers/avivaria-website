@@ -1,5 +1,6 @@
 import { glob } from "astro/loaders";
-import { defineCollection, z } from "astro:content";
+import { defineCollection } from "astro:content";
+import { z } from 'astro/zod'
 
 const commonFields = {
   title: z.string(),
@@ -10,7 +11,7 @@ const commonFields = {
   draft: z.boolean(),
 };
 
-// Post collection schema
+// Blog collection schema
 const blogCollection = defineCollection({
   loader: glob({ pattern: "**/*.{md,mdx}", base: "src/content/blog" }),
   schema: z.object({
@@ -22,6 +23,18 @@ const blogCollection = defineCollection({
     author: z.string().default("Admin"),
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),
+    draft: z.boolean().optional(),
+  }),
+});
+
+// News collection schema
+const newsCollection = defineCollection({
+  loader: glob({ pattern: "**/*.{md,mdx}", base: "src/content/news" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string().optional(),
+    date: z.date().optional(),
+    image: z.string().optional(),
     draft: z.boolean().optional(),
   }),
 });
@@ -75,14 +88,7 @@ const homepageCollection = defineCollection({
   loader: glob({ pattern: "**/-*.{md,mdx}", base: "src/content/homepage" }),
   schema: z.object({
     banner: z.object({
-      title: z.string(),
-      content: z.string(),
       image: z.string(),
-      button: z.object({
-        enable: z.boolean(),
-        label: z.string(),
-        link: z.string(),
-      }),
     }),
     features: z.array(
       z.object({
@@ -140,11 +146,34 @@ const testimonialSectionCollection = defineCollection({
   }),
 });
 
+// Sponsors Section collection schema
+const sponsorSectionCollection = defineCollection({
+  loader: glob({
+    pattern: "sponsor.{md,mdx}",
+    base: "src/content/sections",
+  }),
+  schema: z.object({
+    enable: z.boolean(),
+    title: z.string(),
+    description: z.string(),
+    sponsors: z.array(
+      z.object({
+        name: z.string(),
+        logo: z.string(),
+        height: z.number(),
+        width: z.number(),
+        link: z.string(),
+      }),
+    ),
+  }),
+});
+
 // Export collections
 export const collections = {
   // Pages
   homepage: homepageCollection,
   blog: blogCollection,
+  news: newsCollection,
   authors: authorsCollection,
   pages: pagesCollection,
   about: aboutCollection,
@@ -153,4 +182,5 @@ export const collections = {
   // sections
   ctaSection: ctaSectionCollection,
   testimonialSection: testimonialSectionCollection,
+  sponsorSection: sponsorSectionCollection,
 };
