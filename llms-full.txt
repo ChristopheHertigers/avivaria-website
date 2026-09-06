@@ -1,0 +1,5215 @@
+# Avivaria
+
+URL: https://avivaria.be
+
+## Ledenvergadering: Bespreking duiven
+
+URL: https://avivaria.be
+
+Avivaria homepage
+
+
+![banner](/_astro/banner.CxE5WGaZ_1vWC7s.webp)
+
+# Ledenvergadering: Bespreking duiven
+
+-   28 Sep, 2025
+
+Beste clubvrienden
+
+Graag nodigen wij je uit op onze ledenvergadering. Deze vindt plaats op **zondag 28 september 2025** in ons clublokaal, **Heksenbergstraat 5-7 te Hasselt**.
+
+Van 09 uur tot 09u30 kan je er al terecht om boeken uit te lenen.  
+Vanaf **09u30** starten wij met de dierbespreking.
+
+### Agenda
+
+-   Welkomstwoord
+-   Rasbespreking van de meegebrachte duiven door de heer Guy Campo
+-   Rondvraag in verband met het onderwerp van de spreekbeurt
+-   Vragen en/of suggesties i.v.m. de werking van de vereniging
+-   Bijpraten
+-   Slotwoord
+
+Mogen we vragen om je rassen kenbaar te maken aan het secretariaat op [avivaria@skynet.be](mailto:avivaria@skynet.be) of 011/25.44.45 en dit tegen 25 september a.s.  
+Zo kan de keurmeester zich ook degelijk voorbereiden op deze dierbesprekingen.
+
+Tot dan!  
+Het bestuur.
+
+Van diverse leden hebben we nog steeds geen e-mailadres.
+
+Wegens de hoge portkosten zenden we tijdens de pare maanden aan de leden, via e-mail, een uitgebreide Nieuwskrant (nieuwsbrief).
+
+Wil jij deze ontvangen, geef dan je e-mailadres door aan het secretariaat via [avivaria@skynet.be](mailto:avivaria@skynet.be)
+
+Bedankt
+
+## Onze sponsors
+
+Wij willen graag al onze sponsors hartelijk bedanken voor jullie steun en vertrouwen. Dankzij jullie bijdrage kunnen wij onze dagelijkse werking ondersteunen.
+
+[![Aveve Hasselt](/_astro/aveve.EoPYVp4D_215MtS.webp)](https://www.aveve.be/nl/winkels/p090000354-aveve-hasselt)
+
+[![Galluvet](/_astro/galluvet.CS0BfDxF_Z1AWhUj.webp)](https://www.galluvet.be/nl)
+
+[![Horta Kuringen](/_astro/horta.DpEj8DTk_2v7shG.webp)](https://horta.org/stores/Horta-Kuringen)
+
+[![Lambrichts Voeders](/_astro/lambrichts-voeders.2Jp9w7tL_Z1FCuWi.webp)](https://lambrichts-voeders.be)
+
+[![NS Construct](/_astro/ns-construct.B3iEe4Gx_ZbmjmR.webp)](https://www.facebook.com/NSConstruct)
+
+[![PRI](/_astro/pri.BllNcKPZ_1aGYwT.webp)](http://www.pri.be/)
+
+[![Versele](/_astro/versele.DbA9sTht_ZNqhqo.webp)](https://www.versele-laga.com/nl/be)
+
+---
+
+## Hey, I am John Doe!
+
+URL: https://avivaria.be/about
+
+this is meta description
+
+
+![Hey, I am John Doe!](/_astro/image-placeholder.DyBpoAJD_DWMbU.webp)
+
+## Hey, I am John Doe!
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+
+### This is a title
+
+-   Lorem ipsum, dolor sit amet
+-   Enim voluptatem dicta expedita veritatis
+-   Fugit voluptatibus perspiciatis assumenda
+-   Enim voluptatem dicta expedita
+-   Corporis illum nesciunt commodi vel
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+
+---
+
+## Authors
+
+URL: https://avivaria.be/authors
+
+Avivaria homepage
+
+
+# Authors
+
+![John Doe](/_astro/avatar.DeQDKSwT_OgOf2.webp)
+
+#### [John Doe](/authors/john-doe)
+
+lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+
+-   [github](https://github.com)
+-   [twitter](https://twitter.com)
+-   [linkedin](https://linkedin.com)
+
+![Sam Wilson](/_astro/avatar.DeQDKSwT_OgOf2.webp)
+
+#### [Sam Wilson](/authors/sam-wilson)
+
+lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+
+-   [github](https://github.com)
+-   [twitter](https://twitter.com)
+-   [linkedin](https://linkedin.com)
+
+![William Jacob](/_astro/avatar.DeQDKSwT_OgOf2.webp)
+
+#### [William Jacob](/authors/william-jacob)
+
+lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+
+-   [github](https://github.com)
+-   [twitter](https://twitter.com)
+-   [linkedin](https://linkedin.com)
+
+---
+
+## John Doe
+
+URL: https://avivaria.be/authors/john-doe
+
+this is meta description
+
+
+![John Doe](/_astro/avatar.DeQDKSwT_Z1Hp8Sm.webp)
+
+# John Doe
+
+lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+
+-   [github](https://github.com)
+-   [twitter](https://twitter.com)
+-   [linkedin](https://linkedin.com)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-1)
+
+-   [John Doe](/authors/john-doe)
+-   [Application,](/categories/application)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-1)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-3)
+
+-   [John Doe](/authors/john-doe)
+-   [Software](/categories/software)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-3)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-4)
+
+-   [John Doe](/authors/john-doe)
+-   [Architecture](/categories/architecture)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-4)
+
+---
+
+## Sam Wilson
+
+URL: https://avivaria.be/authors/sam-wilson
+
+this is meta description
+
+
+![Sam Wilson](/_astro/avatar.DeQDKSwT_Z1Hp8Sm.webp)
+
+# Sam Wilson
+
+lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+
+-   [github](https://github.com)
+-   [twitter](https://twitter.com)
+-   [linkedin](https://linkedin.com)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-2)
+
+-   [Sam Wilson](/authors/sam-wilson)
+-   [Technology,](/categories/technology)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-2)
+
+---
+
+## William Jacob
+
+URL: https://avivaria.be/authors/william-jacob
+
+this is meta description
+
+
+![William Jacob](/_astro/avatar.DeQDKSwT_Z1Hp8Sm.webp)
+
+# William Jacob
+
+lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+
+-   [github](https://github.com)
+-   [twitter](https://twitter.com)
+-   [linkedin](https://linkedin.com)
+
+---
+
+## Barbecue met midzomernachtmuziek!
+
+URL: https://avivaria.be/barbecue
+
+Avivaria homepage
+
+
+# Barbecue met midzomernachtmuziek!
+
+Onze jaarlijkse barbecue komt eraan! Op **ZATERDAG 01 AUGUSTUS 2026** gaan we weer heerlijk smullen en een fijn feestje bouwen! Je kan immers komen genieten van onze spetterende barbecue met midzomernacht-muziek!
+
+We starten deze zomerse avond met een lekkere aperitief gevolgd door een niet te versmaden etentje. Zeker gaan we nog genieten van een lekker pintje met een gezellig babbeltje of wie wil kan zijn benen even strekken op de dansvloer.
+
+![Barbecue](/_astro/barbecue.-Ke4bhC8_KBYTM.webp)
+
+#### Planning van de avond:
+
+-   Iedereen kiest zelf vanaf wanneer hij/zij wenst te komen naar de barbecue. De deuren gaan open om 18u00.
+-   Je kan genieten van het aperitief.
+-   Het buffet opent omstreeks 18u30.
+-   DANS EN NATJES tot !!!
+
+#### Wij vragen aan iedereen die deelneemt aan deze avond:
+
+-   kinderen jonger dan 7 jaar: **3,00 EUR**
+-   jonger dan 18 jaar: **6,50 EUR**
+-   ouder dan 18 jaar: **8,00 EUR**
+
+als deelname in de algemene onkosten voor broodjes- en groente-bar, huur materialen, DJ, … In deze prijs is de drank, vis- en vleesschotel niet inbegrepen.
+
+#### Stel verder je menu zelf samen, te kiezen uit:
+
+**vlees:** hamburger, chipolata, sparerib, saté, kotelet, kippenbil, barbecueworst, (NIEUW) balletjesbrochette
+
+**vis:** zalm, witte vis
+
+-   per stuk vlees naar keuze, uitgezonderd sparerib: **3,50 EUR**
+-   per stuk sparerib: **4,50 EUR**
+-   portie zalm of witte vis: **4,50 EUR**
+
+#### Inschrijvingen:
+
+_uiterlijk tegen 25 juli a.s._ bij Sauwens Sonja – 011/25.44.45 of [avivaria@skynet.be](mailto:avivaria@skynet.be) (indien je inschrijft per e-mail, krijg je een bevestiging. Gebeurt dit niet binnen de 3 dagen, neem dan zeker telefonisch contact op aub).
+
+Wie niet wenst deel te nemen aan het niet te versmaden eetfestijn, is ook welkom op dit gezellig treffen. Wij wensen iedereen alvast een fijne en prettige avond toe!
+
+Namens de raad van bestuur
+
+### CLUBKAMPIOENEN 2025
+
+Jij was clubkampioen in 2025! Je wordt daarom uitgenodigd op de heerlijke barbecue van 2026. De prijs van clubkampioen is immers dat deze samen met een partner of genodigde het menu gratis aangeboden krijgen (maximum per persoon 3 stukken vlees/vis).
+
+-   cavia’s: Rennen Eliana
+-   konijnen: Coox Coen
+-   duiven: Clerinx Hugo
+-   krielen: Hardy Jean-Marie
+-   hoenders: Schroyen Robin
+-   tamme park- en watervogels: Vanholst Simon
+-   wilde park- en watervogels: Hertigers Roos
+
+Wel inschrijven a.u.b.
+
+---
+
+## Blog Posts
+
+URL: https://avivaria.be/blog
+
+this is meta description
+
+
+# Blog Posts
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-1)
+
+-   [John Doe](/authors/john-doe)
+-   [Application,](/categories/application)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-1)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-2)
+
+-   [Sam Wilson](/authors/sam-wilson)
+-   [Technology,](/categories/technology)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-2)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-3)
+
+-   [John Doe](/authors/john-doe)
+-   [Software](/categories/software)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-3)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-4)
+
+-   [John Doe](/authors/john-doe)
+-   [Architecture](/categories/architecture)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-4)
+
+##### Categories
+
+-   [Application (1)](/categories/application)
+-   [Data (2)](/categories/data)
+-   [Technology (1)](/categories/technology)
+-   [Software (1)](/categories/software)
+-   [Architecture (1)](/categories/architecture)
+
+##### Tags
+
+-   [Nextjs](/tags/nextjs)
+-   [Tailwind](/tags/tailwind)
+-   [Technology](/tags/technology)
+-   [Software](/tags/software)
+-   [Silicon](/tags/silicon)
+
+---
+
+## How to build an Application with modern Technology
+
+URL: https://avivaria.be/blog/post-1
+
+this is meta description
+
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Zp70gz.webp)
+
+# How to build an Application with modern Technology
+
+-   [John Doe](/authors/john-doe)
+-   [Application,](/categories/application)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+## Creative Design
+
+Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+
+> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+##### Tags :
+
+-   [Nextjs](/tags/nextjs)
+-   [Tailwind](/tags/tailwind)
+
+##### Share :
+
+-   [](https://facebook.com/sharer/sharer.php?u=https://avivaria.be/post-1)
+-   [](<https://twitter.com/intent/tweet/?text=How to build an Application with modern Technology&amp;url=https://avivaria.be/post-1>)
+-   [](<https://www.linkedin.com/shareArticle?mini=true&url=https://avivaria.be/post-1&title=How to build an Application with modern Technology&summary=this is meta description&source=https://avivaria.be>)
+-   [](<https://pinterest.com/pin/create/button/?url=https://avivaria.be/post-1&media=&description=this is meta description>)
+
+## Related Posts
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-2)
+
+-   [Sam Wilson](/authors/sam-wilson)
+-   [Technology,](/categories/technology)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-2)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-3)
+
+-   [John Doe](/authors/john-doe)
+-   [Software](/categories/software)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-3)
+
+---
+
+## How to build an Application with modern Technology
+
+URL: https://avivaria.be/blog/post-2
+
+this is meta description
+
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Zp70gz.webp)
+
+# How to build an Application with modern Technology
+
+-   [Sam Wilson](/authors/sam-wilson)
+-   [Technology,](/categories/technology)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+## Creative Design
+
+Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+
+> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+##### Tags :
+
+-   [Technology](/tags/technology)
+-   [Tailwind](/tags/tailwind)
+
+##### Share :
+
+-   [](https://facebook.com/sharer/sharer.php?u=https://avivaria.be/post-2)
+-   [](<https://twitter.com/intent/tweet/?text=How to build an Application with modern Technology&amp;url=https://avivaria.be/post-2>)
+-   [](<https://www.linkedin.com/shareArticle?mini=true&url=https://avivaria.be/post-2&title=How to build an Application with modern Technology&summary=this is meta description&source=https://avivaria.be>)
+-   [](<https://pinterest.com/pin/create/button/?url=https://avivaria.be/post-2&media=&description=this is meta description>)
+
+## Related Posts
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-1)
+
+-   [John Doe](/authors/john-doe)
+-   [Application,](/categories/application)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-1)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-3)
+
+-   [John Doe](/authors/john-doe)
+-   [Software](/categories/software)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-3)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-4)
+
+-   [John Doe](/authors/john-doe)
+-   [Architecture](/categories/architecture)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-4)
+
+---
+
+## How to build an Application with modern Technology
+
+URL: https://avivaria.be/blog/post-3
+
+this is meta description
+
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Zp70gz.webp)
+
+# How to build an Application with modern Technology
+
+-   [John Doe](/authors/john-doe)
+-   [Software](/categories/software)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+## Creative Design
+
+Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+
+> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+##### Tags :
+
+-   [Software](/tags/software)
+-   [Tailwind](/tags/tailwind)
+
+##### Share :
+
+-   [](https://facebook.com/sharer/sharer.php?u=https://avivaria.be/post-3)
+-   [](<https://twitter.com/intent/tweet/?text=How to build an Application with modern Technology&amp;url=https://avivaria.be/post-3>)
+-   [](<https://www.linkedin.com/shareArticle?mini=true&url=https://avivaria.be/post-3&title=How to build an Application with modern Technology&summary=this is meta description&source=https://avivaria.be>)
+-   [](<https://pinterest.com/pin/create/button/?url=https://avivaria.be/post-3&media=&description=this is meta description>)
+
+## Related Posts
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-1)
+
+-   [John Doe](/authors/john-doe)
+-   [Application,](/categories/application)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-1)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-2)
+
+-   [Sam Wilson](/authors/sam-wilson)
+-   [Technology,](/categories/technology)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-2)
+
+---
+
+## How to build an Application with modern Technology
+
+URL: https://avivaria.be/blog/post-4
+
+this is meta description
+
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Zp70gz.webp)
+
+# How to build an Application with modern Technology
+
+-   [John Doe](/authors/john-doe)
+-   [Architecture](/categories/architecture)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+## Creative Design
+
+Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+
+> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
+##### Tags :
+
+-   [Silicon](/tags/silicon)
+-   [Technology](/tags/technology)
+
+##### Share :
+
+-   [](https://facebook.com/sharer/sharer.php?u=https://avivaria.be/post-4)
+-   [](<https://twitter.com/intent/tweet/?text=How to build an Application with modern Technology&amp;url=https://avivaria.be/post-4>)
+-   [](<https://www.linkedin.com/shareArticle?mini=true&url=https://avivaria.be/post-4&title=How to build an Application with modern Technology&summary=this is meta description&source=https://avivaria.be>)
+-   [](<https://pinterest.com/pin/create/button/?url=https://avivaria.be/post-4&media=&description=this is meta description>)
+
+## Related Posts
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-2)
+
+-   [Sam Wilson](/authors/sam-wilson)
+-   [Technology,](/categories/technology)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-2)
+
+---
+
+## Categories
+
+URL: https://avivaria.be/categories
+
+Avivaria homepage
+
+
+# Categories
+
+-   [Application 1](/categories/application)
+-   [Data 2](/categories/data)
+-   [Technology 1](/categories/technology)
+-   [Software 1](/categories/software)
+-   [Architecture 1](/categories/architecture)
+
+---
+
+## Application
+
+URL: https://avivaria.be/categories/application
+
+Avivaria homepage
+
+
+# Application
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-1)
+
+-   [John Doe](/authors/john-doe)
+-   [Application,](/categories/application)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-1)
+
+---
+
+## Architecture
+
+URL: https://avivaria.be/categories/architecture
+
+Avivaria homepage
+
+
+# Architecture
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-4)
+
+-   [John Doe](/authors/john-doe)
+-   [Architecture](/categories/architecture)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-4)
+
+---
+
+## Data
+
+URL: https://avivaria.be/categories/data
+
+Avivaria homepage
+
+
+# Data
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-1)
+
+-   [John Doe](/authors/john-doe)
+-   [Application,](/categories/application)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-1)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-2)
+
+-   [Sam Wilson](/authors/sam-wilson)
+-   [Technology,](/categories/technology)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-2)
+
+---
+
+## Software
+
+URL: https://avivaria.be/categories/software
+
+Avivaria homepage
+
+
+# Software
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-3)
+
+-   [John Doe](/authors/john-doe)
+-   [Software](/categories/software)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-3)
+
+---
+
+## Technology
+
+URL: https://avivaria.be/categories/technology
+
+Avivaria homepage
+
+
+# Technology
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-2)
+
+-   [Sam Wilson](/authors/sam-wilson)
+-   [Technology,](/categories/technology)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-2)
+
+---
+
+## Clublokaal
+
+URL: https://avivaria.be/clublokaal
+
+Avivaria homepage
+
+
+# Clublokaal
+
+Zo vind je ons:
+
+#### Adres
+
+Kleindierclub Avivaria vzw  
+[Heksenbergstraat 5-7,  
+3500 Hasselt](https://www.google.be/maps/place/Avivaria+vzw/@50.9493068,5.3595472,17z/data=!4m14!1m7!3m6!1s0x47c1211522ccbb03:0x1b5b3b7ba97869c6!2sAvivaria+vzw!8m2!3d50.9493034!4d5.3621275!16s%2Fg%2F1tj95ktb!3m5!1s0x47c1211522ccbb03:0x1b5b3b7ba97869c6!8m2!3d50.9493034!4d5.3621275!16s%2Fg%2F1tj95ktb?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D)
+
+#### Telefoonnummer
+
+Enkel **tijdens** de activiteiten: +32 456-17 41 53
+
+---
+
+## Contact
+
+URL: https://avivaria.be/contact
+
+this is meta description
+
+
+# Contact
+
+Full Name \*
+
+Working Mail \*
+
+Anything else? \*
+
+Submit
+
+---
+
+## Elements
+
+URL: https://avivaria.be/elements
+
+this is meta description
+
+
+# Elements
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
+* * *
+
+### Paragraph
+
+Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships.
+
+Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships.
+
+* * *
+
+### Emphasis
+
+1.  Did you come here for something in **particular** or just general
+    
+2.  Did you come here for something in particular
+    
+3.  _Did you come here_
+    
+4.  Did you come here for **something** in particular
+    
+5.  Did you come here for something in particular
+    
+6.  Did you come here for something in particular
+    
+7.  URLs and URLs in angle brackets will automatically get turned into links. [http://www.example.com](http://www.example.com) or
+    
+8.  [http://www.example.com](http://www.example.com) and sometimes example.com (but not on Github, for example).
+    
+
+* * *
+
+### Link
+
+[I’m an inline-style link](https://www.google.com)
+
+[I’m an inline-style link with title](https://www.google.com "Google's Homepage")
+
+[I’m a relative reference to a repository file](../blob/master/LICENSE)
+
+example.com (but not on Github, for example).
+
+Some text to show that the reference links can follow later.
+
+* * *
+
+### Ordered List
+
+1.  List item
+2.  List item
+3.  List item
+4.  List item
+5.  List item
+
+* * *
+
+### Unordered List
+
+-   List item
+-   List item
+-   List item
+-   List item
+-   List item
+
+* * *
+
+### Code and Syntax Highlighting
+
+#### HTML
+
+```
+<ul>
+  <li class="nav-item">
+    <a class="nav-link" href="/">Home</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="about/">About</a>
+  </li>
+</ul>
+```
+
+* * *
+
+#### CSS
+
+```
+img {
+  vertical-align: middle;
+  border: 0;
+  max-width: 100%;
+  height: auto;
+}
+```
+
+* * *
+
+#### JavaScript
+
+```
+window.addEventListener("load", (e) => {
+  document.querySelector(".preloader").style.display = "none";
+});
+```
+
+* * *
+
+### Button
+
+[Solid](#) [Outline](#)
+
+* * *
+
+### Quote
+
+> Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
+
+* * *
+
+### Notice
+
+This is a simple note.
+
+This is a simple note.
+
+This is a simple note.
+
+This is a simple note.
+
+* * *
+
+### Tab
+
+-   Tab 1
+-   Tab 2
+-   Tab 3
+
+#### Did you come here for something in particular?
+
+Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf.
+
+#### I wanna talk about the assassination attempt
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+#### We know you’re dealing in stolen ore
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+
+* * *
+
+### Table
+
+#
+
+First
+
+Last
+
+Handle
+
+1
+
+Row:1 Cell:1
+
+Row:1 Cell:2
+
+Row:1 Cell:3
+
+2
+
+Row:2 Cell:1
+
+Row:2 Cell:2
+
+Row:2 Cell:3
+
+3
+
+Row:3 Cell:1
+
+Row:3 Cell:2
+
+Row:3 Cell:3
+
+* * *
+
+### Accordion
+
+Why should you need to do this?
+
+-   This is a thing.
+-   This is a thing.
+-   This is a thing.
+-   This is a thing.
+-   This is a thing.
+
+How can I adjust Horizontal centering
+
+-   This is a thing.
+-   This is a thing.
+-   This is a thing.
+-   This is a thing.
+-   This is a thing.
+
+Should you use Negative margin?
+
+-   This is a thing.
+-   This is a thing.
+-   This is a thing.
+-   This is a thing.
+-   This is a thing.
+
+* * *
+
+### Image
+
+![image](/images/image-placeholder.png)
+
+* * *
+
+### Youtube video
+
+* * *
+
+### Custom video
+
+---
+
+## Fokkerskaart
+
+URL: https://avivaria.be/fokkerskaart
+
+Avivaria homepage
+
+
+# Fokkerskaart
+
+Dankzij een diervriendelijke sponsor, krijg je een tegemoetkoming voor uw deelname aan de tentoonstelling van een Limburgse kleindierclub.
+
+#### Voorwaarden:
+
+-   Je hebt een fokkerskaart via Kleindierclub Avivaria (kengetal 035) aangevraagd en vernieuwd voor het volgende TT-seizoen.
+-   Je hebt effectief, met minstens 5 dieren, deelgenomen aan de clubtentoonstelling van Kleindierclug Avivaria v.z.w. Deze deelname is niet geldig voor de sponsoring.
+-   Voor elke deelname met minstens 5 dieren bij een Limburgse club, ontvang je een tegemoetkoming van 5 euro.
+-   Bewijs van deelname aan de hand van je palmares, inleveren op de algemene statutaire vergadering van Avivaria in januari 2027.
+
+Maak gebruik van dit mooie aanbod en steun zo de Limburgse clubs met je deelname aan hun tentoonstelling.
+
+#### Wanneer kan ik deze aanvragen:
+
+Dit kan tijdens de ledenvergaderingen van november en december 2026 of uiterlijk voor of na de statutaire vergadering van januari 2027.
+
+Heb je voor het jaar 2026-2027 ook al een fokkerskaart bij ons in de vereniging, dan ligt het formulier voor je klaar bij het secretariaat. Je moet enkel kijken of de gegevens nog juist zijn en het formulier ondertekenen. Kan je niet naar de vergaderingen komen, neem dan contact op met het secretariaat; het formulier wordt dan per e-mail verzonden.
+
+Een fokkerskaart kan je enkel daar aanvragen waar je ook in orde bent met je lidgeld. Houd hier rekening mee a.u.b.
+
+De bijdrage voor het lidgeld (22,00 EUR – voor jeugdleden en 2de lid is dit 9,00 EUR) en de bijdrage fokkerskaart (15,00 EUR – voor 2de lid in het gezin is dit 3,00 EUR) kan je storten op het rekeningnummer van de club **BE75 0680 9145 4051** met vermelding lidgeld en/of fokkerskaart voor wie het is bestemd.
+
+---
+
+## Clublid worden
+
+URL: https://avivaria.be/lidgeld
+
+Avivaria homepage
+
+
+# Clublid worden
+
+Wens je lid van onze vereniging te worden? Wil je eerst nog wat bijkomende info?
+
+Stuur een e-mail naar [avivaria@skynet.be](mailto:avivaria@skynet.be) en wij zenden je graag bijkomende informatie.
+
+Stortingen gebeuren op het rekeningnummer van de vereniging:
+
+> Kleindierclub AVIVARIA v.z.w.  
+> **IBAN:** BE75 0680 9145 4051 **BIC:** GKCCBEBB
+
+### Lidgelden bedragen:
+
+##### voor leden uit België:
+
+-   eerste lid in gezin: **22,00 EUR/jaar** (\*)
+-   lidgeld tweede in gezin of jeugdlid (-18 jaar): **14,00 EUR/jaar** (\*)  
+    → 1ste maal lidgeld, 2de in gezin, of jeugdlid betaalt maar **9,00 EUR**
+
+##### voor buitenlandse leden:
+
+-   per lid **28 EUR/jaar** (\*)
+
+(\*) Indien men zijn bijdrage vrijwillig hernieuwt voor 1 december, ontvangt men een reductie van 5,00 EUR per lidgeld. Tevens bekomt ieder lid gratis het clubblad, de adreslabel op de omslag is uw lidkaart.
+
+---
+
+## Mosselfeest
+
+URL: https://avivaria.be/mosselfeest
+
+Avivaria homepage
+
+
+# Mosselfeest
+
+Op zaterdag **18 oktober 2025** van 17u30 tot 19u30 en van 19u30 tot 21u00 en zondag **19 oktober 2025** van 11u30 tot 13u30 (**opgelet de warme keuken sluit om 13u**)
+
+![Mosselfeest](/_astro/mosselfeest.BIEQVBJf_11a2Td.webp)
+
+#### Te verkrijgen:
+
+-   mosselen op grootmoederswijze (20,00 € / pers.)
+-   koninginnenhapje (16,00 € / pers.)
+-   gehakt ballen in tomatensaus met sla of appelmoes (16,00 € / pers.)
+-   stoverij met sla of appelmoes (16,00 € / pers.)
+-   koude schotel (16,00 € / pers.)
+
+#### Kinderporties (-18 jaar):
+
+-   mosselen op grootmoederswijze (15,00 € / pers.)
+-   koninginnenhapje (9,50 € / pers.)
+-   gehakt ballen in tomatensaus met sla of appelmoes (9,50 € / pers.)
+-   stoverij met sla of appelmoes (9,50 € / pers.)
+-   2 hamburgers met sla of appelmoes (9,50 € / pers.)
+
+#### NIEUW: dessert
+
+-   Portie tiramisu (4,00 € / portie)
+-   Portie chocomouse (4,00 € / portie)
+
+Je kan de gerechten verkrijgen met frieten of brood; op te geven bij bestelling. Ook op welk tijdstip je op zaterdag wenst bediend te worden.
+
+#### Inschrijvingen:
+
+Je kan inschrijven tot uiterlijk 13 oktober 2025 via [avivaria@skynet.be](mailto:avivaria@skynet.be)  
+Telefonisch bestellen (na 18u) kan bij Sonja - tel. 011-25 44 45
+
+Iedereen is van harte welkom op onze mosseldag.  
+Smakelijk!
+
+Het bestuur
+
+---
+
+## Nieuws
+
+URL: https://avivaria.be/news
+
+Nieuws
+
+
+# Nieuws
+
+#### [Ledenvergadering: Bespreking duiven](/news/20250928)
+
+-   28 Sep, 2025
+
+Beste clubvrienden Graag nodigen wij je uit op onze ledenvergadering. Deze vindt plaats op zondag 28 september 2025 in ons clublokaal, Heksenbergstraat 5-7 te Hasselt. Van 09 uur tot 09u30 k…
+
+[read more](/news/20250928)
+
+#### [1-2-3-show Tamme Park- en Watervogels](/news/20250906)
+
+-   06 Sep, 2025
+
+import { Image } from 'astro:assets'; import toulouse from '../assets/toulouse.jpg'; De 1- 2- 3 show van de gedomesticeerde P&W-vogels gaat ook dit jaar weer door in onze lokalen. Hieraan deelnem…
+
+[read more](/news/20250906)
+
+#### [1-2-3-show Tamme Park- en Watervogels](/news/20250901)
+
+-   01 Sep, 2025
+
+import { Image } from 'astro:assets'; import toulouse from '../assets/toulouse.jpg'; De 1- 2- 3 show van de gedomesticeerde P&W-vogels gaat ook dit jaar weer door in onze lokalen. Hieraan deelnem…
+
+[read more](/news/20250901)
+
+#### [1-2-3-show Tamme Park- en Watervogels](/news/20250825)
+
+-   25 Aug, 2025
+
+import { Image } from 'astro:assets'; import toulouse from '../assets/toulouse.jpg'; De 1- 2- 3 show van de gedomesticeerde P&W-vogels gaat ook dit jaar weer door in onze lokalen. Hieraan deelnem…
+
+[read more](/news/20250825)
+
+---
+
+## 1-2-3-show Tamme Park- en Watervogels
+
+URL: https://avivaria.be/news/20250825
+
+Avivaria homepage
+
+
+# 1-2-3-show Tamme Park- en Watervogels
+
+-   25 Aug, 2025
+
+De 1- 2- 3 show van de gedomesticeerde P&W-vogels gaat ook dit jaar weer door in onze lokalen. Hieraan deelnemen is een uitstekende gelegenheid om op een plezante wijze te leren kijken naar de dieren in de tentoonstellingskooien. Nadien is er ook nog een publieke bespreking van de voorgestelde dieren. De kans om voor jezelf uit te maken hoe aandachtig je de dieren bekeek.
+
+We doen een oproep aan alle fokkers om enkele dieren mee te brengen. Alle tamme park- en watervogels mogen ter bespreking aangeboden worden. Opgelet, de dieren dienen wettelijk in orde te zijn (entingen)!
+
+Door de keurmeesters worden de interpretaties van de dieren aan de kooien besproken, samen met de fokkers die hun ervaringen naar voor brengen.
+
+![Toulouse Ganzen](/_astro/toulouse.D8NHuOd-_Z5bw4k.webp)
+
+### Dagorde
+
+-   **10.30u:** inkooien dieren
+-   **11.00u:** welkomstwoord
+-   **11.10u:** beoordeling dieren door alle aanwezigen
+-   **12.30u:** lunch (broodjes reserveren bij inschrijving)
+-   **13.30u:** bespreking dieren aan het hok en gezellig samen zijn
+-   **16.00u:** uitkooien dieren en opruimen van de kooien
+
+---
+
+## 1-2-3-show Tamme Park- en Watervogels
+
+URL: https://avivaria.be/news/20250901
+
+Avivaria homepage
+
+
+# 1-2-3-show Tamme Park- en Watervogels
+
+-   01 Sep, 2025
+
+De 1- 2- 3 show van de gedomesticeerde P&W-vogels gaat ook dit jaar weer door in onze lokalen. Hieraan deelnemen is een uitstekende gelegenheid om op een plezante wijze te leren kijken naar de dieren in de tentoonstellingskooien. Nadien is er ook nog een publieke bespreking van de voorgestelde dieren. De kans om voor jezelf uit te maken hoe aandachtig je de dieren bekeek.
+
+We doen een oproep aan alle fokkers om enkele dieren mee te brengen. Alle tamme park- en watervogels mogen ter bespreking aangeboden worden. Opgelet, de dieren dienen wettelijk in orde te zijn (entingen)!
+
+Door de keurmeesters worden de interpretaties van de dieren aan de kooien besproken, samen met de fokkers die hun ervaringen naar voor brengen.
+
+![Toulouse Ganzen](/_astro/toulouse.D8NHuOd-_Z5bw4k.webp)
+
+### Dagorde
+
+-   **10.30u:** inkooien dieren
+-   **11.00u:** welkomstwoord
+-   **11.10u:** beoordeling dieren door alle aanwezigen
+-   **12.30u:** lunch (broodjes reserveren bij inschrijving)
+-   **13.30u:** bespreking dieren aan het hok en gezellig samen zijn
+-   **16.00u:** uitkooien dieren en opruimen van de kooien
+
+---
+
+## 1-2-3-show Tamme Park- en Watervogels
+
+URL: https://avivaria.be/news/20250906
+
+Avivaria homepage
+
+
+# 1-2-3-show Tamme Park- en Watervogels
+
+-   06 Sep, 2025
+
+De 1- 2- 3 show van de gedomesticeerde P&W-vogels gaat ook dit jaar weer door in onze lokalen. Hieraan deelnemen is een uitstekende gelegenheid om op een plezante wijze te leren kijken naar de dieren in de tentoonstellingskooien. Nadien is er ook nog een publieke bespreking van de voorgestelde dieren. De kans om voor jezelf uit te maken hoe aandachtig je de dieren bekeek.
+
+We doen een oproep aan alle fokkers om enkele dieren mee te brengen. Alle tamme park- en watervogels mogen ter bespreking aangeboden worden. Opgelet, de dieren dienen wettelijk in orde te zijn (entingen)!
+
+Door de keurmeesters worden de interpretaties van de dieren aan de kooien besproken, samen met de fokkers die hun ervaringen naar voor brengen.
+
+![Toulouse Ganzen](/_astro/toulouse.D8NHuOd-_Z5bw4k.webp)
+
+### Dagorde
+
+-   **10.30u:** inkooien dieren
+-   **11.00u:** welkomstwoord
+-   **11.10u:** beoordeling dieren door alle aanwezigen
+-   **12.30u:** lunch (broodjes reserveren bij inschrijving)
+-   **13.30u:** bespreking dieren aan het hok en gezellig samen zijn
+-   **16.00u:** uitkooien dieren en opruimen van de kooien
+
+---
+
+## Ledenvergadering: Bespreking duiven
+
+URL: https://avivaria.be/news/20250928
+
+Avivaria homepage
+
+
+# Ledenvergadering: Bespreking duiven
+
+-   28 Sep, 2025
+
+Beste clubvrienden
+
+Graag nodigen wij je uit op onze ledenvergadering. Deze vindt plaats op **zondag 28 september 2025** in ons clublokaal, **Heksenbergstraat 5-7 te Hasselt**.
+
+Van 09 uur tot 09u30 kan je er al terecht om boeken uit te lenen.  
+Vanaf **09u30** starten wij met de dierbespreking.
+
+### Agenda
+
+-   Welkomstwoord
+-   Rasbespreking van de meegebrachte duiven door de heer Guy Campo
+-   Rondvraag in verband met het onderwerp van de spreekbeurt
+-   Vragen en/of suggesties i.v.m. de werking van de vereniging
+-   Bijpraten
+-   Slotwoord
+
+Mogen we vragen om je rassen kenbaar te maken aan het secretariaat op [avivaria@skynet.be](mailto:avivaria@skynet.be) of 011/25.44.45 en dit tegen 25 september a.s.  
+Zo kan de keurmeester zich ook degelijk voorbereiden op deze dierbesprekingen.
+
+Tot dan!  
+Het bestuur.
+
+---
+
+## Over ons
+
+URL: https://avivaria.be/over-ons
+
+Avivaria homepage
+
+
+# Over ons
+
+Wij verenigen fokkers van verschillende rassen en soorten maar ook de gewone liefhebbers, die aan huis enkele dieren houden als hobby, zijn evenzeer erg welkom in onze vereniging.
+
+Onze vrijblijvende [activiteiten](/te-onthouden-datums) en diensten voor de leden:
+
+-   maandelijks een ledenvergadering met voordracht over uiteenlopende thema’s i.v.m de dierenliefhebberij
+-   een maandelijks clubblad met allerlei info rond activiteiten, dierbesprekingen, tips, zoekertjes, …
+-   advies en hulp bij het uitbroeden, houden, kweken, enten, selecteren, …
+-   tijdens het laatste weekend van augustus zijn er jaarlijks [ruil- en verkoopdagen](/ruil-en-verkoopdagen) aan ons clublokaal
+-   bestellen van fokkersboek, fokkerskaart, ringen en tatoeages via onze club
+-   jaarlijks een jongdierendag met advies en keuring van uw dieren door een erkend keurmeester
+-   gezamenlijk vervoer naar tentoonstellingen en andere activiteiten
+-   jaarlijkse tentoonstelling in ons clublokaal tijdens het tweede weekend van november
+-   uitgebreide bibliotheek met tal van boeken en gespecialiseerde tijdschriften
+-   deelname aan verschillende activiteiten met een kennismakingsstand van onze club
+-   in de zomerperiode een gezellige [BBQ](/barbecue) in ons clublokaal
+-   …
+
+Avivaria is een grote en zeer actieve vereniging die momenteel al meer dan 275 leden telt.
+
+Heb jij ook interesse in de dierenliefhebberij, wil je ook wel eens deelnemen aan enkele van onze activiteiten, wil je graag andere dierenliefhebbers en rasfokkers leren kennen om kennis en ervaringen uit te wisselen, neem dan gerust vrijblijvend contact op met een van de bestuursleden, bezoek onze website of kom gewoon eens langs tijdens de activiteiten in ons clublokaal.
+
+Welkom in onze vereniging !
+
+### Bestuur
+
+##### Voorzitter:
+
+###### Lambrighs Vic
+
+Stevoortse Kiezel 316, 3512 Hasselt  
+011-31 42 40  
+[vic.lambrighs@skynet.be](mailto:vic.lambrighs@skynet.be)
+
+##### Ondervoorzitter:
+
+###### Minschart Niels
+
+Grotestraat 72, 3540 Berboek  
+0479-39 23 82  
+[niels\_minschart@hotmail.com](mailto:niels_minschart@hotmail.com)
+
+##### Secretaris:
+
+###### Sauwens Sonja
+
+Grote Negenbundersstraat 42, 3511 Hasselt  
+011-25 44 45  
+[avivaria@skynet.be](mailto:avivaria@skynet.be)
+
+##### Schatbewaarder:
+
+###### Kenis Rudi
+
+Kraaibergstraat 30, 3560 Lummen  
+0496-75 16 17  
+[rudi.kenis@dnsmaster.be](mailto:rudi.kenis@dnsmaster.be)
+
+##### Bestuursleden:
+
+###### Ceyssens Liza
+
+Kapelstraat 75, 3941 Hechtel-Eksel  
+011-73 10 76
+
+###### Housen Robin
+
+Jannestraat 102, 3512 Hasselt  
+0491-14 46 86  
+[housenrobin@yahoo.com](mailto:housenrobin@yahoo.com)
+
+###### Lambrighs Gerard
+
+Grote Negenbundersstraat 42, 3511 Hasselt  
+011-25 44 45  
+[gerard.lambrighs@skynet.be](mailto:gerard.lambrighs@skynet.be)
+
+###### Lambrighs Veerle
+
+Stevoortse Kiezel 316, 3512 Hasselt  
+0473-76 68 04  
+[veerle\_lambrighs@hotmail.com](mailto:veerle_lambrighs@hotmail.com)
+
+###### Swerts Ivan
+
+Korkdriesstraat 13, 3583 Paal  
+011-42 63 83  
+[ivanswerts@gmail.com](mailto:ivanswerts@gmail.com)
+
+###### Tournelle Pierre
+
+Lazerijstraat 11, 3520 Zonhoven  
+0476-77 38 70  
+[pierretournelle@hotmail.com](mailto:pierretournelle@hotmail.com)
+
+### Maatschappelijke zetel
+
+De zetel en ons clublokaal is gevestigd
+
+HEKSENBERGSTRAAT 5-7, 3500 HASSELT
+
+**Ondernemingsnummer:** 424491202  
+**RPR:** Ondernemingsrechtbank Antwerpen, Afdeling Hasselt  
+**GSM-nr:** 0456/17.41.53  
+**E-mail:** [avivaria@skynet.be](mailto:avivaria@skynet.be)  
+**Website:** [https://www.avivaria.be](https://www.avivaria.be)
+
+---
+
+## Privacy
+
+URL: https://avivaria.be/privacy-policy
+
+this is meta description
+
+
+# Privacy
+
+#### Responsibility of Contributors
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+
+pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+
+#### Gathering of Personal Information
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+
+#### Protection of Personal- Information
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+
+Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+
+#### Privacy Policy Changes
+
+1.  Sll the Themefisher items are designed to be with the latest , We check all
+2.  comments that threaten or harm the reputation of any person or organization
+3.  personal information including, but limited to, email addresses, telephone numbers
+4.  Any Update come in The technology Customer will get automatic Notification.
+
+---
+
+## Ring en kooimaten volgens het V.I.V.F.N. (2025)
+
+URL: https://avivaria.be/ring-en-kooimaten
+
+Avivaria homepage
+
+
+# Ring en kooimaten volgens het V.I.V.F.N. (2025)
+
+## Hoenders en krielen
+
+RAS: (B) = BELGISCH RAS
+
+Hoenders  
+Ringmaat
+
+Hoenders  
+Kooimaat
+
+Krielen  
+Ringmaat
+
+Krielen  
+Kooimaat
+
+Koeyoshi
+
+22-20
+
+75 h - 65
+
+\-
+
+\-
+
+Ko-Shamo
+
+\-
+
+\-
+
+15-13
+
+50-50
+
+Kraaikop
+
+20-18
+
+65-65
+
+15-13
+
+50-50
+
+Kruiper
+
+18-16
+
+65-65
+
+15-13
+
+50-50
+
+Krulveerhoen
+
+20-18
+
+65-65
+
+15-13
+
+50-50
+
+La Flèche
+
+20-18
+
+65-65
+
+15-13
+
+50-50
+
+Lakenvelder
+
+16-15
+
+65-65
+
+13-11
+
+50-50
+
+Le Mans
+
+20-18
+
+65-65
+
+\-
+
+\-
+
+Le Merlerault
+
+20-18
+
+65-65
+
+15-13
+
+50-50
+
+Limousine
+
+18-16
+
+65-65
+
+13-11
+
+50-50
+
+Livorno
+
+18-16
+
+65-65
+
+13-11
+
+50-50
+
+Luikse vechter (B)
+
+24-22
+
+75 h - 65
+
+16-13
+
+50-50
+
+Lyonnaise
+
+18-16
+
+65-65
+
+14-12
+
+50-50
+
+Madras-Aseel
+
+22-20
+
+65-65
+
+\-
+
+\-
+
+Maleler
+
+24-22
+
+75 h - 65
+
+16-15
+
+60-50
+
+Mantes
+
+18-16
+
+65-65
+
+\-
+
+\-
+
+Marans
+
+22-20
+
+65-65
+
+16-14
+
+50-50
+
+Mechels hoen (B)
+
+27-24
+
+65-65
+
+18-16
+
+50-50
+
+Mechelse kalkoenkop (B)
+
+27-24
+
+65-65
+
+\-
+
+\-
+
+Meusienne
+
+24-22
+
+65-65
+
+16-15
+
+50-50
+
+Minorca
+
+20-18
+
+75 h - 65
+
+15-13
+
+50-50
+
+Modern Engelse vechter
+
+20-18
+
+75 h - 65
+
+11-9
+
+50-50
+
+Naakthals
+
+20-18
+
+65-65
+
+15-13
+
+50-50
+
+Nankingkriel
+
+\-
+
+\-
+
+12-10
+
+60-40
+
+Nederlandse sabelpootkriel
+
+\-
+
+\-
+
+15-13
+
+50-50
+
+Nederlandse uilebaard
+
+18-16
+
+65-65
+
+13-11
+
+50-50
+
+Nederrijns hoen
+
+2-20
+
+65-65
+
+15-13
+
+50-50
+
+New Hampshire
+
+22-20
+
+65-65
+
+15-13
+
+50-50
+
+Noord-Franse vechter
+
+24-22
+
+75 h -65
+
+16-13
+
+50-50
+
+Noord-Hollands hoen
+
+22-18
+
+65-65
+
+15-13
+
+50-50
+
+Ohiki
+
+\-
+
+\-
+
+13-11
+
+50-50
+
+Onagadori
+
+16-15
+
+100-65
+
+\-
+
+\-
+
+Oost-Friese meeuw
+
+18-16
+
+65-66
+
+13-11
+
+60-50
+
+Orloff
+
+22-20
+
+65-65
+
+15-13
+
+50-50
+
+Orpington
+
+22-20
+
+65-65
+
+15-13
+
+50-50
+
+Oud-Engelse vechter
+
+20-18
+
+65-65
+
+13-11
+
+40-40
+
+Padua
+
+16-15
+
+65-65
+
+13-12
+
+50-50
+
+Peking
+
+\-
+
+\-
+
+16-15
+
+60-50
+
+Penedèshoen
+
+18-16
+
+65-65
+
+\-
+
+\-
+
+Phoenix
+
+18-16
+
+100-65
+
+13-11
+
+65-50
+
+Pictave
+
+\-
+
+\-
+
+14-12
+
+40-40
+
+Plymouth Rock
+
+22-20
+
+65-65
+
+15-13
+
+50-50
+
+Ramelsloher
+
+20-18
+
+65-65
+
+\-
+
+\-
+
+Redcap
+
+20-18
+
+65-65
+
+\-
+
+\-
+
+Rhode Island
+
+22-20
+
+66-65
+
+15-13
+
+50-50
+
+Rijnlander
+
+18-16
+
+65-65
+
+13-11
+
+50-50
+
+Saksisch hoen
+
+20-18
+
+65-65
+
+13-11
+
+50-50
+
+Satsumadori
+
+20-18
+
+65-65
+
+\-
+
+\-
+
+Schijndelaar
+
+18-16
+
+65-65
+
+\-
+
+\-
+
+Schotse kruiper
+
+18-16
+
+65-65
+
+\-
+
+\-
+
+Sebright
+
+\-
+
+\-
+
+12-10
+
+40-40
+
+Serama
+
+\-
+
+\-
+
+11-10
+
+40-40
+
+Shamo
+
+24-22
+
+75 h - 65
+
+\-
+
+\-
+
+Siciliaans bekerkamhoen
+
+18-16
+
+65-65
+
+\-
+
+\-
+
+Soendanese vechter
+
+20-18
+
+65-65
+
+\-
+
+\-
+
+Spaanse witwang
+
+20-18
+
+65-65
+
+14-13
+
+50-50
+
+Sulmtaler
+
+20-18
+
+65-65
+
+15-13
+
+50-50
+
+Sultanhoen
+
+18-16
+
+65-65
+
+14-12
+
+50-50
+
+Sumatra
+
+18-16
+
+100-65
+
+15-13
+
+65-50
+
+Sundhelmer
+
+22-20
+
+65-65
+
+15-13
+
+50-50
+
+Sussex
+
+22-20
+
+65-65
+
+15-13
+
+60-50
+
+Thüringer baardhoen
+
+18-16
+
+65-65
+
+13-11
+
+50-50
+
+Tiense vechter (B)
+
+24-22
+
+75 h - 65
+
+16-13
+
+50-50
+
+Tomaru
+
+20-18
+
+65-65
+
+\-
+
+\-
+
+Tsjechisch hoen
+
+18-16
+
+65-65
+
+\-
+
+\-
+
+Tuzo
+
+16-131
+
+60-60
+
+\-
+
+\-
+
+Twents hoen
+
+18-16
+
+65-65
+
+13-11
+
+50-50
+
+Ukkelse baardkriel (B)
+
+\-
+
+\-
+
+16-14
+
+50-40
+
+Vlaanderse koekoek (B)
+
+20-18
+
+65-65
+
+\-
+
+\-
+
+Vorwerk
+
+20-18
+
+65-66
+
+13-11
+
+50-40
+
+Waasse kriel (B)
+
+\-
+
+\-
+
+11-10
+
+60-40
+
+Watermaalse baardkriel (B)
+
+\-
+
+\-
+
+11-10
+
+50-40
+
+Welsumer
+
+20-18
+
+65-65
+
+15-13
+
+50-50
+
+Westfaalse doodlegger
+
+18-16
+
+65-65
+
+\-
+
+\-
+
+Wyandotte
+
+20-18
+
+65-65
+
+15-13
+
+50-50
+
+Yakido
+
+20-18
+
+65-65
+
+\-
+
+\-
+
+Yamato
+
+20-18
+
+60-60
+
+\-
+
+\-
+
+Yokohama
+
+18-16
+
+100-65
+
+13-11
+
+65-50
+
+Zijdehoen
+
+16-16
+
+60-60
+
+12-11
+
+40-40
+
+Zingems leghoen (B)
+
+20-18
+
+65-65
+
+\-
+
+\-
+
+Zingems vleeshoen (B)
+
+24-22
+
+65-65
+
+\-
+
+\-
+
+Zottegems hoen (B)
+
+18-16
+
+65-65
+
+\-
+
+\-
+
+## Tamme duiven
+
+-   Ringmaat tussen haakjes = voetbevederde versie
+
+Vormduiven:
+
+Ringmaat
+
+Kooimaat
+
+Artesische manotte
+
+9
+
+40-40
+
+Basra wamduif
+
+9
+
+40-40
+
+Belgische TT-reisduif (B)
+
+9
+
+40-40
+
+Berner halbschnäbler
+
+9
+
+40-40
+
+Bleu de Gascogne
+
+9
+
+40-40
+
+Briver kleurkop
+
+10
+
+40-40
+
+Carneau (B)
+
+9
+
+40-40
+
+Cauchois
+
+10
+
+50-50
+
+Coburger leeuwerik
+
+9
+
+40-40
+
+Damascener
+
+8
+
+40-40
+
+Duitse schoonheldspostduif
+
+9
+
+40-40
+
+Egyptische swift
+
+8
+
+40-40
+
+Eichbuhler
+
+9
+
+40-40
+
+Exhibition homer
+
+10
+
+40-40
+
+Franse Sotto Banca
+
+10
+
+40-40
+
+Genuine homer
+
+9
+
+40-40
+
+Giant homer
+
+10
+
+40-40
+
+Gier
+
+9
+
+40-40
+
+Hongaarse reuzenduif
+
+15
+
+50-50
+
+Italiaanse Sotto Banca
+
+11
+
+50-50
+
+Kleurpostduif
+
+9
+
+40-40
+
+Lahore
+
+11
+
+40-40
+
+Libanonduif
+
+9
+
+40-40
+
+Luikse reisduif (B)
+
+9
+
+40-40
+
+Mariola
+
+10
+
+40-40
+
+Mondain
+
+11
+
+50-50
+
+Montauban
+
+11
+
+50-50
+
+Moravische strasser
+
+9
+
+40-40
+
+Ned. schoonheidspostduif
+
+9
+
+40-40
+
+Placentino
+
+11
+
+40-40
+
+Picardische kuifduif
+
+9
+
+40-40
+
+Poolse lynx
+
+9
+
+40-40
+
+Poster
+
+8
+
+40-40
+
+Praagse kanik
+
+8
+
+40-40
+
+Romein
+
+11
+
+50-50
+
+Ronsenaar (B)
+
+9
+
+40-40
+
+Roubaisien
+
+9
+
+40-40
+
+Show Antwerp
+
+11
+
+40-40
+
+Show homer
+
+11
+
+40-40
+
+Show racer
+
+9
+
+40-40
+
+Smijter (B)
+
+9
+
+40-40
+
+Soultzer kuifduif
+
+9
+
+40-40
+
+Strasser
+
+10
+
+50-50
+
+Syrische swift
+
+8
+
+40-40
+
+Syrische wamduif
+
+10
+
+40-40
+
+Texan
+
+10
+
+40-40
+
+Kroppers:
+
+Ringmaat
+
+Kooimaat
+
+Akener bandkropper
+
+8
+
+50-50
+
+Beierse kropper
+
+11
+
+50-50
+
+Brünner kropper
+
+7
+
+40-40
+
+Canaria kropper
+
+8
+
+40-40
+
+Eksterkropper
+
+8
+
+50-50
+
+Engelse dwergkropper
+
+8
+
+40-40
+
+Engelse kropper
+
+10
+
+50-50
+
+Franse kropper
+
+9
+
+50-50
+
+Gaditano kropper
+
+8
+
+40-40
+
+Gentse kropper (B)
+
+13
+
+50-50
+
+Hana cropper
+
+11
+
+50-50
+
+Hessische kropper
+
+9
+
+50-50
+
+Hollandse kropper
+
+12
+
+50-50
+
+Holle kropper
+
+8
+
+40-40
+
+Horseman kropper
+
+9
+
+40-40
+
+Leuvense kropper (B)
+
+11
+
+50-50
+
+Marchenero kropper
+
+8
+
+40-40
+
+Nederlandse krulveerkropper
+
+9
+
+40-40
+
+Norwich kropper
+
+8
+
+50-50
+
+Oostenrijkse eksterkropper
+
+8
+
+40-40
+
+Oud-Duitse kropper
+
+9
+
+60-60
+
+Pommerse kropper
+
+13
+
+50-50
+
+Rijselse kropper
+
+8
+
+40-40
+
+Saksische kropper
+
+11
+
+50-50
+
+Silezische kropper
+
+8
+
+50-50
+
+Starwitzer kropper
+
+8
+
+50-50
+
+Stelger kropper
+
+8
+
+50-50
+
+Thüringer kropper
+
+8
+
+50-50
+
+Tsjechische ijskropper
+
+8
+
+40-40
+
+Valenciana kropper
+
+8
+
+40-40
+
+Vedervoetige eksterkropper
+
+12
+
+50-50
+
+Voorburgse schildkropper
+
+8
+
+40-40
+
+Wratduiven:
+
+Ringmaat
+
+Kooimaat
+
+Carrier
+
+9
+
+40-40
+
+Dragoon
+
+9
+
+40-40
+
+Franse bagadet
+
+10
+
+40-40
+
+Neurenberger bagadet
+
+10
+
+40-40
+
+Poolse wratduif
+
+8
+
+40-40
+
+Spaanse aardbeioog
+
+8 (9)
+
+40-40
+
+Valkenet
+
+10
+
+40-40
+
+Kipduiven:
+
+Ringmaat
+
+Kooimaat
+
+Duitse Modena
+
+7
+
+40-40
+
+Engelse Modena
+
+9
+
+40-40
+
+Florentiner
+
+10
+
+40-40
+
+Huhnscheck
+
+10
+
+40-40
+
+King
+
+10
+
+40-40
+
+Maltezer kipduif
+
+10
+
+50-50
+
+Triganino
+
+7
+
+40-40
+
+Trommelduiven:
+
+Ringmaat
+
+Kooimaat
+
+Altenburger trommelduif
+
+8
+
+40-40
+
+Arabische trommelduif
+
+7
+
+40-40
+
+Bernburger trommelduif
+
+12
+
+50-50
+
+Boecharijse trommelduif
+
+12
+
+50-50
+
+Dresdener trommelduif
+
+12
+
+50-50
+
+Duitse dubbelgekapte trommelduif
+
+12
+
+50-50
+
+Duitse snavelgekapte trommelduif
+
+12
+
+50-50
+
+Engelse trommelduif
+
+13
+
+50-50
+
+Frankische trommelduif
+
+8
+
+40-40
+
+Vögtlandse trommelduif
+
+12
+
+40-40
+
+Kleurduiven:
+
+Ringmaat
+
+Kooimaat
+
+Aargauer witstaart
+
+8
+
+40-40
+
+Berner leeuwerik
+
+8
+
+40-40
+
+Berner sproetkop
+
+8
+
+40-40
+
+Bernhardiner schecke
+
+8
+
+40-40
+
+Boheemse vleugelduif
+
+11
+
+40-40
+
+Bohemenduif
+
+8
+
+40-40
+
+Deense svaber
+
+8
+
+40-40
+
+Eenkleurige Zwitserse duif
+
+8
+
+40-40
+
+Frankische schildduif
+
+8
+
+40-40
+
+Glansduif
+
+8
+
+40-40
+
+Hyacinthduif
+
+8
+
+40-40
+
+IJsduif\*
+
+7 (11)
+
+40-40
+
+Luzerner eenkleurige
+
+9
+
+40-40
+
+Luzerner elmer
+
+9
+
+40-40
+
+Luzerner goudkraag
+
+9
+
+40-40
+
+Luzerner koperkraag
+
+9
+
+40-40
+
+Luzerner schildduif
+
+9
+
+40-40
+
+Luzerner sproetkop
+
+9
+
+40-40
+
+Neurenberger leeuwerik
+
+8
+
+40-40
+
+Neurenberger zwaluw
+
+10
+
+40-40
+
+Oud-Duitse moorkop
+
+11
+
+40-40
+
+Saksische borstduif
+
+11
+
+40-40
+
+Saksische maanduif
+
+11
+
+40-40
+
+Saksische monnikduif
+
+11
+
+40-40
+
+Saksische ooievaarduif
+
+11
+
+40-40
+
+Saksische paapduif
+
+11
+
+40-40
+
+Saksische schildduif
+
+11
+
+50-50
+
+Saksische snipduif
+
+11
+
+50-50
+
+Saksische veldkleurduif
+
+11
+
+50-50
+
+Saksische vleugelduif
+
+11
+
+50-50
+
+Saksische witstaart
+
+11
+
+40-40
+
+Saksische verkeerd-vleugelkleurduif
+
+11
+
+40-40
+
+Saksische zwaluw
+
+11
+
+40-40
+
+Silezische moorkop
+
+8
+
+40-40
+
+Spreeuwduif
+
+7
+
+40-40
+
+Thurgauer elmer
+
+8
+
+40-40
+
+Thurgauer meelkleurige
+
+8
+
+40-40
+
+Thurgauer monnik
+
+8
+
+40-40
+
+Thurgauer schildduif
+
+8
+
+40-40
+
+Thurgauer witstaart
+
+8
+
+40-40
+
+Thüringer borstduif
+
+8
+
+40-40
+
+Thüringer goudkever
+
+8
+
+40-40
+
+Thüringer maanduif
+
+8
+
+40-40
+
+Thüringer mäuserduif
+
+8
+
+40-40
+
+Thüringer monnikduif
+
+8
+
+40-40
+
+Thüringer ooievaarduif
+
+8
+
+40-40
+
+Thüringer schildduif
+
+8
+
+40-40
+
+Thüringer snipduif
+
+8
+
+40-40
+
+Thüringer vleugelduif
+
+8
+
+40-40
+
+Thüringer witborst\*
+
+8 (9)
+
+40-40
+
+Thüringer witkop
+
+10
+
+40-40
+
+Thüringer witstaart
+
+8
+
+40-40
+
+Thüringer zwaluw
+
+8
+
+40-40
+
+Vinkduif
+
+7
+
+40-40
+
+Wiggertaler kleurstaart
+
+8
+
+40-40
+
+Zuid-Duitse blasse\*
+
+8 (10)
+
+40-40
+
+Zuid-Duitse borstduif\*
+
+8 (10)
+
+40-40
+
+Zuid-Duitse koolleeuwerik
+
+8
+
+40-40
+
+Zuid-Duitse monnikduif
+
+8
+
+40-40
+
+Zuid-Duitse moorkop
+
+8
+
+40-40
+
+Zuid-Duitse schildduif
+
+8
+
+40-40
+
+Zuid-Duitse snipduif
+
+8
+
+40-40
+
+Zuid-Duitse sproetkop
+
+8
+
+40-40
+
+Zuid-Duitse voetbevederde monnikduif
+
+10
+
+40-40
+
+Zuid-Duitse witstaart
+
+8
+
+40-40
+
+Meeuwduiven:
+
+Ringmaat
+
+Kooimaat
+
+Afrikaanse meeuw
+
+8
+
+40-40
+
+Akener lakschildmeeuw
+
+8
+
+40-40
+
+Anatolische meeuw
+
+8
+
+40-40
+
+Antwerpse smierel (B)
+
+10
+
+40-40
+
+Barbarissi meeuw
+
+8
+
+40-40
+
+Figurita meeuw
+
+7
+
+40-40
+
+Gentse meeuw (B)
+
+8
+
+40-40
+
+Hamburger sticken meeuw
+
+7
+
+40-40
+
+Italiaanse meeuw
+
+7
+
+40-40
+
+Luikse barbet (B)
+
+9
+
+40-40
+
+Luikse meeuw (B)
+
+8
+
+40-40
+
+Oosterse meeuw
+
+10
+
+40-40
+
+Oud-Duitse meeuw
+
+7
+
+40-40
+
+Oud-Hollandse meeuw
+
+8
+
+40-40
+
+Oud-Oosterse meeuw
+
+8
+
+40-40
+
+Poolse meeuw
+
+7
+
+40-40
+
+Tunesische meeuw
+
+7
+
+40-40
+
+Turbit
+
+8
+
+40-40
+
+Turbiteen
+
+10
+
+40-40
+
+Vlaanderse smierel (B)
+
+8
+
+40-40
+
+Structuurduiven:
+
+Ringmaat
+
+Kooimaat
+
+Chinese duif
+
+8
+
+40-40
+
+Chorrera
+
+7+8
+
+40-40
+
+Indiase pauwstaart
+
+10
+
+50-50
+
+Krulduif
+
+9
+
+40-40
+
+Limburgse kraagduif (B)
+
+8
+
+40-40
+
+Oud-Hollandse kapucijn
+
+8
+
+40-40
+
+Pauwstaart
+
+8
+
+50-50
+
+Raadsheer
+
+8
+
+50-50
+
+Schmalkaldener moorkop
+
+11
+
+40-40
+
+Seldschuken
+
+8
+
+40-40
+
+Hoogvliegers & Tuimelaars:
+
+Ringmaat
+
+Kooimaat
+
+Altstämmer
+
+8
+
+40-40
+
+Amsterdamse tuimelaar
+
+8
+
+40-40
+
+Anatolische ringslager
+
+7
+
+40-40
+
+Arad tuimelaar
+
+7
+
+40-40
+
+Belgische hoogvlieger (B)
+
+8
+
+40-40
+
+Belgische ringslager (B)
+
+8
+
+40-40
+
+Belgische tuimelaar (B)
+
+7
+
+40-40
+
+Berllinse Kortsnavelige tuimelaar
+
+9
+
+40-40
+
+Budapester hoogvlieger\*
+
+7 (8)
+
+40-40
+
+Budapester kievit
+
+7
+
+40-40
+
+Budapester korte
+
+7
+
+40-40
+
+Catalaanse tuimelaar
+
+7
+
+40-40
+
+Danzinger hoogvlieger
+
+7
+
+40-40
+
+Debreciner roller
+
+8
+
+40-40
+
+Deense tuimelaar\*
+
+8 (9)
+
+40-40
+
+Domestic show flight
+
+8
+
+40-40
+
+Duitse langsnavelige tuimelaar
+
+8
+
+40-40
+
+Duitse nonduif
+
+7
+
+40-40
+
+Elsterpurzler
+
+7
+
+40-40
+
+Engelse ekster
+
+9
+
+40-40
+
+Engelse kortvoorhoofdtuimelaar
+
+7
+
+40-40
+
+Engelse langvoorhoofdtuimelaar\*
+
+8 (11)
+
+40-40
+
+Engelse nonduif
+
+8
+
+40-40
+
+Erlauer tuimelaar
+
+7
+
+40-40
+
+Felégyhazer tuimelaar
+
+7
+
+40-40
+
+Franse tuimelaar
+
+7
+
+40-40
+
+Groninger slenk
+
+8
+
+40-40
+
+Gumbiner witkoptuimelaar\*
+
+7 (8)
+
+40-40
+
+Hagenaar
+
+8
+
+40-40
+
+Hamburger helmduif
+
+7
+
+40-40
+
+Hamburger schimmel
+
+8
+
+40-40
+
+Hamburger tuimelaar
+
+7
+
+40-40
+
+Karakand
+
+8
+
+40-40
+
+Kasaner tuimelaar
+
+8
+
+40-40
+
+Keulse tuimelaar\*
+
+8 (11)
+
+40-40
+
+Kiev tuimelaar
+
+9
+
+40-40
+
+Komorner tuimelaar
+
+7
+
+40-40
+
+Koningsberger kleurkop\*
+
+7 (9)
+
+40-40
+
+Koningsberger reinoog\*
+
+7 (8)
+
+40-40
+
+Köröser tuimelaar
+
+7
+
+40-40
+
+Krasnodarer tuimelaar
+
+8
+
+40-40
+
+Mookee
+
+7
+
+40-40
+
+Nederlandse helmduif
+
+8
+
+40-40
+
+Nederlandse hoogvlieger
+
+8
+
+40-40
+
+Noord-Kaukasische postuurtuimelaar
+
+1
+
+40-40
+
+Oosterse roller
+
+7
+
+40-40
+
+Oud-Hollandse tuimelaar
+
+11
+
+40-40
+
+Oud-Oostenrijkse tuimelaar
+
+7
+
+40-40
+
+Poolse helmduif
+
+10
+
+40-40
+
+Poolse kortsn. ekstertuimelaar
+
+9
+
+40-40
+
+Poolse langsnavelige tuimelaar
+
+8
+
+40-40
+
+Portugese tuimelaar
+
+7
+
+40-40
+
+Rijnlandse ringslager
+
+7
+
+40-40
+
+Roemeense naakthalstuimelaar
+
+7
+
+40-40
+
+Rostock tuimelaar
+
+7
+
+40-40
+
+Rostower postuurtuimelaar
+
+10
+
+40-40
+
+Shiras tuimelaar
+
+9
+
+40-40
+
+Show tippler
+
+7
+
+40-40
+
+Speelderken (B)
+
+7
+
+40-40
+
+Stargarder sidderhals\*
+
+7 (9)
+
+40-40
+
+Stettiner tuimelaar
+
+7
+
+40-40
+
+Stralsunder hoogvlieger
+
+7
+
+40-40
+
+Taganroger tuimelaar
+
+7
+
+40-40
+
+Temesburger tuimelaar
+
+7
+
+40-40
+
+Weense kortsnavelige tuimelaar
+
+7
+
+40-40
+
+Weense tuimelaar\*
+
+7 (8)
+
+40-40
+
+Weense witschildtuimelaar
+
+7
+
+40-40
+
+Wener gansel
+
+7
+
+40-40
+
+West of England tuimelaar
+
+10
+
+40-40
+
+Woiga postuurtuimelaar
+
+10
+
+40-40
+
+## Tamme park- en watervogels
+
+Eendenrassen:
+
+Ringmaat
+
+Kooimaat
+
+Alliereend
+
+18
+
+60x60
+
+Amerikaanse Pekingeend
+
+18
+
+60x60
+
+Aylesbury eend
+
+18
+
+60x60
+
+Balieend
+
+14
+
+75x60
+
+Campbelleend
+
+16
+
+60x60
+
+Cayuga eend
+
+16
+
+60x60
+
+Challanseend
+
+16
+
+60x60
+
+Dendermondse eend (B)
+
+18
+
+60x60
+
+Duclaireend
+
+16
+
+60x60
+
+Duitse Pekingeend
+
+18
+
+75x60
+
+Dwergkuifeend
+
+12
+
+50x50
+
+Eend van Vorst (B)
+
+16
+
+60x60
+
+Ekstereend
+
+16
+
+60x60
+
+Engelse Roueneend
+
+18
+
+60x60
+
+Estaireseend
+
+16
+
+60x60
+
+Franse Roueneend
+
+18
+
+60x60
+
+Gimbsheimer eend
+
+18
+
+60x60
+
+Hoogbroed vliegeend
+
+12
+
+50x50
+
+Huttegemse eend (B)
+
+14
+
+60x60
+
+Indische loopeend
+
+14
+
+75x60
+
+Kuifeend
+
+16
+
+60x60
+
+Kwaker
+
+10
+
+50x50
+
+Merchtemse eend (B)
+
+18
+
+60x60
+
+Muskuseend
+
+22-18
+
+80-60
+
+Noordholl. krombekeend
+
+14
+
+60x60
+
+Noordhollandse witborsteend
+
+14
+
+60x60
+
+Orpingtoneend
+
+16
+
+60x60
+
+Overbergse eend
+
+15
+
+60x60
+
+Pommerse eend
+
+18
+
+60x60
+
+Saksische eend
+
+18
+
+60x60
+
+Semoiseend (B)
+
+12
+
+50x50
+
+Silver Appleyard
+
+18
+
+60x60
+
+Silver Appleyard dwergeend
+
+12
+
+50x50
+
+Smaragdeend
+
+11
+
+50x50
+
+Streicher eend
+
+15
+
+60x60
+
+Veneto eend
+
+18
+
+60x60
+
+Welsh Harlekijneend
+
+15
+
+60x60
+
+Ganzenrassen:
+
+Ringmaat
+
+Kooimaat
+
+Afrikaanse knobbelgans
+
+27
+
+100x100
+
+Amerikaanse buffgans
+
+27
+
+100x100
+
+Bohemengans
+
+22
+
+100x100
+
+Bourbonnaisgans
+
+27
+
+100x100
+
+Brecon buffgans
+
+24
+
+100x100
+
+Celler gans
+
+24
+
+100x100
+
+Chinese knobbelgans
+
+24
+
+100x100
+
+Diepholzer gans
+
+24
+
+100x100
+
+Duitse krulveergans
+
+24
+
+100x100
+
+Duitse leggans
+
+27
+
+100x100
+
+Elzasser gans
+
+22
+
+100x100
+
+Emdengans
+
+27
+
+100x100
+
+Empordagans
+
+24
+
+100x100
+
+Engelse krulveergans
+
+24
+
+100x100
+
+Frankische landgans
+
+22
+
+100x100
+
+Grijze Landesgans
+
+24
+
+100x100
+
+Gans van de Vire en de Ton (B)
+
+22
+
+100x100
+
+Lippegans
+
+24
+
+100×100
+
+Normandische gans
+
+24
+
+100x100
+
+Pelgrimgans
+
+24
+
+100x100
+
+Poitougans
+
+24
+
+100x100
+
+Pommerse gans
+
+27
+
+100x100
+
+Russische gans
+
+27
+
+100x100
+
+Steinbacher vechtgans
+
+24
+
+100x100
+
+Toulousegans, licht type
+
+27
+
+100x100
+
+Toulousegans, zwaar type
+
+27
+
+100x100
+
+Tourainegans
+
+24
+
+100x100
+
+Tula vechtgans
+
+27
+
+100x100
+
+Twentse landgans
+
+24
+
+100x100
+
+Vlaamse gans (B)
+
+22
+
+100x100
+
+West of England gans
+
+24
+
+100x100
+
+Zadelruggans
+
+24
+
+100x100
+
+Kalkoenrassen:
+
+Ringmaat
+
+Kooimaat
+
+Amerikaanse blauwe kalkoen
+
+27-24
+
+100x100
+
+Amerikaanse bronskalkoen
+
+27-24
+
+100x100
+
+Amerikaanse zwarte kalkoen
+
+27-24
+
+100x100
+
+Duitse blauwe kalkoen
+
+24-22
+
+100x100
+
+Duitse bronskalkoen
+
+27-24
+
+100x100
+
+Duitse gele kalkoen
+
+24-22
+
+100x100
+
+Duitse roodvleugelkalkoen
+
+24-22
+
+100x100
+
+Duitse witte kalkoen
+
+27-24
+
+100x100
+
+Duitse zwarte kalkoen
+
+24-22
+
+100x100
+
+Duitse zwartvleugelkalkoen
+
+27-24
+
+100x100
+
+Engelse buffkalkoen
+
+24-22
+
+100x100
+
+Gerskalkoen
+
+27-24
+
+100x100
+
+Itaiaanse kastanjekalkoen
+
+24-22
+
+100x100
+
+Narragansett kalkoen
+
+27-24
+
+100x100
+
+Norfolkkalkoen
+
+24-22
+
+100х100
+
+Rode Ardenner kalkoen (B)
+
+24-22
+
+100x100
+
+Rode Bourbonkalkoen
+
+24-22
+
+100x100
+
+Ronquières kalkoen (B)
+
+24-22
+
+100x100
+
+Solognekalkoen
+
+24-22
+
+100x100
+
+White Holland kalkoen
+
+27-24
+
+100x100
+
+White Holland kalkoen
+
+27-24
+
+100x100
+
+Overige:
+
+Ringmaat
+
+Kooimaat
+
+Legkwartel
+
+6
+
+40x40
+
+Parelhoen
+
+16
+
+60x60
+
+---
+
+## Ringen en oormerken
+
+URL: https://avivaria.be/ringen-en-oormerken
+
+Avivaria homepage
+
+
+# Ringen en oormerken
+
+## Ringen
+
+Het “hoe en wat” en de bestelformulieren van AVIVARIA zowel voor hoenders als voor duiven vind je in het clublokaal tijdens de vergaderingen en op de website [www.avivaria.be](http://www.avivaria.be)
+
+Je bestelling altijd doorgeven aan [ringenverdelers.avivaria@gmail.com](mailto:ringenverdelers.avivaria@gmail.com) of rechtstreeks bij de ringenverdelers op de ledenvergaderingen, maar **zeker voor elke 10de van elke maand**. De laatste bestelling noteren wij op 10 april 2026. Zij die graag tijdig hun ringen bestellen, kunnen dit doen vanaf 10 december 2025.
+
+Gelieve in de mail steeds je lidnummer door te geven bij iedere bestelling.
+
+**Opgelet:** Om de ringendienst te ontlasten vragen we om per maat minimum 5 stuks/bestelling aan te vragen.
+
+Dit geldt eveneens voor de tatoeëerkaarten voor konijnen. Prijs per ring of per kaart is 0,25 EUR + eventuele verzendingskosten. Bij afhaling in het clublokaal dienen er geen verzendingskosten bijgerekend te worden.
+
+**Denk eraan:** de bestelling is pas geldig na betaling. De betaling kan gebeuren of cash bij één van beide verantwoordelijken (Veerle Lambrighs of Robin Housen) of per overschrijving op het rekeningnummer van de club **BE75 0680 9145 4051** met vermelding van de naam voor wie ze bestemd zijn en het aantal ringen of aantal kaarten. Niet betaald = geen bestelling!
+
+-   [Bestelformulier duivenringen](/dl/bestelformulier_duivenringen_2026.pdf)
+-   [Bestelformulier ringen hoenders, krielen, park- en watervogels](/dl/bestelformulier_ringen_2026.pdf)
+
+Nominatieve ringen (of ringen landsbond met stamnummer): Voor Europese beschermde soorten die wettelijk mogen gehouden worden wanneer ze een nominatieve gesloten voetring dragen, moet je rechtstreeks bestellen via de nationale ringenverdeler: Geert De Clercq, Klemhoutstraat 99, 9620 Zottegem – tel. 09 361 17 12 ([LFN1992@hotmail.com](mailto:LFN1992@hotmail.com)). Voor onze hobby zijn dit eendvogels (zoals wilde eend), hoender-vogels (vb. bosfazant) en duiven (vb. Europese tortel). De lijst van de beschermde Europese soorten vind je in het fokkersboek.
+
+Het bestelformulier staat ook op de website van het VIVFN.
+
+-   [Bestelformulier nominatieve ringen](/dl/bestelformulier_nominatieve_ringen_2025.xlsx)
+
+## Tatoeëerkaarten
+
+Deze kan je via de vereniging bestellen. Het tatoeëren moet je echter zelf doen; de vereniging beschikt niet meer over een tatoeëerder.
+
+**Prijs per kaart:** 0,25 EUR + eventuele verzendingskosten
+
+Melden bij Sonja ([avivaria@skynet.be](mailto:avivaria@skynet.be)) met vermelding van het aantal en de welke voor welke konijn de kaart moet dienen (klein – midden – groot ras).
+
+---
+
+## Ruil en verkoopdagen 2026
+
+URL: https://avivaria.be/ruil-en-verkoopdagen
+
+Avivaria homepage
+
+
+# Ruil en verkoopdagen 2026
+
+KLEINDIERKLUB AVIVARIA vzw, Heksenbergstraat 5-7, Hasselt
+
+#### Goed om te weten:
+
+-   Uiterste inschrijvingsdatum: 22 augustus 2026
+-   Opbouw hokken en parketten: woensdag 26 augustus vanaf 19u00
+-   Inkorven binnenkooien:
+    -   vrijdag 28 augustus van 20u en 21u
+    -   zaterdag 29 augustus van 8u tot 8u30
+-   Inkorven buitenparket: zaterdag 29 augustus vanaf 08u
+-   Plaatsen stand met aanverwante artikelen: zaterdag vanaf 08u
+-   Verkoop dieren: de verkoop start zowel binnen als buiten om 09u
+-   Aanvullen of prijswijziging binnenhokken: vanaf één uur na start verkoop
+-   Uitkorving niet-verkochte/te ruilen dieren: zondag 30 augustus tussen 16u en 16u30
+
+![Ruil- en verkoopdagen](/_astro/ruil-en-verkoopdagen.Dfi1Adai_1bPU3a.webp)
+
+### ALGEMEEN REGLEMENT
+
+-   deelname kan door iedereen, ook niet clubleden.
+-   alle dieren, die onze vereniging patroneert, mogen aangeboden worden.
+
+#### WETTELIJKE REGLEMENTERING
+
+Het vaccineren moet met “de naald” gebeuren in ons land en niet via het drinkwater zoals bijvoorbeeld in Nederland.
+
+De vaccinatie moet ten minste 15 dagen en ten hoogste 9 maanden voor de verplaatsing gebeuren.  
+Voor het F.A.V.V. moeten we enkel het pluimvee (uitgezonderd watervogels) vaccineren; daarom is het ook belangrijk dat de dieren geringd zijn. Voor konijnen en cavia’s wordt noch een oormerk noch een vaccinatie door de instanties gevraagd.  
+De dieren staan onder toezicht van de veearts mevrouw Petra Lambrighs.
+
+#### A. BINNENHOKKEN: (onder toezicht van de vereniging)
+
+-   Deelname in de onkosten: 0,50 EUR per hoknummer (max. een trio per hoknummer), verdere onkosten dienen er niet vergoed te worden.  
+    **Leden krijgen binnen 6 hoknummers gratis – niet-leden krijgen 4 hoknummers gratis!**  
+    De dieren worden per hoknummer geruild of verkocht.
+-   Lege hokken mogen aangevuld worden, niet noodzakelijk met dezelfde diersoorten of in dezelfde kleurslagen. Een vergoeding van 0,50 EUR/hoknummer wordt aangerekend. Men dient het secretariaat hiervan in kennis te stellen.
+-   Prijswijzigingen kunnen vanaf één uur na de start van de verkoop.
+-   Vermelden van ring- of tatoeëernummer op het inschrijvings-formulier is dringend aangeraden (bij niet vermelding kan de vereniging niet instaan voor het exact terugplaatsen van eventueel uitgebroken dieren).
+-   Zieke of gekwetste dieren, evenals kruisingen, worden geweigerd.
+-   **Men dient de wettelijke reglementeringen in acht te nemen. DE STANDHOUDER GEEFT HET ENTFORMULIER AF AAN HET TENTOONSTELLINGSECRETARIAAT.**
+-   Prijzen, zoals vermeld op het officiële inschrijvingsformulier, worden op de kooien aangebracht, gelieve deze bij inkorving te checken.
+-   Bij het inzenden van de inschrijvingsformulieren dienen de prijzen vermeld te staan op het inschrijvingsformulier.
+-   Er wordt een witte kaart met de rasnaam van het dier aangebracht op het hok, samen met dezelfde genummerde gekleurde kaart.
+-   Indien de gekleurde kaart verwijderd wordt, betekent dit dat je het desbetreffende dier(en) wenst aan te schaffen. De geruilde en/of gekochte dieren mogen onmiddellijk meegenomen worden onder begeleiding van iemand van het bestuur of een gemachtigde van de vereniging. Na het verwijderen van de gekleurde kaart, moet de aankoop/ruil binnen het uur vereffend worden bij het tentoonstellings-secretariaat.
+-   De vereniging kan niet verantwoordelijk gesteld worden voor gebeurlijke ongevallen, sterfte, ziekte of diefstallen.
+-   Er zal gezorgd worden voor permanent toezicht en nachtwacht.
+-   Voor gevallen niet voorzien in het reglement beslist het inrichtend bestuur.
+-   Binnen deze ruimte mag géén transportmateriaal meegenomen worden.
+-   Dieren in- of uitkooien mag enkel onder begeleiding van iemand van het bestuur of een gemachtigde van de vereniging.  
+    **Bij inkorving wordt er voorrang verleend aan de reglementair ingeschreven dieren.**  
+    **Bij wijziging verwijzen we je door naar het 2de secretariaat.**
+
+#### B. DIERPARKET (BUITENPARKET): (onder eigen toezicht)
+
+-   Deelnemers dienen zich op voorhand in te schrijven
+-   Deelname in de onkosten: 5,00 EUR/parket.
+-   Aankruisen of men 1 of 2 dagen aanwezig is.
+-   Zieke of gekwetste dieren, evenals kruisingen, worden geweigerd
+-   **Men dient de wettelijke reglementeringen in acht te nemen. DE STANDHOUDER LAAT AAN DE MARKTVERANTWOORDELIJKE HET ENTFORMULIER ZIEN aan de toegangspoort.**
+-   De dieren worden zelf door de parkethouder geruild of verkocht (de standhouder zorgt zelf voor dozen of kisten).
+-   Het « registratieformulier » dient ingevuld en afgegeven te worden aan het secretariaat van de inrichtende vereniging (wettelijke verplichting).
+
+#### C. STAND MET AANVERWANTE ARTIKELEN (GEEN DIEREN)
+
+-   Andere standen (vb. boeken, bloemen, …): gratis (tafels 2m).
+-   Aankruisen of men 1 of 2 dagen aanwezig is
+
+**OPGELET:** De vereniging kan niet verantwoordelijk gesteld worden voor gebeurlijke ongevallen, sterfte, ziekte of diefstallen.
+
+#### INSCHRIJVING ZENDEN NAAR:
+
+Sauwens Sonja, Grote Negenbundersstr. 42, 3511 Kuringen of naar [avivaria@skynet.be](mailto:avivaria@skynet.be)
+
+#### INSCHRIJVINGSFORMULIER
+
+Download het inschrijvingsformulier hier, of vraag het samen met het reglement aan bij de vereniging: [avivaria@skynet.be](mailto:avivaria@skynet.be). Invullen, opslaan en daarna per e-mail terugzenden en dit uiterlijk tegen 22 augustus 2026.
+
+### VERKOOPWEEKEND:
+
+Zaterdag 29 augustus 2026 van 9u tot 16u Zondag 30 augustus 2026 van 9u tot 16u De verkoop start om 9u; wij vragen aan alle inzenders om zich aan dit startuur te houden. Geïnteresseerden kunnen tussen 8u en 8u45 enkel een kijkje nemen bij het aanbod.
+
+**OPGELET:** Kofferbakverkoop mag niet - zo krijgen we moeilijkheden met de overheid - (zowel de vereniging als de verkoper kan in de problemen komen)
+
+#### INKORVING:
+
+-   Voor de binnenhokken:
+    -   liefst op vrijdag 28 augustus tussen 20u00 en 21u00
+    -   zaterdag 29 augustus tussen 8u en 8u30
+-   Buitenparketten of andere standen: (poort gaat pas open om 08 uur)
+    -   zaterdag tussen 8u en 8u45
+-   Bij niet tijdig inkorven dient men te wachten tot na de opening van de beurs.
+
+#### UITKORVING:
+
+Zondag 30 augustus van 16u tot 16u30.
+
+#### PLAATS:
+
+Kleindierklub Avivaria vzw, Heksenbergstraat 5-7 te Hasselt
+
+---
+
+## Tags
+
+URL: https://avivaria.be/tags
+
+Avivaria homepage
+
+
+# Tags
+
+-   [Nextjs 1](/tags/nextjs)
+-   [Tailwind 3](/tags/tailwind)
+-   [Technology 2](/tags/technology)
+-   [Software 1](/tags/software)
+-   [Silicon 1](/tags/silicon)
+
+---
+
+## Nextjs
+
+URL: https://avivaria.be/tags/nextjs
+
+Avivaria homepage
+
+
+# Nextjs
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-1)
+
+-   [John Doe](/authors/john-doe)
+-   [Application,](/categories/application)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-1)
+
+---
+
+## Silicon
+
+URL: https://avivaria.be/tags/silicon
+
+Avivaria homepage
+
+
+# Silicon
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-4)
+
+-   [John Doe](/authors/john-doe)
+-   [Architecture](/categories/architecture)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-4)
+
+---
+
+## Software
+
+URL: https://avivaria.be/tags/software
+
+Avivaria homepage
+
+
+# Software
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-3)
+
+-   [John Doe](/authors/john-doe)
+-   [Software](/categories/software)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-3)
+
+---
+
+## Tailwind
+
+URL: https://avivaria.be/tags/tailwind
+
+Avivaria homepage
+
+
+# Tailwind
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-1)
+
+-   [John Doe](/authors/john-doe)
+-   [Application,](/categories/application)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-1)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-2)
+
+-   [Sam Wilson](/authors/sam-wilson)
+-   [Technology,](/categories/technology)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-2)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-3)
+
+-   [John Doe](/authors/john-doe)
+-   [Software](/categories/software)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-3)
+
+---
+
+## Technology
+
+URL: https://avivaria.be/tags/technology
+
+Avivaria homepage
+
+
+# Technology
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-2)
+
+-   [Sam Wilson](/authors/sam-wilson)
+-   [Technology,](/categories/technology)[Data](/categories/data)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-2)
+
+![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+
+#### [How to build an Application with modern Technology](/blog/post-4)
+
+-   [John Doe](/authors/john-doe)
+-   [Architecture](/categories/architecture)
+-   04 Apr, 2022
+
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
+
+[read more](/blog/post-4)
+
+---
+
+## Te onthouden datums
+
+URL: https://avivaria.be/te-onthouden-datums
+
+Avivaria homepage
+
+
+# Te onthouden datums
+
+#### MEI
+
+-   _31-05 09u30_ : ledenvergadering “King duiven en Chinese duiven”
+
+#### JUNI
+
+-   _05-06 20u00_ : bestuursvergadering
+-   _28-06 09u30_ : ledenvergadering
+
+#### JULI
+
+-   _03-07 20u00_ : bestuursvergadering
+
+#### AUGUSTUS
+
+-   _01-08 18u00_ : barbecue
+-   _07-08 20u00_ : bestuursvergadering
+-   _26-08 19u00_ : opbouw ruil- en verkoopdagen
+-   _29&30-08 9u_ : ruil- en verkoopdagen + opruimen
+
+---
+
+## Tentoonstelling 2026
+
+URL: https://avivaria.be/tentoonstelling
+
+Avivaria homepage
+
+
+# Tentoonstelling 2026
+
+#### PROVINCIALE WEDSTRIJDEN EN KLEINDIERTENTOONSTELLING van pluim- en pelsdieren
+
+Ingericht door KLEINDIERCLUB AVIVARIA V.Z.W.  
+Onder beheer van het Vlaams Verbond van fokkers van neerhofdieren v.z.w. en de provinciale kring Limburg.
+
+* * *
+
+-   **Datum:** 08 en 09 november 2025
+-   **Plaats:** clublokaal Avivaria vzw, Heksenbergstraat 5-7 te Hasselt
+-   **Inschrijving:** voor 27 oktober 2025 bij het secretariaat, Sauwens S., Grote Negenbundersstraat 42, 3511 Kuringen
+-   **Inkorving:**
+    -   donderdag 06 november 2025 van 19u tot 22 uur
+    -   vrijdag 07 november 2025 van 8u tot 8u30 (zeker vermelden op het inschrijvingsformulier)
+-   **Keuring:** vrijdag 07 november 2025 vanaf 09 uur
+-   **Opening:**
+    -   zaterdag 08 november 2025 van 10u -19u
+    -   zondag 09 november 2025 van 10u-17u (voor de bezoekers sluiten de poorten zondag om 17u)
+-   **Prijsuitreiking:** zondag 09 november om 16u.
+-   **Uitkorving:** zondag 09 november 2025 vanaf 17u.
+-   **Rekeningnummer van de vereniging:**  
+    IBAN: BE75 0680 9145 4051  
+    BIC: GKCCBEBB
+-   **Inkom:** gratis
+
+#### Inschrijving
+
+-   **Inschrijvingsformulier:** download [hier](/dl/inschrijvingsformulier-tt-2025.pdf)
+-   **Mailen naar:** [avivaria@skynet.be](mailto:avivaria@skynet.be)
+-   **of opsturen naar:** Sauwens S., Grote Negenbundersstraat 42, 3511 Kuringen
+-   **Uiterste inschrijvingsdatum:** 27 oktober 2025
+
+#### Algemeen reglement van inwendige orde
+
+##### Artikel 1.
+
+-   De wedstrijd of tentoonstelling wordt ingericht volgens de regels en de voorschriften van het algemene reglement keuringen-tentoonstellingen, de voorschriften van de provinciale kring, het provinciaal verbond, van het Vlaams Verbond en de Landsbond, waaraan de deelnemers-tentoonstellers zich door hun inschrijving automatisch onderwerpen. De deelnemers-tentoonstellers kunnen het desbetreffende reglement raadplegen. Het ligt ter inzage. (07.09.1996).
+
+##### Artikel 2.
+
+-   De keuring der dieren heeft plaats op vrijdag 07-11-2025 vanaf 09u, volgens het predicatenstelsel (beheerraad Landsbond - 24 februari 2002). Tegen de beslissing van de jury is geen verhaal.
+
+##### Artikel 3.
+
+-   De tentoonstelling staat open voor al de leden waarvan het Landelijk Verbond aangesloten is bij de Europese Entente. De dieren zullen een erkend officieel merkteken dragen (ring of tatoeage). De exposanten der vijf Vlaamse provincies moeten in het bezit zijn van een fokkerskaart, waarvan het Nr. dient vermeld op het inschrijvingsformulier.
+
+##### Artikel 4.
+
+-   Kunnen ingezonden worden: alle erkende rassen en kleurslagen van grote hoenders, dwerghoenders, sierduiven, park- en watervogels, konijnen en cavia’s.
+
+##### Artikel 5.
+
+-   De inschrijving voor deze tentoonstelling indienen uiterlijk tegen 27 oktober 2025 bij Kleindierclub Avivaria vzw, p.a. Sauwens Sonja, de secretaris, Grote Negenbundersstr. 42, 3511 Hasselt of per e-mail: [avivaria@skynet.be](mailto:avivaria@skynet.be).
+
+#### Artikel 6.
+
+-   De dieren dienen te worden ingeschreven per ras en kleurslag in de volgorde: mannelijk oud - vrouwelijk oud - mannelijk jong - vrouwelijk jong. Gelieve duidelijk te vermelden bij de kippen of ze behoren tot het grote (hoenders) of kleine ras (krielen).
+
+##### Artikel 7.
+
+-   De dieren staan onder toezicht van de dierenarts de Heer Peter Vanden Bunder.
+
+##### Artikel 8.
+
+-   Het inschrijvingsgeld bedraagt:
+    -   leden 3,00 EUR/dier
+    -   niet-leden 4,00 EUR/dier
+-   De palmares is verplichtend voor alle deelnemers, één per gezin. De prijs bedraagt 4,00 (elke deelnemer die minimum 10 dieren inschrijft, krijgt de palmares gratis)
+-   het inschrijvingsgeld mag gestort worden op het rekeningnummer van de vereniging – BE75 0680 9145 4051
+
+##### Artikel 9.
+
+-   De te koop gestelde dieren (binnen de tentoonstelling) moeten op het inschrijvingsblad vermeld worden, het zijn nettoprijzen voor de koper. Voor elk **verkocht dier** zal de eigenaar 1,00 EUR aan de club betalen. Voor elke wijziging, na inzending van het inschrijvingsformulier, wordt er 0,50 EUR per wijziging gevraagd voor administratiekosten.
+-   De prijzen worden aangebracht aan de kooien. In de catalogus worden de te koop gestelde dieren vermeld aangeduid met “X”. De verkoopsom wordt gestort aan de verkoper.
+
+##### Artikel 10.
+
+-   De inrichters kunnen niet aansprakelijk gesteld worden voor schade of diefstal. Een waakdienst zal ingesteld worden.
+
+##### Artikel 11.
+
+-   De prijzen toegekend door de Provinciale Kring en de club reiken we uit op zondag 09 november om 16u in het clublokaal van Avivaria, Heksenbergstraat 5-7 te Hasselt.
+
+##### Artikel 12.
+
+-   Onvoorziene gevallen worden beslecht door het inrichtende comité in samenwerking met de provinciale afgevaardigde.
+
+##### Artikel 13.
+
+-   Door zijn inschrijving verklaart de exposant zich akkoord met dit reglement.
+
+##### Artikel 14.
+
+-   Van de inschrijver wordt verwacht dat de dieren volgens de wettelijke bepalingen of volgens de regelgeving van het V.I.V.F.N. zijn ingeënt. De nodige bewijsstukken mailen of toevoegen bij de inschrijving en zenden naar het secretariaat.
+
+##### Artikel 15.
+
+-   Bij gelijkheid der punten dient men rekening te houden met: jong gaat voor oud en mannelijk gaat voor vrouwelijk.
+
+##### Artikel 16.
+
+-   Volgende keurmeester maken deel uit van de jury:
+    -   duiven: de heren Demeur Marnick, Lawarrée Guy en Steppe Luc
+    -   krielen en hoenders: de heren Jacques Rousseau, Smets Frans, Marc Lambrechts en Voets Jan
+    -   park- en watervogels: Boudewijn Goddeeris
+    -   konijnen: de heer Panis André
+    -   cavia’s: de heer Alex Cloosterin
+-   Voorzitter van de hoofdjury is onderlijnd.
+-   afgevaardigde Provinciaal Verbond: de heer Eddy Steegmans
+
+#### Huishoudelijk Reglement
+
+-   Inkorving van de dieren gebeurt onder begeleiding.
+-   Uitkorving vanaf 17u, na afhaling van de nodige documenten bij het tentoonstellingssecretariaat.
+-   Iedere verkoop van dieren moet gebeuren door bemiddeling van een tentoonstellingscommissaris, na zich te wenden tot het technische secretariaat van de tentoonstellingen. Verkochte dieren kunnen dadelijk meegenomen worden, behalve de dieren die een titel behaald hebben van “Beste dier”.
+-   De inrichters wijzen iedere verantwoordelijkheid af voor de slechte of onduidelijke opgestelde inschrijvingsformulieren.
+-   Na de inkorving, is het verboden de dieren aan te raken, te plagen of uit te kooien. Deze regel geldt ook voor de eigenaar van de tentoongestelde dieren.
+-   Ingeschreven dieren mogen enkel vervangen worden door dieren van hetzelfde ras, kleurslag, geslacht en leeftijd.
+
+#### Prijzen
+
+###### 1\. GELDPRIJZEN GESCHONKEN DOOR DE PROVINCIALE KRING AAN DE BESTE PROVINCIALE FOKKER IN DE DIERGROEPEN:
+
+duiven, krielen, hoenders, konijnen, cavia’s, parkvogels, watervogels, tamme parkvogels, tamme watervogels
+
+1.  beste provinciaal fokker kampioen
+    -   prijs: 25 euro + oorkonde
+2.  2de beste provinciale fokker
+    -   prijs 15 euro + oorkonde
+3.  3de beste provinciale fokker
+    -   10 euro + oorkonde
+
+Voorwaarden:
+
+-   De fokkers dienen minstens vijf dieren in te zenden van dezelfde diergroep.
+-   De 5 beste predicaten worden samengeteld. Bij gelijkheid der punten dient men rekening te houden met: jong gaat voor oud en mannelijk gaat voor vrouwelijk.
+-   Bij verdere gelijkheid der punten dient men rekening te houden met het zesde, daarna met het zevende, … hoogste predicaat van deze diergroep.
+
+###### 2\. PRIJZEN GESCHONKEN DOOR KLEINDIERCLUB AVIVARIA VZW
+
+###### A) BESTE DIER NATURAPRIJS – AAN TE DUIDEN DOOR DE KEURMEESTER(‘S) VAN DE DESBETREFFENDE DIERSOORTEN
+
+-   Om in aanmerking te kunnen komen moet het dier een minimum predikaat “94” behalen.
+-   om vast te stellen bij welke indeling de dieren behoren zullen de inrichters zich enkel houden aan de Belgische standaarden en de N.H.D.B.
+-   indien de dieren niet vermeld staan in één van deze standaarden, beslist de vereniging in welke diergroep zij behoren.
+-   de diersoorten zullen als volgt worden ingedeeld:
+    -   Belgisch
+        -   hoenders
+        -   krielen
+        -   konijnen
+        -   duiven
+    -   niet-Belgisch
+        -   hoenders
+        -   krielen
+        -   konijnen
+        -   duiven
+-   cavia’s
+-   park- en watervogels :
+    -   gedomesticeerde parkvogel
+    -   gedomesticeerde watervogel
+    -   niet-gedomesticeerde parkvogel
+    -   niet-gedomesticeerde watervogel
+
+###### B) PRIJZENGELD – AAN TE DUIDEN DOOR DE KEURMEESTERS
+
+Voorwaarden:
+
+-   De dieren worden zoveel mogelijk per ras en kleurslag gebundeld (cavia’s met en zonder oormerk zijn afzonderlijke groepen) in reeksen van 10 dieren.
+-   Indien het aantal dieren in de reeks meer of minder is dan 10, worden de prijzen aangepast naargelang het aantal dieren.
+-   Er wordt geen rekening gehouden met het geslacht.
+-   Het tentoonstellingsbestuur zal indien nodig de groepen samenstellen door zoveel mogelijk aanverwante rassen te groeperen.
+-   Na de keuring worden de ondertekende lijst van de samen- gevoegde dieren aangeplakt in de tentoonstellingsruimte.
+
+1.  A rato van 10 dieren van hetzelfde ras worden volgende prijzen uitgereikt:
+    -   7,50 EUR voor het beste
+    -   5,00 EUR voor de 2e beste
+    -   2,50 EUR voor het 3e beste dier.
+2.  A rato van 10 dieren van verschillende rassen worden volgende prijzen uitgereikt:
+    -   5,00 EUR voor het beste
+    -   5,00 EUR voor de 2e beste
+    -   2,50 EUR voor het 3e beste dier.
+    -   2,50 EUR voor het 4e beste dier
+
+###### C) ELKE JEUGDDEELNEMER
+
+-   \-18 jarigen krijgen een aandenkingsgeschenk.
+
+###### 3\. PRIJZEN GESCHONKEN DOOR ANDEREN
+
+Vlaamse Chabo Club (VCC):
+
+Voorzitter: Pieter Deprez – e-mail: [pieter.deprez@hotmail.com](mailto:pieter.deprez@hotmail.com)  
+Secretariaat: Jaak Bolle - e-mail: [Jaak.bolle@telenet.be](mailto:Jaak.bolle@telenet.be)  
+Lidgeld € 15,00: storten op rekening BE57 0637 9065 6735
+
+Het bestuur van de Vlaamse Chabo Clubschenkt volgende geldprijzen voor de leden die in orde zijn met het lidgeld 2025
+
+-   97 pntn = € 6,00
+-   96 pntn = € 4,00
+-   95 pntn = € 2,00
+
+Deze prijzen worden door de speciaalclub uitbetaald op de algemene ledenvergadering of via overschrijving. De deelnemer zal de palmares (of fotokopie ervan) sturen naar de secretaris van de club tegen uiterlijk 01/03/2026. (De prijzenpot bedraagt maximum 200€)
+
+Vlaamse vereniging voor Tamme Park- en Watervogels
+
+Voorzitter: Boudewijn Goddeeris  
+Secretaris: Sonja Sauwens – [sonja.sauwens@gmail.com](mailto:sonja.sauwens@gmail.com)  
+Prijs: 20,00 euro per prijs
+
+Voorwaarde: Minimum predikaat 94 behalen
+
+-   beste Belgische eend
+-   beste Belgische gans
+-   beste Belgische kalkoen
+-   beste niet-Belgische eend
+-   beste niet-Belgische gans
+-   beste niet-Belgische kalkoen
+-   beste parkvogel anders dan een kalkoen
+
+De Belgische Dwergenclub
+
+korf met streekproducten voor de beste dwerg (alle dwergrassen) aan te duiden door de keurmeester
+
+Cochinclub België
+
+zak kippenvoer voor de beste Cochin kriel aan te duiden door de keurmeester
+
+Prijzengeld geschonken door de bestuurders:
+
+-   € 5 voor de beste Vlaamse gans
+-   € 5 voor de beste Semois eend
+-   € 5 voor de beste Knobbelgans
+-   € 5 voor de beste gedomesticeerde Muskuseend
+-   € 5 voor de beste vechter (hoen of kriel)
+-   € 5 voor het beste Mechelse hoen of kriel
+-   € 5 voor het beste konijn groot ras
+-   € 5 voor de beste cavia anders dan gladhaar
+-   € 5 voor de beste tuimelaar of hoogvlieger
+-   € 5 voor de beste fazant
+-   **aan te duiden door de keurmeester**
+
+#### Reglement Clubkampioenschap
+
+-   De deelnemers die in aanmerking wensen te komen om als clubkampioen aangeduid te worden, dienen lid te zijn van Kleindierclub Avivaria v.z.w. Zij dienen minstens vijf dieren in te zenden van dezelfde diergroep.
+-   De 5 beste predicaten worden samengeteld. Bij gelijkheid der punten dient men rekening te houden met: jong gaat voor oud, en mannelijk gaat voor vrouwelijk.
+-   Bij verdere gelijkheid der punten dient men rekening te houden met het zesde, daarna met het zevende, … hoogste predicaat van deze diergroep.
+-   De diergroepen zijn:
+    -   cavia’s
+    -   konijnen
+    -   krielen
+    -   hoenders
+    -   duiven
+    -   gedom. Park- en watervogels
+    -   niet gedom. Park- en watervogels

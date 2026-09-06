@@ -1,0 +1,153 @@
+# Avivaria
+
+> Avivaria homepage
+
+This file helps language models discover the most useful content on this site.
+
+## Home
+
+- [Ledenvergadering: Bespreking duiven](https://avivaria.be/index.md): Avivaria homepage
+
+
+## About
+
+- [Hey, I am John Doe!](https://avivaria.be/about.md): this is meta description
+
+
+## Authors
+
+- [Authors](https://avivaria.be/authors.md): Avivaria homepage
+
+- [John Doe](https://avivaria.be/authors/john-doe.md): this is meta description
+
+- [Sam Wilson](https://avivaria.be/authors/sam-wilson.md): this is meta description
+
+- [William Jacob](https://avivaria.be/authors/william-jacob.md): this is meta description
+
+
+## Barbecue
+
+- [Barbecue met midzomernachtmuziek!](https://avivaria.be/barbecue.md): Avivaria homepage
+
+
+## Blog
+
+- [Blog Posts](https://avivaria.be/blog.md): this is meta description
+
+- [How to build an Application with modern Technology](https://avivaria.be/blog/post-1.md): this is meta description
+
+- [How to build an Application with modern Technology](https://avivaria.be/blog/post-2.md): this is meta description
+
+- [How to build an Application with modern Technology](https://avivaria.be/blog/post-3.md): this is meta description
+
+- [How to build an Application with modern Technology](https://avivaria.be/blog/post-4.md): this is meta description
+
+
+## Categories
+
+- [Categories](https://avivaria.be/categories.md): Avivaria homepage
+
+- [Application](https://avivaria.be/categories/application.md): Avivaria homepage
+
+- [Architecture](https://avivaria.be/categories/architecture.md): Avivaria homepage
+
+- [Data](https://avivaria.be/categories/data.md): Avivaria homepage
+
+- [Software](https://avivaria.be/categories/software.md): Avivaria homepage
+
+- [Technology](https://avivaria.be/categories/technology.md): Avivaria homepage
+
+
+## Clublokaal
+
+- [Clublokaal](https://avivaria.be/clublokaal.md): Avivaria homepage
+
+
+## Contact
+
+- [Contact](https://avivaria.be/contact.md): this is meta description
+
+
+## Elements
+
+- [Elements](https://avivaria.be/elements.md): this is meta description
+
+
+## Fokkerskaart
+
+- [Fokkerskaart](https://avivaria.be/fokkerskaart.md): Avivaria homepage
+
+
+## Lidgeld
+
+- [Clublid worden](https://avivaria.be/lidgeld.md): Avivaria homepage
+
+
+## Mosselfeest
+
+- [Mosselfeest](https://avivaria.be/mosselfeest.md): Avivaria homepage
+
+
+## News
+
+- [Nieuws](https://avivaria.be/news.md): Nieuws
+
+- [1-2-3-show Tamme Park- en Watervogels](https://avivaria.be/news/20250825.md): Avivaria homepage
+
+- [1-2-3-show Tamme Park- en Watervogels](https://avivaria.be/news/20250901.md): Avivaria homepage
+
+- [1-2-3-show Tamme Park- en Watervogels](https://avivaria.be/news/20250906.md): Avivaria homepage
+
+- [Ledenvergadering: Bespreking duiven](https://avivaria.be/news/20250928.md): Avivaria homepage
+
+
+## Over-ons
+
+- [Over ons](https://avivaria.be/over-ons.md): Avivaria homepage
+
+
+## Privacy-policy
+
+- [Privacy](https://avivaria.be/privacy-policy.md): this is meta description
+
+
+## Ring-en-kooimaten
+
+- [Ring en kooimaten volgens het V.I.V.F.N. (2025)](https://avivaria.be/ring-en-kooimaten.md): Avivaria homepage
+
+
+## Ringen-en-oormerken
+
+- [Ringen en oormerken](https://avivaria.be/ringen-en-oormerken.md): Avivaria homepage
+
+
+## Ruil-en-verkoopdagen
+
+- [Ruil en verkoopdagen 2026](https://avivaria.be/ruil-en-verkoopdagen.md): Avivaria homepage
+
+
+## Tags
+
+- [Tags](https://avivaria.be/tags.md): Avivaria homepage
+
+- [Nextjs](https://avivaria.be/tags/nextjs.md): Avivaria homepage
+
+- [Silicon](https://avivaria.be/tags/silicon.md): Avivaria homepage
+
+- [Software](https://avivaria.be/tags/software.md): Avivaria homepage
+
+- [Tailwind](https://avivaria.be/tags/tailwind.md): Avivaria homepage
+
+- [Technology](https://avivaria.be/tags/technology.md): Avivaria homepage
+
+
+## Te-onthouden-datums
+
+- [Te onthouden datums](https://avivaria.be/te-onthouden-datums.md): Avivaria homepage
+
+
+## Tentoonstelling
+
+- [Tentoonstelling 2026](https://avivaria.be/tentoonstelling.md): Avivaria homepage
+
+
