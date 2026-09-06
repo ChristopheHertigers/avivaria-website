@@ -1,12 +1,12 @@
 {
   "site": {
     "title": "Avivaria",
-    "base_url": "https://avivaria.be",
-    "base_path": "/",
+    "base_url": "https://christophehertigers.github.io",
+    "base_path": "/avivaria-website",
     "trailing_slash": false,
-    "favicon": "/images/favicon.ico",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo.png",
+    "favicon": "/avivaria-website/images/favicon.ico",
+    "logo": "/avivaria-website/images/logo.png",
+    "logo_darkmode": "/avivaria-website/images/logo.png",
     "logo_width": "182",
     "logo_height": "50",
     "logo_text": "Avivaria"
@@ -53,7 +53,7 @@
 
   "metadata": {
     "meta_author": "Avivaria",
-    "meta_image": "/images/og-image.png",
+    "meta_image": "/avivaria-website/images/og-image.png",
     "meta_description": "Avivaria homepage"
   },
 

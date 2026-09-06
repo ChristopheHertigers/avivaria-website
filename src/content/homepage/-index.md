@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  image: "/images/banner.jpg"
+  image: "/avivaria-website/images/banner.jpg"
 
 # Features
 features: []
