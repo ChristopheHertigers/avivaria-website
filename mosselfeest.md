@@ -1,6 +1,6 @@
 ---
 title: "Mosselfeest"
-url: "https://avivaria.be/mosselfeest"
+url: "https://christophehertigers.github.io/mosselfeest"
 description: "Avivaria homepage
 "
 ---
@@ -9,7 +9,7 @@ description: "Avivaria homepage
 
 Op zaterdag **18 oktober 2025** van 17u30 tot 19u30 en van 19u30 tot 21u00 en zondag **19 oktober 2025** van 11u30 tot 13u30 (**opgelet de warme keuken sluit om 13u**)
 
-![Mosselfeest](/_astro/mosselfeest.BIEQVBJf_11a2Td.webp)
+![Mosselfeest](/avivaria-website/_astro/mosselfeest.BIEQVBJf_Z1M8nPn.webp)
 
 #### Te verkrijgen:
 

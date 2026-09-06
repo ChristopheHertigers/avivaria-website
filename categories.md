@@ -1,6 +1,6 @@
 ---
 title: "Categories"
-url: "https://avivaria.be/categories"
+url: "https://christophehertigers.github.io/categories"
 description: "Avivaria homepage
 "
 ---

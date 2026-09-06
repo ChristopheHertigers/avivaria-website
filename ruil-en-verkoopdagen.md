@@ -1,6 +1,6 @@
 ---
 title: "Ruil en verkoopdagen 2026"
-url: "https://avivaria.be/ruil-en-verkoopdagen"
+url: "https://christophehertigers.github.io/ruil-en-verkoopdagen"
 description: "Avivaria homepage
 "
 ---
@@ -22,7 +22,7 @@ KLEINDIERKLUB AVIVARIA vzw, Heksenbergstraat 5-7, Hasselt
 -   Aanvullen of prijswijziging binnenhokken: vanaf één uur na start verkoop
 -   Uitkorving niet-verkochte/te ruilen dieren: zondag 30 augustus tussen 16u en 16u30
 
-![Ruil- en verkoopdagen](/_astro/ruil-en-verkoopdagen.Dfi1Adai_1bPU3a.webp)
+![Ruil- en verkoopdagen](/avivaria-website/_astro/ruil-en-verkoopdagen.Dfi1Adai_1PO2r5.webp)
 
 ### ALGEMEEN REGLEMENT
 

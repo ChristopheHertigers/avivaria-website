@@ -1,6 +1,6 @@
 ---
 title: "Over ons"
-url: "https://avivaria.be/over-ons"
+url: "https://christophehertigers.github.io/over-ons"
 description: "Avivaria homepage
 "
 ---

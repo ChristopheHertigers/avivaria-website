@@ -1,13 +1,13 @@
 ---
 title: "Silicon"
-url: "https://avivaria.be/tags/silicon"
+url: "https://christophehertigers.github.io/tags/silicon"
 description: "Avivaria homepage
 "
 ---
 
 # Silicon
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 

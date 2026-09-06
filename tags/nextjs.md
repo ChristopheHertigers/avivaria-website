@@ -1,13 +1,13 @@
 ---
 title: "Nextjs"
-url: "https://avivaria.be/tags/nextjs"
+url: "https://christophehertigers.github.io/tags/nextjs"
 description: "Avivaria homepage
 "
 ---
 
 # Nextjs
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-1)
 

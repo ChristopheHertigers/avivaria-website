@@ -1,6 +1,6 @@
 ---
 title: "Elements"
-url: "https://avivaria.be/elements"
+url: "https://christophehertigers.github.io/elements"
 description: "this is meta description
 "
 ---

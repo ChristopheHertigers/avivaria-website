@@ -1,15 +1,15 @@
 # Avivaria
 
-URL: https://avivaria.be
+URL: https://christophehertigers.github.io
 
 ## Ledenvergadering: Bespreking duiven
 
-URL: https://avivaria.be
+URL: https://christophehertigers.github.io
 
 Avivaria homepage
 
 
-![banner](/_astro/banner.CxE5WGaZ_1vWC7s.webp)
+![banner](/avivaria-website/_astro/banner.CxE5WGaZ_Z1A7hKO.webp)
 
 # Ledenvergadering: Bespreking duiven
 
@@ -49,30 +49,30 @@ Bedankt
 
 Wij willen graag al onze sponsors hartelijk bedanken voor jullie steun en vertrouwen. Dankzij jullie bijdrage kunnen wij onze dagelijkse werking ondersteunen.
 
-[![Aveve Hasselt](/_astro/aveve.EoPYVp4D_215MtS.webp)](https://www.aveve.be/nl/winkels/p090000354-aveve-hasselt)
+[![Aveve Hasselt](/avivaria-website/_astro/aveve.EoPYVp4D_Zf1L5h.webp)](https://www.aveve.be/nl/winkels/p090000354-aveve-hasselt)
 
-[![Galluvet](/_astro/galluvet.CS0BfDxF_Z1AWhUj.webp)](https://www.galluvet.be/nl)
+[![Galluvet](/avivaria-website/_astro/galluvet.CS0BfDxF_Z1AuhQX.webp)](https://www.galluvet.be/nl)
 
-[![Horta Kuringen](/_astro/horta.DpEj8DTk_2v7shG.webp)](https://horta.org/stores/Horta-Kuringen)
+[![Horta Kuringen](/avivaria-website/_astro/horta.DpEj8DTk_b9flF.webp)](https://horta.org/stores/Horta-Kuringen)
 
-[![Lambrichts Voeders](/_astro/lambrichts-voeders.2Jp9w7tL_Z1FCuWi.webp)](https://lambrichts-voeders.be)
+[![Lambrichts Voeders](/avivaria-website/_astro/lambrichts-voeders.2Jp9w7tL_Z1sXrcp.webp)](https://lambrichts-voeders.be)
 
-[![NS Construct](/_astro/ns-construct.B3iEe4Gx_ZbmjmR.webp)](https://www.facebook.com/NSConstruct)
+[![NS Construct](/avivaria-website/_astro/ns-construct.B3iEe4Gx_ZfWFyv.webp)](https://www.facebook.com/NSConstruct)
 
-[![PRI](/_astro/pri.BllNcKPZ_1aGYwT.webp)](http://www.pri.be/)
+[![PRI](/avivaria-website/_astro/pri.BllNcKPZ_zyCw9.webp)](http://www.pri.be/)
 
-[![Versele](/_astro/versele.DbA9sTht_ZNqhqo.webp)](https://www.versele-laga.com/nl/be)
+[![Versele](/avivaria-website/_astro/versele.DbA9sTht_xvzKr.webp)](https://www.versele-laga.com/nl/be)
 
 ---
 
 ## Hey, I am John Doe!
 
-URL: https://avivaria.be/about
+URL: https://christophehertigers.github.io/about
 
 this is meta description
 
 
-![Hey, I am John Doe!](/_astro/image-placeholder.DyBpoAJD_DWMbU.webp)
+![Hey, I am John Doe!](/avivaria-website/_astro/image-placeholder.DyBpoAJD_kjcM9.webp)
 
 ## Hey, I am John Doe!
 
@@ -92,14 +92,14 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt
 
 ## Authors
 
-URL: https://avivaria.be/authors
+URL: https://christophehertigers.github.io/authors
 
 Avivaria homepage
 
 
 # Authors
 
-![John Doe](/_astro/avatar.DeQDKSwT_OgOf2.webp)
+![John Doe](/avivaria-website/_astro/avatar.DeQDKSwT_ZWCuJO.webp)
 
 #### [John Doe](/authors/john-doe)
 
@@ -109,7 +109,7 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   [twitter](https://twitter.com)
 -   [linkedin](https://linkedin.com)
 
-![Sam Wilson](/_astro/avatar.DeQDKSwT_OgOf2.webp)
+![Sam Wilson](/avivaria-website/_astro/avatar.DeQDKSwT_ZWCuJO.webp)
 
 #### [Sam Wilson](/authors/sam-wilson)
 
@@ -119,7 +119,7 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   [twitter](https://twitter.com)
 -   [linkedin](https://linkedin.com)
 
-![William Jacob](/_astro/avatar.DeQDKSwT_OgOf2.webp)
+![William Jacob](/avivaria-website/_astro/avatar.DeQDKSwT_ZWCuJO.webp)
 
 #### [William Jacob](/authors/william-jacob)
 
@@ -133,12 +133,12 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## John Doe
 
-URL: https://avivaria.be/authors/john-doe
+URL: https://christophehertigers.github.io/authors/john-doe
 
 this is meta description
 
 
-![John Doe](/_astro/avatar.DeQDKSwT_Z1Hp8Sm.webp)
+![John Doe](/avivaria-website/_astro/avatar.DeQDKSwT_JCnuv.webp)
 
 # John Doe
 
@@ -148,7 +148,7 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   [twitter](https://twitter.com)
 -   [linkedin](https://linkedin.com)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-1)
 
@@ -160,7 +160,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-1)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-3)
 
@@ -172,7 +172,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-3)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 
@@ -188,12 +188,12 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## Sam Wilson
 
-URL: https://avivaria.be/authors/sam-wilson
+URL: https://christophehertigers.github.io/authors/sam-wilson
 
 this is meta description
 
 
-![Sam Wilson](/_astro/avatar.DeQDKSwT_Z1Hp8Sm.webp)
+![Sam Wilson](/avivaria-website/_astro/avatar.DeQDKSwT_JCnuv.webp)
 
 # Sam Wilson
 
@@ -203,7 +203,7 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   [twitter](https://twitter.com)
 -   [linkedin](https://linkedin.com)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -219,12 +219,12 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## William Jacob
 
-URL: https://avivaria.be/authors/william-jacob
+URL: https://christophehertigers.github.io/authors/william-jacob
 
 this is meta description
 
 
-![William Jacob](/_astro/avatar.DeQDKSwT_Z1Hp8Sm.webp)
+![William Jacob](/avivaria-website/_astro/avatar.DeQDKSwT_JCnuv.webp)
 
 # William Jacob
 
@@ -238,7 +238,7 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Barbecue met midzomernachtmuziek!
 
-URL: https://avivaria.be/barbecue
+URL: https://christophehertigers.github.io/barbecue
 
 Avivaria homepage
 
@@ -249,7 +249,7 @@ Onze jaarlijkse barbecue komt eraan! Op **ZATERDAG 01 AUGUSTUS 2026** gaan we we
 
 We starten deze zomerse avond met een lekkere aperitief gevolgd door een niet te versmaden etentje. Zeker gaan we nog genieten van een lekker pintje met een gezellig babbeltje of wie wil kan zijn benen even strekken op de dansvloer.
 
-![Barbecue](/_astro/barbecue.-Ke4bhC8_KBYTM.webp)
+![Barbecue](/avivaria-website/_astro/barbecue.-Ke4bhC8_ZEfa7y.webp)
 
 #### Planning van de avond:
 
@@ -302,14 +302,14 @@ Wel inschrijven a.u.b.
 
 ## Blog Posts
 
-URL: https://avivaria.be/blog
+URL: https://christophehertigers.github.io/blog
 
 this is meta description
 
 
 # Blog Posts
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-1)
 
@@ -321,7 +321,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-1)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -333,7 +333,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-2)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-3)
 
@@ -345,7 +345,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-3)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 
@@ -377,12 +377,12 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## How to build an Application with modern Technology
 
-URL: https://avivaria.be/blog/post-1
+URL: https://christophehertigers.github.io/blog/post-1
 
 this is meta description
 
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Zp70gz.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_g7Kl5.webp)
 
 # How to build an Application with modern Technology
 
@@ -409,14 +409,14 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 
 ##### Share :
 
--   [](https://facebook.com/sharer/sharer.php?u=https://avivaria.be/post-1)
--   [](<https://twitter.com/intent/tweet/?text=How to build an Application with modern Technology&amp;url=https://avivaria.be/post-1>)
--   [](<https://www.linkedin.com/shareArticle?mini=true&url=https://avivaria.be/post-1&title=How to build an Application with modern Technology&summary=this is meta description&source=https://avivaria.be>)
--   [](<https://pinterest.com/pin/create/button/?url=https://avivaria.be/post-1&media=&description=this is meta description>)
+-   [](https://facebook.com/sharer/sharer.php?u=https://christophehertigers.github.io/post-1)
+-   [](<https://twitter.com/intent/tweet/?text=How to build an Application with modern Technology&amp;url=https://christophehertigers.github.io/post-1>)
+-   [](<https://www.linkedin.com/shareArticle?mini=true&url=https://christophehertigers.github.io/post-1&title=How to build an Application with modern Technology&summary=this is meta description&source=https://christophehertigers.github.io>)
+-   [](<https://pinterest.com/pin/create/button/?url=https://christophehertigers.github.io/post-1&media=&description=this is meta description>)
 
 ## Related Posts
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -428,7 +428,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-2)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-3)
 
@@ -444,12 +444,12 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## How to build an Application with modern Technology
 
-URL: https://avivaria.be/blog/post-2
+URL: https://christophehertigers.github.io/blog/post-2
 
 this is meta description
 
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Zp70gz.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_g7Kl5.webp)
 
 # How to build an Application with modern Technology
 
@@ -476,14 +476,14 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 
 ##### Share :
 
--   [](https://facebook.com/sharer/sharer.php?u=https://avivaria.be/post-2)
--   [](<https://twitter.com/intent/tweet/?text=How to build an Application with modern Technology&amp;url=https://avivaria.be/post-2>)
--   [](<https://www.linkedin.com/shareArticle?mini=true&url=https://avivaria.be/post-2&title=How to build an Application with modern Technology&summary=this is meta description&source=https://avivaria.be>)
--   [](<https://pinterest.com/pin/create/button/?url=https://avivaria.be/post-2&media=&description=this is meta description>)
+-   [](https://facebook.com/sharer/sharer.php?u=https://christophehertigers.github.io/post-2)
+-   [](<https://twitter.com/intent/tweet/?text=How to build an Application with modern Technology&amp;url=https://christophehertigers.github.io/post-2>)
+-   [](<https://www.linkedin.com/shareArticle?mini=true&url=https://christophehertigers.github.io/post-2&title=How to build an Application with modern Technology&summary=this is meta description&source=https://christophehertigers.github.io>)
+-   [](<https://pinterest.com/pin/create/button/?url=https://christophehertigers.github.io/post-2&media=&description=this is meta description>)
 
 ## Related Posts
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-1)
 
@@ -495,7 +495,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-1)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-3)
 
@@ -507,7 +507,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-3)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 
@@ -523,12 +523,12 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## How to build an Application with modern Technology
 
-URL: https://avivaria.be/blog/post-3
+URL: https://christophehertigers.github.io/blog/post-3
 
 this is meta description
 
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Zp70gz.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_g7Kl5.webp)
 
 # How to build an Application with modern Technology
 
@@ -555,14 +555,14 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 
 ##### Share :
 
--   [](https://facebook.com/sharer/sharer.php?u=https://avivaria.be/post-3)
--   [](<https://twitter.com/intent/tweet/?text=How to build an Application with modern Technology&amp;url=https://avivaria.be/post-3>)
--   [](<https://www.linkedin.com/shareArticle?mini=true&url=https://avivaria.be/post-3&title=How to build an Application with modern Technology&summary=this is meta description&source=https://avivaria.be>)
--   [](<https://pinterest.com/pin/create/button/?url=https://avivaria.be/post-3&media=&description=this is meta description>)
+-   [](https://facebook.com/sharer/sharer.php?u=https://christophehertigers.github.io/post-3)
+-   [](<https://twitter.com/intent/tweet/?text=How to build an Application with modern Technology&amp;url=https://christophehertigers.github.io/post-3>)
+-   [](<https://www.linkedin.com/shareArticle?mini=true&url=https://christophehertigers.github.io/post-3&title=How to build an Application with modern Technology&summary=this is meta description&source=https://christophehertigers.github.io>)
+-   [](<https://pinterest.com/pin/create/button/?url=https://christophehertigers.github.io/post-3&media=&description=this is meta description>)
 
 ## Related Posts
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-1)
 
@@ -574,7 +574,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-1)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -590,12 +590,12 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## How to build an Application with modern Technology
 
-URL: https://avivaria.be/blog/post-4
+URL: https://christophehertigers.github.io/blog/post-4
 
 this is meta description
 
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Zp70gz.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_g7Kl5.webp)
 
 # How to build an Application with modern Technology
 
@@ -622,14 +622,14 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 
 ##### Share :
 
--   [](https://facebook.com/sharer/sharer.php?u=https://avivaria.be/post-4)
--   [](<https://twitter.com/intent/tweet/?text=How to build an Application with modern Technology&amp;url=https://avivaria.be/post-4>)
--   [](<https://www.linkedin.com/shareArticle?mini=true&url=https://avivaria.be/post-4&title=How to build an Application with modern Technology&summary=this is meta description&source=https://avivaria.be>)
--   [](<https://pinterest.com/pin/create/button/?url=https://avivaria.be/post-4&media=&description=this is meta description>)
+-   [](https://facebook.com/sharer/sharer.php?u=https://christophehertigers.github.io/post-4)
+-   [](<https://twitter.com/intent/tweet/?text=How to build an Application with modern Technology&amp;url=https://christophehertigers.github.io/post-4>)
+-   [](<https://www.linkedin.com/shareArticle?mini=true&url=https://christophehertigers.github.io/post-4&title=How to build an Application with modern Technology&summary=this is meta description&source=https://christophehertigers.github.io>)
+-   [](<https://pinterest.com/pin/create/button/?url=https://christophehertigers.github.io/post-4&media=&description=this is meta description>)
 
 ## Related Posts
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -645,7 +645,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## Categories
 
-URL: https://avivaria.be/categories
+URL: https://christophehertigers.github.io/categories
 
 Avivaria homepage
 
@@ -662,14 +662,14 @@ Avivaria homepage
 
 ## Application
 
-URL: https://avivaria.be/categories/application
+URL: https://christophehertigers.github.io/categories/application
 
 Avivaria homepage
 
 
 # Application
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-1)
 
@@ -685,14 +685,14 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## Architecture
 
-URL: https://avivaria.be/categories/architecture
+URL: https://christophehertigers.github.io/categories/architecture
 
 Avivaria homepage
 
 
 # Architecture
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 
@@ -708,14 +708,14 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## Data
 
-URL: https://avivaria.be/categories/data
+URL: https://christophehertigers.github.io/categories/data
 
 Avivaria homepage
 
 
 # Data
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-1)
 
@@ -727,7 +727,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-1)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -743,14 +743,14 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## Software
 
-URL: https://avivaria.be/categories/software
+URL: https://christophehertigers.github.io/categories/software
 
 Avivaria homepage
 
 
 # Software
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-3)
 
@@ -766,14 +766,14 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## Technology
 
-URL: https://avivaria.be/categories/technology
+URL: https://christophehertigers.github.io/categories/technology
 
 Avivaria homepage
 
 
 # Technology
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -789,7 +789,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## Clublokaal
 
-URL: https://avivaria.be/clublokaal
+URL: https://christophehertigers.github.io/clublokaal
 
 Avivaria homepage
 
@@ -812,7 +812,7 @@ Enkel **tijdens** de activiteiten: +32 456-17 41 53
 
 ## Contact
 
-URL: https://avivaria.be/contact
+URL: https://christophehertigers.github.io/contact
 
 this is meta description
 
@@ -831,7 +831,7 @@ Submit
 
 ## Elements
 
-URL: https://avivaria.be/elements
+URL: https://christophehertigers.github.io/elements
 
 this is meta description
 
@@ -1083,7 +1083,7 @@ Should you use Negative margin?
 
 ## Fokkerskaart
 
-URL: https://avivaria.be/fokkerskaart
+URL: https://christophehertigers.github.io/fokkerskaart
 
 Avivaria homepage
 
@@ -1115,7 +1115,7 @@ De bijdrage voor het lidgeld (22,00 EUR – voor jeugdleden en 2de lid is dit 9,
 
 ## Clublid worden
 
-URL: https://avivaria.be/lidgeld
+URL: https://christophehertigers.github.io/lidgeld
 
 Avivaria homepage
 
@@ -1149,7 +1149,7 @@ Stortingen gebeuren op het rekeningnummer van de vereniging:
 
 ## Mosselfeest
 
-URL: https://avivaria.be/mosselfeest
+URL: https://christophehertigers.github.io/mosselfeest
 
 Avivaria homepage
 
@@ -1158,7 +1158,7 @@ Avivaria homepage
 
 Op zaterdag **18 oktober 2025** van 17u30 tot 19u30 en van 19u30 tot 21u00 en zondag **19 oktober 2025** van 11u30 tot 13u30 (**opgelet de warme keuken sluit om 13u**)
 
-![Mosselfeest](/_astro/mosselfeest.BIEQVBJf_11a2Td.webp)
+![Mosselfeest](/avivaria-website/_astro/mosselfeest.BIEQVBJf_Z1M8nPn.webp)
 
 #### Te verkrijgen:
 
@@ -1197,7 +1197,7 @@ Het bestuur
 
 ## Nieuws
 
-URL: https://avivaria.be/news
+URL: https://christophehertigers.github.io/news
 
 Nieuws
 
@@ -1240,7 +1240,7 @@ import { Image } from 'astro:assets'; import toulouse from '../assets/toulouse.j
 
 ## 1-2-3-show Tamme Park- en Watervogels
 
-URL: https://avivaria.be/news/20250825
+URL: https://christophehertigers.github.io/news/20250825
 
 Avivaria homepage
 
@@ -1255,7 +1255,7 @@ We doen een oproep aan alle fokkers om enkele dieren mee te brengen. Alle tamme 
 
 Door de keurmeesters worden de interpretaties van de dieren aan de kooien besproken, samen met de fokkers die hun ervaringen naar voor brengen.
 
-![Toulouse Ganzen](/_astro/toulouse.D8NHuOd-_Z5bw4k.webp)
+![Toulouse Ganzen](/avivaria-website/_astro/toulouse.D8NHuOd-_Z2dPHoX.webp)
 
 ### Dagorde
 
@@ -1270,7 +1270,7 @@ Door de keurmeesters worden de interpretaties van de dieren aan de kooien bespro
 
 ## 1-2-3-show Tamme Park- en Watervogels
 
-URL: https://avivaria.be/news/20250901
+URL: https://christophehertigers.github.io/news/20250901
 
 Avivaria homepage
 
@@ -1285,7 +1285,7 @@ We doen een oproep aan alle fokkers om enkele dieren mee te brengen. Alle tamme 
 
 Door de keurmeesters worden de interpretaties van de dieren aan de kooien besproken, samen met de fokkers die hun ervaringen naar voor brengen.
 
-![Toulouse Ganzen](/_astro/toulouse.D8NHuOd-_Z5bw4k.webp)
+![Toulouse Ganzen](/avivaria-website/_astro/toulouse.D8NHuOd-_Z2dPHoX.webp)
 
 ### Dagorde
 
@@ -1300,7 +1300,7 @@ Door de keurmeesters worden de interpretaties van de dieren aan de kooien bespro
 
 ## 1-2-3-show Tamme Park- en Watervogels
 
-URL: https://avivaria.be/news/20250906
+URL: https://christophehertigers.github.io/news/20250906
 
 Avivaria homepage
 
@@ -1315,7 +1315,7 @@ We doen een oproep aan alle fokkers om enkele dieren mee te brengen. Alle tamme 
 
 Door de keurmeesters worden de interpretaties van de dieren aan de kooien besproken, samen met de fokkers die hun ervaringen naar voor brengen.
 
-![Toulouse Ganzen](/_astro/toulouse.D8NHuOd-_Z5bw4k.webp)
+![Toulouse Ganzen](/avivaria-website/_astro/toulouse.D8NHuOd-_Z2dPHoX.webp)
 
 ### Dagorde
 
@@ -1330,7 +1330,7 @@ Door de keurmeesters worden de interpretaties van de dieren aan de kooien bespro
 
 ## Ledenvergadering: Bespreking duiven
 
-URL: https://avivaria.be/news/20250928
+URL: https://christophehertigers.github.io/news/20250928
 
 Avivaria homepage
 
@@ -1365,7 +1365,7 @@ Het bestuur.
 
 ## Over ons
 
-URL: https://avivaria.be/over-ons
+URL: https://christophehertigers.github.io/over-ons
 
 Avivaria homepage
 
@@ -1482,7 +1482,7 @@ HEKSENBERGSTRAAT 5-7, 3500 HASSELT
 
 ## Privacy
 
-URL: https://avivaria.be/privacy-policy
+URL: https://christophehertigers.github.io/privacy-policy
 
 this is meta description
 
@@ -1516,7 +1516,7 @@ Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacu
 
 ## Ring en kooimaten volgens het V.I.V.F.N. (2025)
 
-URL: https://avivaria.be/ring-en-kooimaten
+URL: https://christophehertigers.github.io/ring-en-kooimaten
 
 Avivaria homepage
 
@@ -4601,7 +4601,7 @@ Parelhoen
 
 ## Ringen en oormerken
 
-URL: https://avivaria.be/ringen-en-oormerken
+URL: https://christophehertigers.github.io/ringen-en-oormerken
 
 Avivaria homepage
 
@@ -4643,7 +4643,7 @@ Melden bij Sonja ([avivaria@skynet.be](mailto:avivaria@skynet.be)) met vermeldin
 
 ## Ruil en verkoopdagen 2026
 
-URL: https://avivaria.be/ruil-en-verkoopdagen
+URL: https://christophehertigers.github.io/ruil-en-verkoopdagen
 
 Avivaria homepage
 
@@ -4665,7 +4665,7 @@ KLEINDIERKLUB AVIVARIA vzw, Heksenbergstraat 5-7, Hasselt
 -   Aanvullen of prijswijziging binnenhokken: vanaf één uur na start verkoop
 -   Uitkorving niet-verkochte/te ruilen dieren: zondag 30 augustus tussen 16u en 16u30
 
-![Ruil- en verkoopdagen](/_astro/ruil-en-verkoopdagen.Dfi1Adai_1bPU3a.webp)
+![Ruil- en verkoopdagen](/avivaria-website/_astro/ruil-en-verkoopdagen.Dfi1Adai_1PO2r5.webp)
 
 ### ALGEMEEN REGLEMENT
 
@@ -4754,7 +4754,7 @@ Kleindierklub Avivaria vzw, Heksenbergstraat 5-7 te Hasselt
 
 ## Tags
 
-URL: https://avivaria.be/tags
+URL: https://christophehertigers.github.io/tags
 
 Avivaria homepage
 
@@ -4771,14 +4771,14 @@ Avivaria homepage
 
 ## Nextjs
 
-URL: https://avivaria.be/tags/nextjs
+URL: https://christophehertigers.github.io/tags/nextjs
 
 Avivaria homepage
 
 
 # Nextjs
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-1)
 
@@ -4794,14 +4794,14 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## Silicon
 
-URL: https://avivaria.be/tags/silicon
+URL: https://christophehertigers.github.io/tags/silicon
 
 Avivaria homepage
 
 
 # Silicon
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 
@@ -4817,14 +4817,14 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## Software
 
-URL: https://avivaria.be/tags/software
+URL: https://christophehertigers.github.io/tags/software
 
 Avivaria homepage
 
 
 # Software
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-3)
 
@@ -4840,14 +4840,14 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## Tailwind
 
-URL: https://avivaria.be/tags/tailwind
+URL: https://christophehertigers.github.io/tags/tailwind
 
 Avivaria homepage
 
 
 # Tailwind
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-1)
 
@@ -4859,7 +4859,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-1)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -4871,7 +4871,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-2)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-3)
 
@@ -4887,14 +4887,14 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## Technology
 
-URL: https://avivaria.be/tags/technology
+URL: https://christophehertigers.github.io/tags/technology
 
 Avivaria homepage
 
 
 # Technology
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -4906,7 +4906,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-2)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 
@@ -4922,7 +4922,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 ## Te onthouden datums
 
-URL: https://avivaria.be/te-onthouden-datums
+URL: https://christophehertigers.github.io/te-onthouden-datums
 
 Avivaria homepage
 
@@ -4953,7 +4953,7 @@ Avivaria homepage
 
 ## Tentoonstelling 2026
 
-URL: https://avivaria.be/tentoonstelling
+URL: https://christophehertigers.github.io/tentoonstelling
 
 Avivaria homepage
 

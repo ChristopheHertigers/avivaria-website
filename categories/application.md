@@ -1,13 +1,13 @@
 ---
 title: "Application"
-url: "https://avivaria.be/categories/application"
+url: "https://christophehertigers.github.io/categories/application"
 description: "Avivaria homepage
 "
 ---
 
 # Application
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-1)
 

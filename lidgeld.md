@@ -1,6 +1,6 @@
 ---
 title: "Clublid worden"
-url: "https://avivaria.be/lidgeld"
+url: "https://christophehertigers.github.io/lidgeld"
 description: "Avivaria homepage
 "
 ---

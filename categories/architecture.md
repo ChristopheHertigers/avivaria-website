@@ -1,13 +1,13 @@
 ---
 title: "Architecture"
-url: "https://avivaria.be/categories/architecture"
+url: "https://christophehertigers.github.io/categories/architecture"
 description: "Avivaria homepage
 "
 ---
 
 # Architecture
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 

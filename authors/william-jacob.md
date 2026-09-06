@@ -1,11 +1,11 @@
 ---
 title: "William Jacob"
-url: "https://avivaria.be/authors/william-jacob"
+url: "https://christophehertigers.github.io/authors/william-jacob"
 description: "this is meta description
 "
 ---
 
-![William Jacob](/_astro/avatar.DeQDKSwT_Z1Hp8Sm.webp)
+![William Jacob](/avivaria-website/_astro/avatar.DeQDKSwT_JCnuv.webp)
 
 # William Jacob
 

@@ -1,6 +1,6 @@
 ---
 title: "Nieuws"
-url: "https://avivaria.be/news"
+url: "https://christophehertigers.github.io/news"
 description: "Nieuws
 "
 ---

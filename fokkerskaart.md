@@ -1,6 +1,6 @@
 ---
 title: "Fokkerskaart"
-url: "https://avivaria.be/fokkerskaart"
+url: "https://christophehertigers.github.io/fokkerskaart"
 description: "Avivaria homepage
 "
 ---

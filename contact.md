@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-url: "https://avivaria.be/contact"
+url: "https://christophehertigers.github.io/contact"
 description: "this is meta description
 "
 ---

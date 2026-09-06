@@ -1,6 +1,6 @@
 ---
 title: "Te onthouden datums"
-url: "https://avivaria.be/te-onthouden-datums"
+url: "https://christophehertigers.github.io/te-onthouden-datums"
 description: "Avivaria homepage
 "
 ---

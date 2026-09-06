@@ -1,6 +1,6 @@
 ---
 title: "Ringen en oormerken"
-url: "https://avivaria.be/ringen-en-oormerken"
+url: "https://christophehertigers.github.io/ringen-en-oormerken"
 description: "Avivaria homepage
 "
 ---

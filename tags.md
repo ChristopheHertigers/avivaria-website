@@ -1,6 +1,6 @@
 ---
 title: "Tags"
-url: "https://avivaria.be/tags"
+url: "https://christophehertigers.github.io/tags"
 description: "Avivaria homepage
 "
 ---

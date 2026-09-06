@@ -1,6 +1,6 @@
 ---
 title: "Barbecue met midzomernachtmuziek!"
-url: "https://avivaria.be/barbecue"
+url: "https://christophehertigers.github.io/barbecue"
 description: "Avivaria homepage
 "
 ---
@@ -11,7 +11,7 @@ Onze jaarlijkse barbecue komt eraan! Op **ZATERDAG 01 AUGUSTUS 2026** gaan we we
 
 We starten deze zomerse avond met een lekkere aperitief gevolgd door een niet te versmaden etentje. Zeker gaan we nog genieten van een lekker pintje met een gezellig babbeltje of wie wil kan zijn benen even strekken op de dansvloer.
 
-![Barbecue](/_astro/barbecue.-Ke4bhC8_KBYTM.webp)
+![Barbecue](/avivaria-website/_astro/barbecue.-Ke4bhC8_ZEfa7y.webp)
 
 #### Planning van de avond:
 

@@ -1,13 +1,13 @@
 ---
 title: "Software"
-url: "https://avivaria.be/categories/software"
+url: "https://christophehertigers.github.io/categories/software"
 description: "Avivaria homepage
 "
 ---
 
 # Software
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-3)
 

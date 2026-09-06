@@ -1,11 +1,11 @@
 ---
 title: "Sam Wilson"
-url: "https://avivaria.be/authors/sam-wilson"
+url: "https://christophehertigers.github.io/authors/sam-wilson"
 description: "this is meta description
 "
 ---
 
-![Sam Wilson](/_astro/avatar.DeQDKSwT_Z1Hp8Sm.webp)
+![Sam Wilson](/avivaria-website/_astro/avatar.DeQDKSwT_JCnuv.webp)
 
 # Sam Wilson
 
@@ -15,7 +15,7 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   [twitter](https://twitter.com)
 -   [linkedin](https://linkedin.com)
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 

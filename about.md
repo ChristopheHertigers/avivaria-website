@@ -1,11 +1,11 @@
 ---
 title: "Hey, I am John Doe!"
-url: "https://avivaria.be/about"
+url: "https://christophehertigers.github.io/about"
 description: "this is meta description
 "
 ---
 
-![Hey, I am John Doe!](/_astro/image-placeholder.DyBpoAJD_DWMbU.webp)
+![Hey, I am John Doe!](/avivaria-website/_astro/image-placeholder.DyBpoAJD_kjcM9.webp)
 
 ## Hey, I am John Doe!
 

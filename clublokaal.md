@@ -1,6 +1,6 @@
 ---
 title: "Clublokaal"
-url: "https://avivaria.be/clublokaal"
+url: "https://christophehertigers.github.io/clublokaal"
 description: "Avivaria homepage
 "
 ---

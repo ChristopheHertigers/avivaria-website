@@ -1,6 +1,6 @@
 ---
 title: "Privacy"
-url: "https://avivaria.be/privacy-policy"
+url: "https://christophehertigers.github.io/privacy-policy"
 description: "this is meta description
 "
 ---

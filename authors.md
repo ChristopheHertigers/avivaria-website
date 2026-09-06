@@ -1,13 +1,13 @@
 ---
 title: "Authors"
-url: "https://avivaria.be/authors"
+url: "https://christophehertigers.github.io/authors"
 description: "Avivaria homepage
 "
 ---
 
 # Authors
 
-![John Doe](/_astro/avatar.DeQDKSwT_OgOf2.webp)
+![John Doe](/avivaria-website/_astro/avatar.DeQDKSwT_ZWCuJO.webp)
 
 #### [John Doe](/authors/john-doe)
 
@@ -17,7 +17,7 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   [twitter](https://twitter.com)
 -   [linkedin](https://linkedin.com)
 
-![Sam Wilson](/_astro/avatar.DeQDKSwT_OgOf2.webp)
+![Sam Wilson](/avivaria-website/_astro/avatar.DeQDKSwT_ZWCuJO.webp)
 
 #### [Sam Wilson](/authors/sam-wilson)
 
@@ -27,7 +27,7 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   [twitter](https://twitter.com)
 -   [linkedin](https://linkedin.com)
 
-![William Jacob](/_astro/avatar.DeQDKSwT_OgOf2.webp)
+![William Jacob](/avivaria-website/_astro/avatar.DeQDKSwT_ZWCuJO.webp)
 
 #### [William Jacob](/authors/william-jacob)
 

@@ -1,6 +1,6 @@
 ---
 title: "Tentoonstelling 2026"
-url: "https://avivaria.be/tentoonstelling"
+url: "https://christophehertigers.github.io/tentoonstelling"
 description: "Avivaria homepage
 "
 ---

@@ -1,11 +1,11 @@
 ---
 title: "Ledenvergadering: Bespreking duiven"
-url: "https://avivaria.be"
+url: "https://christophehertigers.github.io"
 description: "Avivaria homepage
 "
 ---
 
-![banner](/_astro/banner.CxE5WGaZ_1vWC7s.webp)
+![banner](/avivaria-website/_astro/banner.CxE5WGaZ_Z1A7hKO.webp)
 
 # Ledenvergadering: Bespreking duiven
 
@@ -45,16 +45,16 @@ Bedankt
 
 Wij willen graag al onze sponsors hartelijk bedanken voor jullie steun en vertrouwen. Dankzij jullie bijdrage kunnen wij onze dagelijkse werking ondersteunen.
 
-[![Aveve Hasselt](/_astro/aveve.EoPYVp4D_215MtS.webp)](https://www.aveve.be/nl/winkels/p090000354-aveve-hasselt)
+[![Aveve Hasselt](/avivaria-website/_astro/aveve.EoPYVp4D_Zf1L5h.webp)](https://www.aveve.be/nl/winkels/p090000354-aveve-hasselt)
 
-[![Galluvet](/_astro/galluvet.CS0BfDxF_Z1AWhUj.webp)](https://www.galluvet.be/nl)
+[![Galluvet](/avivaria-website/_astro/galluvet.CS0BfDxF_Z1AuhQX.webp)](https://www.galluvet.be/nl)
 
-[![Horta Kuringen](/_astro/horta.DpEj8DTk_2v7shG.webp)](https://horta.org/stores/Horta-Kuringen)
+[![Horta Kuringen](/avivaria-website/_astro/horta.DpEj8DTk_b9flF.webp)](https://horta.org/stores/Horta-Kuringen)
 
-[![Lambrichts Voeders](/_astro/lambrichts-voeders.2Jp9w7tL_Z1FCuWi.webp)](https://lambrichts-voeders.be)
+[![Lambrichts Voeders](/avivaria-website/_astro/lambrichts-voeders.2Jp9w7tL_Z1sXrcp.webp)](https://lambrichts-voeders.be)
 
-[![NS Construct](/_astro/ns-construct.B3iEe4Gx_ZbmjmR.webp)](https://www.facebook.com/NSConstruct)
+[![NS Construct](/avivaria-website/_astro/ns-construct.B3iEe4Gx_ZfWFyv.webp)](https://www.facebook.com/NSConstruct)
 
-[![PRI](/_astro/pri.BllNcKPZ_1aGYwT.webp)](http://www.pri.be/)
+[![PRI](/avivaria-website/_astro/pri.BllNcKPZ_zyCw9.webp)](http://www.pri.be/)
 
-[![Versele](/_astro/versele.DbA9sTht_ZNqhqo.webp)](https://www.versele-laga.com/nl/be)
+[![Versele](/avivaria-website/_astro/versele.DbA9sTht_xvzKr.webp)](https://www.versele-laga.com/nl/be)

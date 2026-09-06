@@ -1,6 +1,6 @@
 ---
 title: "Ring en kooimaten volgens het V.I.V.F.N. (2025)"
-url: "https://avivaria.be/ring-en-kooimaten"
+url: "https://christophehertigers.github.io/ring-en-kooimaten"
 description: "Avivaria homepage
 "
 ---

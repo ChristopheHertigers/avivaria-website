@@ -1,11 +1,11 @@
 ---
 title: "How to build an Application with modern Technology"
-url: "https://avivaria.be/blog/post-4"
+url: "https://christophehertigers.github.io/blog/post-4"
 description: "this is meta description
 "
 ---
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Zp70gz.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_g7Kl5.webp)
 
 # How to build an Application with modern Technology
 
@@ -32,14 +32,14 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 
 ##### Share :
 
--   [](https://facebook.com/sharer/sharer.php?u=https://avivaria.be/post-4)
--   [](<https://twitter.com/intent/tweet/?text=How to build an Application with modern Technology&amp;url=https://avivaria.be/post-4>)
--   [](<https://www.linkedin.com/shareArticle?mini=true&url=https://avivaria.be/post-4&title=How to build an Application with modern Technology&summary=this is meta description&source=https://avivaria.be>)
--   [](<https://pinterest.com/pin/create/button/?url=https://avivaria.be/post-4&media=&description=this is meta description>)
+-   [](https://facebook.com/sharer/sharer.php?u=https://christophehertigers.github.io/post-4)
+-   [](<https://twitter.com/intent/tweet/?text=How to build an Application with modern Technology&amp;url=https://christophehertigers.github.io/post-4>)
+-   [](<https://www.linkedin.com/shareArticle?mini=true&url=https://christophehertigers.github.io/post-4&title=How to build an Application with modern Technology&summary=this is meta description&source=https://christophehertigers.github.io>)
+-   [](<https://pinterest.com/pin/create/button/?url=https://christophehertigers.github.io/post-4&media=&description=this is meta description>)
 
 ## Related Posts
 
-![How to build an Application with modern Technology](/_astro/image-placeholder.DyBpoAJD_Z1iFzRH.webp)
+![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
