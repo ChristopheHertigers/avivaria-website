@@ -5,8 +5,6 @@ description: "Avivaria homepage
 "
 ---
 
-![banner](/avivaria-website/_astro/banner.CxE5WGaZ_Z1A7hKO.webp)
-
 # Ledenvergadering: Bespreking duiven
 
 -   28 Sep, 2025
@@ -45,16 +43,16 @@ Bedankt
 
 Wij willen graag al onze sponsors hartelijk bedanken voor jullie steun en vertrouwen. Dankzij jullie bijdrage kunnen wij onze dagelijkse werking ondersteunen.
 
-[![Aveve Hasselt](/avivaria-website/_astro/aveve.EoPYVp4D_Zf1L5h.webp)](https://www.aveve.be/nl/winkels/p090000354-aveve-hasselt)
+[](https://www.aveve.be/nl/winkels/p090000354-aveve-hasselt)
 
-[![Galluvet](/avivaria-website/_astro/galluvet.CS0BfDxF_Z1AuhQX.webp)](https://www.galluvet.be/nl)
+[](https://www.galluvet.be/nl)
 
-[![Horta Kuringen](/avivaria-website/_astro/horta.DpEj8DTk_b9flF.webp)](https://horta.org/stores/Horta-Kuringen)
+[](https://horta.org/stores/Horta-Kuringen)
 
-[![Lambrichts Voeders](/avivaria-website/_astro/lambrichts-voeders.2Jp9w7tL_Z1sXrcp.webp)](https://lambrichts-voeders.be)
+[](https://lambrichts-voeders.be)
 
-[![NS Construct](/avivaria-website/_astro/ns-construct.B3iEe4Gx_ZfWFyv.webp)](https://www.facebook.com/NSConstruct)
+[](https://www.facebook.com/NSConstruct)
 
-[![PRI](/avivaria-website/_astro/pri.BllNcKPZ_zyCw9.webp)](http://www.pri.be/)
+[](http://www.pri.be/)
 
-[![Versele](/avivaria-website/_astro/versele.DbA9sTht_xvzKr.webp)](https://www.versele-laga.com/nl/be)
+[](https://www.versele-laga.com/nl/be)

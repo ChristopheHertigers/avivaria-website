@@ -238,7 +238,7 @@ Should you use Negative margin?
 
 ### Image
 
-![image](/images/image-placeholder.png)
+![image](/avivaria-website/images/image-placeholder.png)
 
 * * *
 

@@ -1,4 +1,4 @@
-import{r as e,t}from"./react.OrosJ8bI.js";import{n,r}from"./textConverter.DwDU8K4N.js";import{t as i}from"./jsx-runtime.D7zcSYNz.js";var a=[{group:`blog`,slug:`blog/post-1`,frontmatter:{title:`How to build an Application with modern Technology`,meta_title:``,description:`this is meta description`,date:`2022-04-04T05:00:00.000Z`,image:`/images/image-placeholder.png`,categories:[`Application`,`Data`],author:`John Doe`,tags:[`nextjs`,`tailwind`],draft:!1},content:`
+import{r as e,t}from"./react.OrosJ8bI.js";import{n,r}from"./textConverter.DwDU8K4N.js";import{t as i}from"./jsx-runtime.D7zcSYNz.js";var a=[{group:`blog`,slug:`blog/post-1`,frontmatter:{title:`How to build an Application with modern Technology`,meta_title:``,description:`this is meta description`,date:`2022-04-04T05:00:00.000Z`,image:`/avivaria-website/images/image-placeholder.png`,categories:[`Application`,`Data`],author:`John Doe`,tags:[`nextjs`,`tailwind`],draft:!1},content:`
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
@@ -10,7 +10,7 @@ Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-`},{group:`blog`,slug:`blog/post-2`,frontmatter:{title:`How to build an Application with modern Technology`,meta_title:``,description:`this is meta description`,date:`2022-04-04T05:00:00.000Z`,image:`/images/image-placeholder.png`,categories:[`Technology`,`Data`],author:`Sam Wilson`,tags:[`technology`,`tailwind`],draft:!1},content:`
+`},{group:`blog`,slug:`blog/post-2`,frontmatter:{title:`How to build an Application with modern Technology`,meta_title:``,description:`this is meta description`,date:`2022-04-04T05:00:00.000Z`,image:`/avivaria-website/images/image-placeholder.png`,categories:[`Technology`,`Data`],author:`Sam Wilson`,tags:[`technology`,`tailwind`],draft:!1},content:`
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
@@ -22,7 +22,7 @@ Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-`},{group:`blog`,slug:`blog/post-3`,frontmatter:{title:`How to build an Application with modern Technology`,meta_title:``,description:`this is meta description`,date:`2022-04-04T05:00:00.000Z`,image:`/images/image-placeholder.png`,categories:[`Software`],author:`John Doe`,tags:[`software`,`tailwind`],draft:!1},content:`
+`},{group:`blog`,slug:`blog/post-3`,frontmatter:{title:`How to build an Application with modern Technology`,meta_title:``,description:`this is meta description`,date:`2022-04-04T05:00:00.000Z`,image:`/avivaria-website/images/image-placeholder.png`,categories:[`Software`],author:`John Doe`,tags:[`software`,`tailwind`],draft:!1},content:`
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
@@ -34,7 +34,7 @@ Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-`},{group:`blog`,slug:`blog/post-4`,frontmatter:{title:`How to build an Application with modern Technology`,meta_title:``,description:`this is meta description`,date:`2022-04-04T05:00:00.000Z`,image:`/images/image-placeholder.png`,categories:[`Architecture`],author:`John Doe`,tags:[`silicon`,`technology`],draft:!1},content:`
+`},{group:`blog`,slug:`blog/post-4`,frontmatter:{title:`How to build an Application with modern Technology`,meta_title:``,description:`this is meta description`,date:`2022-04-04T05:00:00.000Z`,image:`/avivaria-website/images/image-placeholder.png`,categories:[`Architecture`],author:`John Doe`,tags:[`silicon`,`technology`],draft:!1},content:`
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!

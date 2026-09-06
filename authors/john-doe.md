@@ -5,8 +5,6 @@ description: "this is meta description
 "
 ---
 
-![John Doe](/avivaria-website/_astro/avatar.DeQDKSwT_JCnuv.webp)
-
 # John Doe
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
@@ -14,8 +12,6 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   [github](https://github.com)
 -   [twitter](https://twitter.com)
 -   [linkedin](https://linkedin.com)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-1)
 
@@ -27,8 +23,6 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-1)
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-3)
 
 -   [John Doe](/authors/john-doe)
@@ -38,8 +32,6 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
 
 [read more](/blog/post-3)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 

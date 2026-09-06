@@ -7,8 +7,6 @@ description: "Avivaria homepage
 
 # Software
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-3)
 
 -   [John Doe](/authors/john-doe)

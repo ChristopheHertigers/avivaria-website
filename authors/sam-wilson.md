@@ -5,8 +5,6 @@ description: "this is meta description
 "
 ---
 
-![Sam Wilson](/avivaria-website/_astro/avatar.DeQDKSwT_JCnuv.webp)
-
 # Sam Wilson
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
@@ -14,8 +12,6 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   [github](https://github.com)
 -   [twitter](https://twitter.com)
 -   [linkedin](https://linkedin.com)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 

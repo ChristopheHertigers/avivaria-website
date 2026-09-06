@@ -9,8 +9,6 @@ URL: https://christophehertigers.github.io
 Avivaria homepage
 
 
-![banner](/avivaria-website/_astro/banner.CxE5WGaZ_Z1A7hKO.webp)
-
 # Ledenvergadering: Bespreking duiven
 
 -   28 Sep, 2025
@@ -49,19 +47,19 @@ Bedankt
 
 Wij willen graag al onze sponsors hartelijk bedanken voor jullie steun en vertrouwen. Dankzij jullie bijdrage kunnen wij onze dagelijkse werking ondersteunen.
 
-[![Aveve Hasselt](/avivaria-website/_astro/aveve.EoPYVp4D_Zf1L5h.webp)](https://www.aveve.be/nl/winkels/p090000354-aveve-hasselt)
+[](https://www.aveve.be/nl/winkels/p090000354-aveve-hasselt)
 
-[![Galluvet](/avivaria-website/_astro/galluvet.CS0BfDxF_Z1AuhQX.webp)](https://www.galluvet.be/nl)
+[](https://www.galluvet.be/nl)
 
-[![Horta Kuringen](/avivaria-website/_astro/horta.DpEj8DTk_b9flF.webp)](https://horta.org/stores/Horta-Kuringen)
+[](https://horta.org/stores/Horta-Kuringen)
 
-[![Lambrichts Voeders](/avivaria-website/_astro/lambrichts-voeders.2Jp9w7tL_Z1sXrcp.webp)](https://lambrichts-voeders.be)
+[](https://lambrichts-voeders.be)
 
-[![NS Construct](/avivaria-website/_astro/ns-construct.B3iEe4Gx_ZfWFyv.webp)](https://www.facebook.com/NSConstruct)
+[](https://www.facebook.com/NSConstruct)
 
-[![PRI](/avivaria-website/_astro/pri.BllNcKPZ_zyCw9.webp)](http://www.pri.be/)
+[](http://www.pri.be/)
 
-[![Versele](/avivaria-website/_astro/versele.DbA9sTht_xvzKr.webp)](https://www.versele-laga.com/nl/be)
+[](https://www.versele-laga.com/nl/be)
 
 ---
 
@@ -71,8 +69,6 @@ URL: https://christophehertigers.github.io/about
 
 this is meta description
 
-
-![Hey, I am John Doe!](/avivaria-website/_astro/image-placeholder.DyBpoAJD_kjcM9.webp)
 
 ## Hey, I am John Doe!
 
@@ -99,8 +95,6 @@ Avivaria homepage
 
 # Authors
 
-![John Doe](/avivaria-website/_astro/avatar.DeQDKSwT_ZWCuJO.webp)
-
 #### [John Doe](/authors/john-doe)
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
@@ -109,8 +103,6 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   [twitter](https://twitter.com)
 -   [linkedin](https://linkedin.com)
 
-![Sam Wilson](/avivaria-website/_astro/avatar.DeQDKSwT_ZWCuJO.webp)
-
 #### [Sam Wilson](/authors/sam-wilson)
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
@@ -118,8 +110,6 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   [github](https://github.com)
 -   [twitter](https://twitter.com)
 -   [linkedin](https://linkedin.com)
-
-![William Jacob](/avivaria-website/_astro/avatar.DeQDKSwT_ZWCuJO.webp)
 
 #### [William Jacob](/authors/william-jacob)
 
@@ -138,8 +128,6 @@ URL: https://christophehertigers.github.io/authors/john-doe
 this is meta description
 
 
-![John Doe](/avivaria-website/_astro/avatar.DeQDKSwT_JCnuv.webp)
-
 # John Doe
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
@@ -147,8 +135,6 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   [github](https://github.com)
 -   [twitter](https://twitter.com)
 -   [linkedin](https://linkedin.com)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-1)
 
@@ -160,8 +146,6 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-1)
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-3)
 
 -   [John Doe](/authors/john-doe)
@@ -171,8 +155,6 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
 
 [read more](/blog/post-3)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 
@@ -193,8 +175,6 @@ URL: https://christophehertigers.github.io/authors/sam-wilson
 this is meta description
 
 
-![Sam Wilson](/avivaria-website/_astro/avatar.DeQDKSwT_JCnuv.webp)
-
 # Sam Wilson
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
@@ -202,8 +182,6 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   [github](https://github.com)
 -   [twitter](https://twitter.com)
 -   [linkedin](https://linkedin.com)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -223,8 +201,6 @@ URL: https://christophehertigers.github.io/authors/william-jacob
 
 this is meta description
 
-
-![William Jacob](/avivaria-website/_astro/avatar.DeQDKSwT_JCnuv.webp)
 
 # William Jacob
 
@@ -309,8 +285,6 @@ this is meta description
 
 # Blog Posts
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-1)
 
 -   [John Doe](/authors/john-doe)
@@ -320,8 +294,6 @@ this is meta description
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
 
 [read more](/blog/post-1)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -333,8 +305,6 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-2)
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-3)
 
 -   [John Doe](/authors/john-doe)
@@ -344,8 +314,6 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
 
 [read more](/blog/post-3)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 
@@ -382,8 +350,6 @@ URL: https://christophehertigers.github.io/blog/post-1
 this is meta description
 
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_g7Kl5.webp)
-
 # How to build an Application with modern Technology
 
 -   [John Doe](/authors/john-doe)
@@ -416,8 +382,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 
 ## Related Posts
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-2)
 
 -   [Sam Wilson](/authors/sam-wilson)
@@ -427,8 +391,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
 
 [read more](/blog/post-2)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-3)
 
@@ -448,8 +410,6 @@ URL: https://christophehertigers.github.io/blog/post-2
 
 this is meta description
 
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_g7Kl5.webp)
 
 # How to build an Application with modern Technology
 
@@ -483,8 +443,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 
 ## Related Posts
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-1)
 
 -   [John Doe](/authors/john-doe)
@@ -495,8 +453,6 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-1)
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-3)
 
 -   [John Doe](/authors/john-doe)
@@ -506,8 +462,6 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
 
 [read more](/blog/post-3)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 
@@ -527,8 +481,6 @@ URL: https://christophehertigers.github.io/blog/post-3
 
 this is meta description
 
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_g7Kl5.webp)
 
 # How to build an Application with modern Technology
 
@@ -562,8 +514,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 
 ## Related Posts
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-1)
 
 -   [John Doe](/authors/john-doe)
@@ -573,8 +523,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
 
 [read more](/blog/post-1)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -594,8 +542,6 @@ URL: https://christophehertigers.github.io/blog/post-4
 
 this is meta description
 
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_g7Kl5.webp)
 
 # How to build an Application with modern Technology
 
@@ -628,8 +574,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 -   [](<https://pinterest.com/pin/create/button/?url=https://christophehertigers.github.io/post-4&media=&description=this is meta description>)
 
 ## Related Posts
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -669,8 +613,6 @@ Avivaria homepage
 
 # Application
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-1)
 
 -   [John Doe](/authors/john-doe)
@@ -691,8 +633,6 @@ Avivaria homepage
 
 
 # Architecture
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 
@@ -715,8 +655,6 @@ Avivaria homepage
 
 # Data
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-1)
 
 -   [John Doe](/authors/john-doe)
@@ -726,8 +664,6 @@ Avivaria homepage
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
 
 [read more](/blog/post-1)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -750,8 +686,6 @@ Avivaria homepage
 
 # Software
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-3)
 
 -   [John Doe](/authors/john-doe)
@@ -772,8 +706,6 @@ Avivaria homepage
 
 
 # Technology
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -1069,7 +1001,7 @@ Should you use Negative margin?
 
 ### Image
 
-![image](/images/image-placeholder.png)
+![image](/avivaria-website/images/image-placeholder.png)
 
 * * *
 
@@ -4778,8 +4710,6 @@ Avivaria homepage
 
 # Nextjs
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-1)
 
 -   [John Doe](/authors/john-doe)
@@ -4800,8 +4730,6 @@ Avivaria homepage
 
 
 # Silicon
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 
@@ -4824,8 +4752,6 @@ Avivaria homepage
 
 # Software
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-3)
 
 -   [John Doe](/authors/john-doe)
@@ -4847,8 +4773,6 @@ Avivaria homepage
 
 # Tailwind
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-1)
 
 -   [John Doe](/authors/john-doe)
@@ -4859,8 +4783,6 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-1)
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-2)
 
 -   [Sam Wilson](/authors/sam-wilson)
@@ -4870,8 +4792,6 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
 
 [read more](/blog/post-2)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-3)
 
@@ -4894,8 +4814,6 @@ Avivaria homepage
 
 # Technology
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-2)
 
 -   [Sam Wilson](/authors/sam-wilson)
@@ -4905,8 +4823,6 @@ Avivaria homepage
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
 
 [read more](/blog/post-2)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 

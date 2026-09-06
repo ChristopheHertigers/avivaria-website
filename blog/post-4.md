@@ -5,8 +5,6 @@ description: "this is meta description
 "
 ---
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_g7Kl5.webp)
-
 # How to build an Application with modern Technology
 
 -   [John Doe](/authors/john-doe)
@@ -38,8 +36,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur
 -   [](<https://pinterest.com/pin/create/button/?url=https://christophehertigers.github.io/post-4&media=&description=this is meta description>)
 
 ## Related Posts
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 

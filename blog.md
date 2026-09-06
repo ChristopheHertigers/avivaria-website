@@ -7,8 +7,6 @@ description: "this is meta description
 
 # Blog Posts
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-1)
 
 -   [John Doe](/authors/john-doe)
@@ -18,8 +16,6 @@ description: "this is meta description
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
 
 [read more](/blog/post-1)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-2)
 
@@ -31,8 +27,6 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 [read more](/blog/post-2)
 
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
-
 #### [How to build an Application with modern Technology](/blog/post-3)
 
 -   [John Doe](/authors/john-doe)
@@ -42,8 +36,6 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque bland
 
 [read more](/blog/post-3)
-
-![How to build an Application with modern Technology](/avivaria-website/_astro/image-placeholder.DyBpoAJD_E0fpv.webp)
 
 #### [How to build an Application with modern Technology](/blog/post-4)
 
