@@ -1,31 +1,76 @@
 ---
-import DefaultLayout from '../layouts/DefaultLayout.astro';
+import ImageMod from "@/components/ImageMod.astro";
+import Base from "@/layouts/Base.astro";
+import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import CallToAction from "@/partials/CallToAction.astro";
+import Testimonial from "@/partials/Testimonial.astro";
+import { FaCheck } from "react-icons/fa";
+import Sponsors from "@/partials/Sponsors.astro";
+import {sortByDate} from "@/lib/utils/sortFunctions.ts";
+import Pagination from "@/components/Pagination.astro";
+import NewsPostSingle from "@/layouts/NewsPostSingle.astro";
+import Notice from "@/shortcodes/Notice";
+
+const homepage = await getListPage("homepage", "-index");
+const sponsors = await getListPage("sponsorSection", "sponsor");
+const newsPosts = await getSinglePage("news");
+const sortedPosts = sortByDate(newsPosts);
+const mostRecentNewsPost = sortedPosts[0];
+
+const { banner } = homepage.data;
 ---
 
-<DefaultLayout>
-	<h1>Welkom</h1>
-	<p>Wij verenigen fokkers van verschillende rassen en soorten maar ook de gewone liefhebbers, die aan huis enkele dieren houden als hobby, zijn evenzeer erg welkom in onze vereniging.</p>
-	<p>Onze vrijblijvende <a href="/agenda/te-onthouden-datums.html">activiteiten</a> en diensten voor de leden:</p>
-	<ul>
-		<li>maandelijks een ledenvergadering met voordracht over uiteenlopende thema's i.v.m de dierenliefhebberij.</li>
-		<li>een maandelijks clubblad met allerlei info rond activiteiten, dierbesprekingen, tips, zoekertjes,…</li>
-		<li>advies en hulp bij het uitbroeden, houden, kweken, enten, selecteren,…</li>
-		<li>tijdens het laatste weekend van augustus zijn er jaarlijks <a href="/activiteiten/ruil-en-verkoopdagen.html">ruil- en verkoopdagen</a> aan ons clublokaal. zat 27/08 en zon 28/08</li>
-		<li>bestellen van fokkersboek, fokkerskaart,ringen en tatoeages via onze club.</li>
-		<li>jaarlijks een jongdierendag met advies en keuring van uw dieren door een erkend keurmeester.</li>
-		<li>gezamenlijk vervoer naar tentoonstellingen en andere activiteiten.</li>
-		<li>jaarlijkse tentoonstelling in ons clublokaal tijdens het tweede weekend van november.</li>
-		<li>uitgebreide bibliotheek met tal van boeken en gespecialiseerde tijdschriften.</li>
-		<li>deelname aan verschillende activiteiten met een kennismakingsstand van onze club.</li>
-		<li>in de zomerperiode een gezellige <a href="/activiteiten/barbecue.html">BBQ</a> in ons clublokaal.</li>
-		<li>...</li>
-	</ul>
-	<p>Avivaria is een grote en zeer actieve vereniging die momenteel al meer dan 275 leden telt.</p>
-	<p>
-		Heb jij ook interesse in de dierenliefhebberij, wil je ook wel eens deelnemen aan enkele van onze activiteiten,
-		wil je graag andere dierenliefhebbers en rasfokkers leren kennen om kennis en ervaringen uit te wisselen,
-		neem dan gerust vrijblijvend kontact op met een van de bestuursleden, bezoek onze website of kom gewoon eens
-		langs tijdens de activiteiten in ons clublokaal.
-	</p>
-	<p>Welkom in onze vereniging !</p>
-</DefaultLayout>
+<Base>
+  <!-- Banner -->
+  <section class="section p-0">
+    <div class="container">
+      <div class="row justify-center">
+        {
+          banner.image && (
+            <div class="col-12">
+              <ImageMod
+                src={banner.image}
+                height={380}
+                width={1200}
+                alt="banner"
+                format="webp"
+              />
+            </div>
+          )
+        }
+      </div>
+    </div>
+  </section>
+  <!-- /Banner -->
+
+  <!-- News -->
+  <section class="section pb-0">
+    <div class="container">
+      <div class="row gx-5">
+        <!-- news posts -->
+        <div class="lg:col-12">
+          <div class="row">
+            <NewsPostSingle post={mostRecentNewsPost} />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- /News -->
+
+  <section class="section p-0">
+    <div class="container">
+      <div class="row gx-5">
+        <Notice type="note">
+          <p>Van diverse leden hebben we nog steeds geen e-mailadres.</p>
+          <p>Wegens de hoge portkosten zenden we tijdens de pare maanden aan de leden, via e-mail, een uitgebreide Nieuwskrant (nieuwsbrief).</p>
+          <p>Wil jij deze ontvangen, geef dan je e-mailadres door aan het secretariaat via <a class="" href="mailto:avivaria@skynet.be">avivaria@skynet.be</a></p>
+          <p>Bedankt</p>
+        </Notice>
+      </div>
+    </div>
+  </section>
+
+  <Sponsors sponsor={sponsors} />
+</Base>
