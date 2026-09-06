@@ -7,27 +7,27 @@
       "children": [
         {
           "name": "Over ons",
-          "url": "/over-ons"
+          "url": "/avivaria-website/over-ons"
         },
         {
           "name": "Lidgeld",
-          "url": "/lidgeld"
+          "url": "/avivaria-website/lidgeld"
         },
         {
           "name": "Ringen en oormerken",
-          "url": "/ringen-en-oormerken"
+          "url": "/avivaria-website/ringen-en-oormerken"
         },
         {
           "name": "Ring- en kooimaten",
-          "url": "/ring-en-kooimaten"
+          "url": "/avivaria-website/ring-en-kooimaten"
         },
         {
           "name": "Fokkerskaart",
-          "url": "/fokkerskaart"
+          "url": "/avivaria-website/fokkerskaart"
         },
         {
           "name": "Clublokaal",
-          "url": "/clublokaal"
+          "url": "/avivaria-website/clublokaal"
         }
       ]
     },
@@ -38,11 +38,11 @@
       "children": [
         {
           "name": "Nieuws",
-          "url": "/news"
+          "url": "/avivaria-website/news"
         },
         {
           "name": "Te onthouden datums",
-          "url": "/te-onthouden-datums"
+          "url": "/avivaria-website/te-onthouden-datums"
         }
       ]
     },
@@ -53,19 +53,19 @@
       "children": [
         {
           "name": "Barbecue",
-          "url": "/barbecue"
+          "url": "/avivaria-website/barbecue"
         },
         {
           "name": "Mosselfeest",
-          "url": "/mosselfeest"
+          "url": "/avivaria-website/mosselfeest"
         },
         {
           "name": "Ruil- en verkoopdagen",
-          "url": "/ruil-en-verkoopdagen"
+          "url": "/avivaria-website/ruil-en-verkoopdagen"
         },
         {
           "name": "Tentoonstelling",
-          "url": "/tentoonstelling"
+          "url": "/avivaria-website/tentoonstelling"
         }
       ]
     },
@@ -76,31 +76,31 @@
       "children": [
         {
           "name": "Elements",
-          "url": "/elements"
+          "url": "/avivaria-website/elements"
         },
         {
           "name": "[PAGE] Contact",
-          "url": "/contact"
+          "url": "/avivaria-website/contact"
         },
         {
           "name": "[PAGE] Blog",
-          "url": "/blog"
+          "url": "/avivaria-website/blog"
         },
         {
           "name": "[PAGE] Authors",
-          "url": "/authors"
+          "url": "/avivaria-website/authors"
         },
         {
           "name": "[PAGE] Categories",
-          "url": "/categories"
+          "url": "/avivaria-website/categories"
         },
         {
           "name": "[PAGE] Tags",
-          "url": "/tags"
+          "url": "/avivaria-website/tags"
         },
         {
           "name": "[PAGE] 404 Page",
-          "url": "/404"
+          "url": "/avivaria-website/404"
         }
       ]
     }
