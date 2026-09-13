@@ -68,41 +68,6 @@
           "url": "/avivaria-website/tentoonstelling"
         }
       ]
-    },
-    {
-      "name": "Template",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Elements",
-          "url": "/avivaria-website/elements"
-        },
-        {
-          "name": "[PAGE] Contact",
-          "url": "/avivaria-website/contact"
-        },
-        {
-          "name": "[PAGE] Blog",
-          "url": "/avivaria-website/blog"
-        },
-        {
-          "name": "[PAGE] Authors",
-          "url": "/avivaria-website/authors"
-        },
-        {
-          "name": "[PAGE] Categories",
-          "url": "/avivaria-website/categories"
-        },
-        {
-          "name": "[PAGE] Tags",
-          "url": "/avivaria-website/tags"
-        },
-        {
-          "name": "[PAGE] 404 Page",
-          "url": "/avivaria-website/404"
-        }
-      ]
     }
   ],
   "footer": []
