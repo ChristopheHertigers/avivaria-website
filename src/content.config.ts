@@ -45,20 +45,18 @@ const homepageCollection = defineCollection({
   schema: z.object({
     banner: z.object({
       image: z.string(),
+      alt: z.string(),
+      width: z.number(),
+      height: z.number(),
     }),
-    features: z.array(
-      z.object({
-        title: z.string(),
-        image: z.string(),
-        content: z.string(),
-        bulletpoints: z.array(z.string()),
-        button: z.object({
-          enable: z.boolean(),
-          label: z.string(),
-          link: z.string(),
-        }),
-      }),
-    ),
+    poster: z.object({
+      image: z.string(),
+      alt: z.string(),
+      width: z.number(),
+      height: z.number(),
+    }),
+    callout: z.string(),
+    showLatestNews: z.boolean(),
   }),
 });
 

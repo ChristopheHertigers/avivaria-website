@@ -1,9 +1,6 @@
 
 export default new Map([
-["src/content/news/20250825.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fnews%2F20250825.mdx&astroContentModuleFlag=true")],
-["src/content/news/20250901.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fnews%2F20250901.mdx&astroContentModuleFlag=true")],
-["src/content/news/20250906.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fnews%2F20250906.mdx&astroContentModuleFlag=true")],
-["src/content/news/20250928.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fnews%2F20250928.mdx&astroContentModuleFlag=true")],
+["src/content/news/20260927.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fnews%2F20260927.mdx&astroContentModuleFlag=true")],
 ["src/content/pages/barbecue.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fpages%2Fbarbecue.mdx&astroContentModuleFlag=true")],
 ["src/content/pages/clublokaal.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fpages%2Fclublokaal.mdx&astroContentModuleFlag=true")],
 ["src/content/pages/elements.mdx", () => import("astro:content-layer-deferred-module?astro%3Acontent-layer-deferred-module=&fileName=src%2Fcontent%2Fpages%2Felements.mdx&astroContentModuleFlag=true")],

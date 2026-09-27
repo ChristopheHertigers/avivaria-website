@@ -1,11 +1,12 @@
 ---
 import ImageMod from "@/components/ImageMod.astro";
 import Base from "@/layouts/Base.astro";
-import { getListPage, getSinglePage } from "@/lib/contentParser.astro";
+import {getListPage, getSinglePage} from "@/lib/contentParser.astro";
 import Sponsors from "@/partials/Sponsors.astro";
 import {sortByDate} from "@/lib/utils/sortFunctions.ts";
 import NewsPostSingle from "@/layouts/NewsPostSingle.astro";
 import Notice from "@/shortcodes/Notice";
+import {markdownify} from "@/lib/utils/textConverter.ts";
 
 const homepage = await getListPage("homepage", "-index");
 const sponsors = await getListPage("sponsorSection", "sponsor");
@@ -13,59 +14,95 @@ const newsPosts = await getSinglePage("news");
 const sortedPosts = sortByDate(newsPosts);
 const mostRecentNewsPost = sortedPosts[0];
 
-const { banner } = homepage.data;
+const {banner, callout, showLatestNews, poster} = homepage.data;
 ---
 
 <Base>
-  <!-- Banner -->
-  <section class="section p-0">
-    <div class="container">
-      <div class="row justify-center">
-        {
-          banner.image && (
-            <div class="col-12">
-              <ImageMod
-                src={banner.image}
-                height={380}
-                width={1200}
-                alt="banner"
-                format="webp"
-              />
+    <!-- Banner -->
+    <section class="section p-0">
+        <div class="container">
+            <div class="row justify-center">
+                {
+                    banner.image && (
+                                <ImageMod
+                                        src={banner.image}
+                                        height={banner.height}
+                                        width={banner.width}
+                                        alt={banner.alt}
+                                        format="webp"
+                                />
+                    )
+                }
             </div>
-          )
-        }
-      </div>
-    </div>
-  </section>
-  <!-- /Banner -->
-
-  <!-- News -->
-  <section class="section pb-0">
-    <div class="container">
-      <div class="row gx-5">
-        <!-- news posts -->
-        <div class="lg:col-12">
-          <div class="row">
-            <NewsPostSingle post={mostRecentNewsPost} />
-          </div>
         </div>
-      </div>
-    </div>
-  </section>
-  <!-- /News -->
+    </section>
+    <!-- /Banner -->
 
-  <section class="section p-0">
-    <div class="container">
-      <div class="row gx-5">
-        <Notice type="note">
-          <p>Van diverse leden hebben we nog steeds geen e-mailadres.</p>
-          <p>Wegens de hoge portkosten zenden we tijdens de pare maanden aan de leden, via e-mail, een uitgebreide Nieuwskrant (nieuwsbrief).</p>
-          <p>Wil jij deze ontvangen, geef dan je e-mailadres door aan het secretariaat via <a class="" href="mailto:avivaria@skynet.be">avivaria@skynet.be</a></p>
-          <p>Bedankt</p>
-        </Notice>
-      </div>
-    </div>
-  </section>
+    <!-- Callout -->
+    {callout && (
+            <section class="section pb-0">
+                <div class="container">
+                    <div class="row lg:col-12 lg:px-30 px-5">
+                        <Notice type="info">
+                            <p set:html={markdownify(callout)}></p>
+                        </Notice>
+                    </div>
+                </div>
+            </section>
+    )}
+    <!-- /Callout -->
 
-  <Sponsors sponsor={sponsors} />
+    <!-- News -->
+    {showLatestNews && (
+            <section class="section p-0">
+                <div class="container">
+                    <div class="row gx-5">
+                        <!-- news posts -->
+                        <div class="lg:col-12">
+                            <div class="row">
+                                <NewsPostSingle post={mostRecentNewsPost}/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+    )}
+    <!-- /News -->
+
+    <!-- Poster -->
+    {poster.image && (
+            <section class="section p-0">
+                <div class="container">
+                    <div class="row lg:col-12 lg:px-30 px-5">
+                        <ImageMod
+                                src={poster.image}
+                                height={poster.height}
+                                width={poster.width}
+                                alt={poster.alt}
+                                format="webp"
+                        />
+                    </div>
+                </div>
+            </section>
+    )}
+    <!-- /Poster -->
+
+    <!-- Email callout -->
+    <section class="section p-0">
+        <div class="container">
+            <div class="row lg:col-12 lg:px-30 px-5">
+                <Notice type="note">
+                    <p>Van diverse leden hebben we nog steeds geen e-mailadres.</p>
+                    <p>Wegens de hoge portkosten zenden we tijdens de pare maanden aan de leden, via e-mail, een
+                        uitgebreide Nieuwskrant (nieuwsbrief).</p>
+                    <p>Wil jij deze ontvangen, geef dan je e-mailadres door aan het secretariaat via
+                        <a href="mailto:avivaria@skynet.be">avivaria@skynet.be</a>
+                    </p>
+                    <p>Bedankt</p>
+                </Notice>
+            </div>
+        </div>
+    </section>
+
+    <Sponsors sponsor={sponsors}/>
 </Base>

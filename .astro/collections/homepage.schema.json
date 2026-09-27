@@ -7,60 +7,52 @@
       "properties": {
         "image": {
           "type": "string"
+        },
+        "alt": {
+          "type": "string"
+        },
+        "width": {
+          "type": "number"
+        },
+        "height": {
+          "type": "number"
         }
       },
       "required": [
-        "image"
+        "image",
+        "alt",
+        "width",
+        "height"
       ]
     },
-    "features": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "title": {
-            "type": "string"
-          },
-          "image": {
-            "type": "string"
-          },
-          "content": {
-            "type": "string"
-          },
-          "bulletpoints": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            }
-          },
-          "button": {
-            "type": "object",
-            "properties": {
-              "enable": {
-                "type": "boolean"
-              },
-              "label": {
-                "type": "string"
-              },
-              "link": {
-                "type": "string"
-              }
-            },
-            "required": [
-              "enable",
-              "label",
-              "link"
-            ]
-          }
+    "poster": {
+      "type": "object",
+      "properties": {
+        "image": {
+          "type": "string"
         },
-        "required": [
-          "title",
-          "image",
-          "content",
-          "bulletpoints",
-          "button"
-        ]
-      }
+        "alt": {
+          "type": "string"
+        },
+        "width": {
+          "type": "number"
+        },
+        "height": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "image",
+        "alt",
+        "width",
+        "height"
+      ]
+    },
+    "callout": {
+      "type": "string"
+    },
+    "showLatestNews": {
+      "type": "boolean"
     },
     "$schema": {
       "type": "string"
@@ -68,6 +60,8 @@
   },
   "required": [
     "banner",
-    "features"
+    "poster",
+    "callout",
+    "showLatestNews"
   ]
 }

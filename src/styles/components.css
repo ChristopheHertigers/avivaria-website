@@ -32,7 +32,7 @@
 }
 
 .notice-head {
-  @apply flex items-center;
+  @apply flex py-1;
 }
 
 .notice-head svg {
@@ -51,9 +51,17 @@
   @apply my-0;
 }
 
+.notice-body a {
+  @apply underline;
+}
+
 .notice.note {
   @apply text-[#1B83E2];
   @apply border-current;
+}
+
+.notice.note h1, .notice.note h2, .notice.note h3, .notice.note h4, .notice.note h5 {
+  @apply text-[#1B83E2];
 }
 
 .notice.tip {
@@ -61,14 +69,26 @@
   @apply border-current;
 }
 
+.notice.tip h1, .notice.tip h2, .notice.tip h3, .notice.tip h4, .notice.tip h5 {
+  @apply text-[#40D294];
+}
+
 .notice.info {
   @apply text-[#E3A72C];
   @apply border-current;
 }
 
+.notice.info h1, .notice.info h2, .notice.info h3, .notice.info h4, .notice.info h5 {
+  @apply text-[#E3A72C];
+}
+
 .notice.warning {
   @apply text-[#DB2C23];
   @apply border-current;
+}
+
+.notice.warning h1, .notice.warning h2, .notice.warning h3, .notice.warning h4, .notice.warning h5 {
+  @apply text-[#DB2C23];
 }
 
 /* tab */
