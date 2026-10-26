@@ -1,0 +1,57 @@
+---
+// import NewsCard from "@/components/NewsCard.js";
+// import Pagination from "@/components/Pagination.js";
+// import config from "@/config/config.json";
+import Base from "@/layouts/Base.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import PageHeader from "@/partials/PageHeader.astro";
+import {humanize} from "@/lib/utils/textConverter.ts";
+import {sortByTitle} from "@/lib/utils/sortFunctions.ts";
+
+const BASE_FOLDER = "standaarden";
+
+const filterByCategory = (category: string, array: any[]) => {
+    return array.filter(
+        (a: any) => {console.log(`${a.data.category} == ${category}`); return a.data.category === category},
+    );
+};
+
+const {category} = Astro.params;
+const pages = await getSinglePage(BASE_FOLDER);
+const filteredPages = sortByTitle(filterByCategory(category, pages));
+console.log(filteredPages);
+
+export async function getStaticPaths() {
+    return [
+        { params: { category: "tamme-watervogels" }},
+        { params: { category: "tamme-parkvogels" }},
+    ]
+}
+---
+
+<Base
+  title={`Standaarden: ${category}`}
+  meta_title={`Standaarden: ${category}`}
+>
+  <PageHeader title={`Standaarden: ${humanize(category)}`} />
+  <section class="section">
+    <div class="container">
+      <div class="row gx-5">
+        <!-- news posts -->
+        <div class="lg:col-8">
+          <div class="row">
+            {
+              filteredPages.map((post) => (
+                  <div class="lg:col-10">
+                    <div class="content">
+                      <h4><a href={`/avivaria-website/standaarden/${post.id}`}>{post.data.title}</a></h4>
+                    </div>
+                  </div>
+              ))
+            }
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>

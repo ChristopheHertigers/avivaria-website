@@ -68,6 +68,21 @@
           "url": "/avivaria-website/tentoonstelling"
         }
       ]
+    },
+    {
+      "name": "Standaarden",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Tamme Watervogels",
+          "url": "/avivaria-website/standaarden/tamme-watervogels"
+        },
+        {
+          "name": "Tamme Parkvogels",
+          "url": "/avivaria-website/standaarden/tamme-parkvogels"
+        }
+      ]
     }
   ],
   "footer": []

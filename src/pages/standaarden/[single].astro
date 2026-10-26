@@ -1,0 +1,30 @@
+---
+import Base from "@/layouts/Base.astro";
+import NewsPostSingle from "@/layouts/NewsPostSingle.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import StandaardSingle from "@/layouts/StandaardSingle.astro";
+
+export async function getStaticPaths() {
+  const CONTENT_FOLDER = "standaarden";
+  const pages = await getSinglePage(CONTENT_FOLDER);
+
+  const paths = pages.map((page) => ({
+    params: {
+      single: page.id,
+    },
+    props: { page: page },
+  }));
+  return paths;
+}
+
+const { page } = Astro.props;
+const { title, subtitle, picture, draft } = page.data;
+---
+
+<Base
+  title={title}
+  meta_title={title}
+  image={picture?.image}
+>
+  <StandaardSingle page={page}/>
+</Base>

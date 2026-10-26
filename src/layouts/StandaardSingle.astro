@@ -1,0 +1,46 @@
+---
+import dateFormat from "@/lib/utils/dateFormat";
+import {markdownify} from "@/lib/utils/textConverter";
+import {render} from "astro:content";
+import {FaRegClock} from "react-icons/fa";
+import ImageMod from "./components/ImageMod.astro";
+import StandaardHeader from "@/components/StandaardHeader.astro";
+import StandaardFooter from "@/components/StandaardFooter.astro";
+
+const {page} = Astro.props;
+
+const {Content} = await render(page);
+const {title, subtitle, picture, draft} = page.data;
+---
+
+<section class="section pt-7 pb-0">
+    <div class="container">
+        <div class="row justify-center">
+            <article class="lg:col-10">
+                <StandaardHeader/>
+                <h1 set:html={markdownify(title)} class="h2 mb-4 text-center"/>
+                {subtitle && (
+                        <h5 set:html={markdownify(subtitle)} class="h5 mb-4 text-center"/>
+                )}
+                {
+                    picture && picture.image && (
+                                <div class="mb-10">
+                                    <ImageMod
+                                            src={picture.image}
+                                            height={picture.height}
+                                            width={picture.width}
+                                            alt={picture.alt}
+                                            class="w-full rounded"
+                                            format="webp"
+                                    />
+                                </div>
+                    )
+                }
+                <div class="content mb-10">
+                    <Content/>
+                </div>
+                <StandaardFooter/>
+            </article>
+        </div>
+    </div>
+</section>

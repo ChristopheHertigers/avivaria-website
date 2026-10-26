@@ -60,6 +60,22 @@ const homepageCollection = defineCollection({
   }),
 });
 
+const standardsCollection = defineCollection({
+  loader: glob({ pattern: "**/*.{md,mdx}", base: "src/content/standaarden" }),
+  schema: z.object({
+    title: z.string(),
+    subtitle: z.string().optional(),
+    category: z.enum(["tamme-watervogels", "tamme-parkvogels"]),
+    picture: z.object({
+      image: z.string(),
+      alt: z.string(),
+      width: z.number(),
+      height: z.number(),
+    }).optional(),
+    draft: z.boolean().optional(),
+  }),
+});
+
 // Sponsors Section collection schema
 const sponsorSectionCollection = defineCollection({
   loader: glob({
@@ -89,6 +105,7 @@ export const collections = {
   news: newsCollection,
   pages: pagesCollection,
   contact: contactCollection,
+  standaarden: standardsCollection,
 
   // sections
   sponsorSection: sponsorSectionCollection,
